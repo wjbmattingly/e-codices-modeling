@@ -1,7 +1,7 @@
 # Overview
 **This Repisotory is a Work-in-Progress**
 
-This repository is a work-in-progress for a way to scrape data from E-Codices, vectorize the images with VGG16, and then analyze the results using an application based on the Python library bulk which has been modified to work with images.
+This repository is a work-in-progress for a way to scrape data from E-Codices, vectorize the images with VGG16, and then analyze the results using a Bokeh server application based on the Python library [bulk]("https://github.com/koaning/bulk") which has been modified to work with local images. It also uses some of the code from [DeepImageSearch](https://github.com/TechyNilesh/DeepImageSearch) to vectorize images.
 
 The repository comes with a fully-prepared application with images already vectorized and stored locally. The application is the folder myapp which houses the following file:
 
