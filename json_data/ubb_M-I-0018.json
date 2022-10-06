@@ -1,0 +1,49 @@
+{
+    "breadcrumbData": {
+        "isVirtualManuscript": false,
+        "primaryManuscript": {
+            "collection": {
+                "label": "Basel, Universit\u00e4tsbibliothek",
+                "url": "https://www.e-codices.unifr.ch/en/search/?iCurrentPage=1&sQueryString=&sSearchField=fullText&sSortField=score&aSelectedFacets[collection_facet][]=Basel%2C+Universit%C3%A4tsbibliothek"
+            },
+            "shelfmark": {
+                "label": "M I 18",
+                "url": "https://www.e-codices.unifr.ch/en/list/one/ubb/M-I-0018"
+            },
+            "title": {
+                "label": "List with information about military recruitment"
+            },
+            "page": {
+                "label": "Thumbnails"
+            }
+        }
+    },
+    "canvases": [
+        {
+            "id": "779524",
+            "src": "https://www.e-codices.unifr.ch/loris/ubb/ubb-M-I-0018/ubb-M-I-0018_0001r.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/ubb/M-I-0018/1r",
+            "width": 200.0125156445557,
+            "height": 150,
+            "label": "f. 1r",
+            "active": true
+        },
+        {
+            "id": "779525",
+            "src": "https://www.e-codices.unifr.ch/loris/ubb/ubb-M-I-0018/ubb-M-I-0018_0001v.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/ubb/M-I-0018/1v",
+            "width": 200.0125156445557,
+            "height": 150,
+            "label": "f. 1v"
+        },
+        {
+            "id": "779526",
+            "src": "https://www.e-codices.unifr.ch/loris/ubb/ubb-M-I-0018/ubb-M-I-0018_ProfilS.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/ubb/M-I-0018/bindingProfileS",
+            "width": 200.0125156445557,
+            "height": 150,
+            "label": "QP card on page"
+        }
+    ],
+    "customViewerBackgroundColor": "#000000"
+}

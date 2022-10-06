@@ -1,0 +1,697 @@
+{
+    "breadcrumbData": {
+        "isVirtualManuscript": false,
+        "primaryManuscript": {
+            "collection": {
+                "label": "Aarau, Aargauer Kantonsbibliothek",
+                "url": "https://www.e-codices.unifr.ch/en/search/?iCurrentPage=1&sQueryString=&sSearchField=fullText&sSortField=score&aSelectedFacets[collection_facet][]=Aarau%2C+Aargauer+Kantonsbibliothek"
+            },
+            "shelfmark": {
+                "label": "MsWettQ 6",
+                "url": "https://www.e-codices.unifr.ch/en/list/one/kba/WettQ0006"
+            },
+            "title": {
+                "label": "Pontificale OCist"
+            },
+            "page": {
+                "label": "Thumbnails"
+            }
+        }
+    },
+    "canvases": [
+        {
+            "id": "993337",
+            "src": "https://www.e-codices.unifr.ch/loris/kba/kba-WettQ0006/kba-WettQ0006_e001.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/kba/WettQ0006/bindingA",
+            "width": 112.5,
+            "height": 150,
+            "label": "Front cover",
+            "active": true
+        },
+        {
+            "id": "993338",
+            "src": "https://www.e-codices.unifr.ch/loris/kba/kba-WettQ0006/kba-WettQ0006_e005.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/kba/WettQ0006/bindingE",
+            "width": 112.5,
+            "height": 150,
+            "label": "Front paste-down"
+        },
+        {
+            "id": "993339",
+            "src": "https://www.e-codices.unifr.ch/loris/kba/kba-WettQ0006/kba-WettQ0006_0000_0001r.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/kba/WettQ0006/V1r",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. V1r"
+        },
+        {
+            "id": "993340",
+            "src": "https://www.e-codices.unifr.ch/loris/kba/kba-WettQ0006/kba-WettQ0006_0000_0001v.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/kba/WettQ0006/V1v",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. V1v"
+        },
+        {
+            "id": "993341",
+            "src": "https://www.e-codices.unifr.ch/loris/kba/kba-WettQ0006/kba-WettQ0006_0000_0002r.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/kba/WettQ0006/V2r",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. V2r"
+        },
+        {
+            "id": "993342",
+            "src": "https://www.e-codices.unifr.ch/loris/kba/kba-WettQ0006/kba-WettQ0006_0000_0002v.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/kba/WettQ0006/V2v",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. V2v"
+        },
+        {
+            "id": "993343",
+            "src": "https://www.e-codices.unifr.ch/loris/kba/kba-WettQ0006/kba-WettQ0006_0000_0003r.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/kba/WettQ0006/V3r",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. V3r"
+        },
+        {
+            "id": "993344",
+            "src": "https://www.e-codices.unifr.ch/loris/kba/kba-WettQ0006/kba-WettQ0006_0000_0003v.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/kba/WettQ0006/V3v",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. V3v"
+        },
+        {
+            "id": "993345",
+            "src": "https://www.e-codices.unifr.ch/loris/kba/kba-WettQ0006/kba-WettQ0006_0001r.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/kba/WettQ0006/1r",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 1r"
+        },
+        {
+            "id": "993346",
+            "src": "https://www.e-codices.unifr.ch/loris/kba/kba-WettQ0006/kba-WettQ0006_0001v.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/kba/WettQ0006/1v",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 1v"
+        },
+        {
+            "id": "993347",
+            "src": "https://www.e-codices.unifr.ch/loris/kba/kba-WettQ0006/kba-WettQ0006_0002r.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/kba/WettQ0006/2r",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 2r"
+        },
+        {
+            "id": "993348",
+            "src": "https://www.e-codices.unifr.ch/loris/kba/kba-WettQ0006/kba-WettQ0006_0002v.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/kba/WettQ0006/2v",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 2v"
+        },
+        {
+            "id": "993349",
+            "src": "https://www.e-codices.unifr.ch/loris/kba/kba-WettQ0006/kba-WettQ0006_0003r.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/kba/WettQ0006/3r",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 3r"
+        },
+        {
+            "id": "993350",
+            "src": "https://www.e-codices.unifr.ch/loris/kba/kba-WettQ0006/kba-WettQ0006_0003v.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/kba/WettQ0006/3v",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 3v"
+        },
+        {
+            "id": "993351",
+            "src": "https://www.e-codices.unifr.ch/loris/kba/kba-WettQ0006/kba-WettQ0006_0004r.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/kba/WettQ0006/4r",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 4r"
+        },
+        {
+            "id": "993352",
+            "src": "https://www.e-codices.unifr.ch/loris/kba/kba-WettQ0006/kba-WettQ0006_0004v.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/kba/WettQ0006/4v",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 4v"
+        },
+        {
+            "id": "993353",
+            "src": "https://www.e-codices.unifr.ch/loris/kba/kba-WettQ0006/kba-WettQ0006_0005r.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/kba/WettQ0006/5r",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 5r"
+        },
+        {
+            "id": "993354",
+            "src": "https://www.e-codices.unifr.ch/loris/kba/kba-WettQ0006/kba-WettQ0006_0005v.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/kba/WettQ0006/5v",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 5v"
+        },
+        {
+            "id": "993355",
+            "src": "https://www.e-codices.unifr.ch/loris/kba/kba-WettQ0006/kba-WettQ0006_0006r.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/kba/WettQ0006/6r",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 6r"
+        },
+        {
+            "id": "993356",
+            "src": "https://www.e-codices.unifr.ch/loris/kba/kba-WettQ0006/kba-WettQ0006_0006v.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/kba/WettQ0006/6v",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 6v"
+        },
+        {
+            "id": "993357",
+            "src": "https://www.e-codices.unifr.ch/loris/kba/kba-WettQ0006/kba-WettQ0006_0007r.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/kba/WettQ0006/7r",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 7r"
+        },
+        {
+            "id": "993358",
+            "src": "https://www.e-codices.unifr.ch/loris/kba/kba-WettQ0006/kba-WettQ0006_0007v.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/kba/WettQ0006/7v",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 7v"
+        },
+        {
+            "id": "993359",
+            "src": "https://www.e-codices.unifr.ch/loris/kba/kba-WettQ0006/kba-WettQ0006_0008r.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/kba/WettQ0006/8r",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 8r"
+        },
+        {
+            "id": "993360",
+            "src": "https://www.e-codices.unifr.ch/loris/kba/kba-WettQ0006/kba-WettQ0006_0008v.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/kba/WettQ0006/8v",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 8v"
+        },
+        {
+            "id": "993361",
+            "src": "https://www.e-codices.unifr.ch/loris/kba/kba-WettQ0006/kba-WettQ0006_0009r.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/kba/WettQ0006/9r",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 9r"
+        },
+        {
+            "id": "993362",
+            "src": "https://www.e-codices.unifr.ch/loris/kba/kba-WettQ0006/kba-WettQ0006_0009v.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/kba/WettQ0006/9v",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 9v"
+        },
+        {
+            "id": "993363",
+            "src": "https://www.e-codices.unifr.ch/loris/kba/kba-WettQ0006/kba-WettQ0006_0010r.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/kba/WettQ0006/10r",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 10r"
+        },
+        {
+            "id": "993364",
+            "src": "https://www.e-codices.unifr.ch/loris/kba/kba-WettQ0006/kba-WettQ0006_0010v.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/kba/WettQ0006/10v",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 10v"
+        },
+        {
+            "id": "993365",
+            "src": "https://www.e-codices.unifr.ch/loris/kba/kba-WettQ0006/kba-WettQ0006_0011r.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/kba/WettQ0006/11r",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 11r"
+        },
+        {
+            "id": "993366",
+            "src": "https://www.e-codices.unifr.ch/loris/kba/kba-WettQ0006/kba-WettQ0006_0011v.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/kba/WettQ0006/11v",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 11v"
+        },
+        {
+            "id": "993367",
+            "src": "https://www.e-codices.unifr.ch/loris/kba/kba-WettQ0006/kba-WettQ0006_0012r.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/kba/WettQ0006/12r",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 12r"
+        },
+        {
+            "id": "993368",
+            "src": "https://www.e-codices.unifr.ch/loris/kba/kba-WettQ0006/kba-WettQ0006_0012v.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/kba/WettQ0006/12v",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 12v"
+        },
+        {
+            "id": "993369",
+            "src": "https://www.e-codices.unifr.ch/loris/kba/kba-WettQ0006/kba-WettQ0006_0013r.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/kba/WettQ0006/13r",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 13r"
+        },
+        {
+            "id": "993370",
+            "src": "https://www.e-codices.unifr.ch/loris/kba/kba-WettQ0006/kba-WettQ0006_0013v.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/kba/WettQ0006/13v",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 13v"
+        },
+        {
+            "id": "993371",
+            "src": "https://www.e-codices.unifr.ch/loris/kba/kba-WettQ0006/kba-WettQ0006_0014r.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/kba/WettQ0006/14r",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 14r"
+        },
+        {
+            "id": "993372",
+            "src": "https://www.e-codices.unifr.ch/loris/kba/kba-WettQ0006/kba-WettQ0006_0014v.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/kba/WettQ0006/14v",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 14v"
+        },
+        {
+            "id": "993373",
+            "src": "https://www.e-codices.unifr.ch/loris/kba/kba-WettQ0006/kba-WettQ0006_0015r.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/kba/WettQ0006/15r",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 15r"
+        },
+        {
+            "id": "993374",
+            "src": "https://www.e-codices.unifr.ch/loris/kba/kba-WettQ0006/kba-WettQ0006_0015v.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/kba/WettQ0006/15v",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 15v"
+        },
+        {
+            "id": "993375",
+            "src": "https://www.e-codices.unifr.ch/loris/kba/kba-WettQ0006/kba-WettQ0006_0016r.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/kba/WettQ0006/16r",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 16r"
+        },
+        {
+            "id": "993376",
+            "src": "https://www.e-codices.unifr.ch/loris/kba/kba-WettQ0006/kba-WettQ0006_0016v.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/kba/WettQ0006/16v",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 16v"
+        },
+        {
+            "id": "993377",
+            "src": "https://www.e-codices.unifr.ch/loris/kba/kba-WettQ0006/kba-WettQ0006_0017r.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/kba/WettQ0006/17r",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 17r"
+        },
+        {
+            "id": "993378",
+            "src": "https://www.e-codices.unifr.ch/loris/kba/kba-WettQ0006/kba-WettQ0006_0017v.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/kba/WettQ0006/17v",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 17v"
+        },
+        {
+            "id": "993379",
+            "src": "https://www.e-codices.unifr.ch/loris/kba/kba-WettQ0006/kba-WettQ0006_0018r.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/kba/WettQ0006/18r",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 18r"
+        },
+        {
+            "id": "993380",
+            "src": "https://www.e-codices.unifr.ch/loris/kba/kba-WettQ0006/kba-WettQ0006_0018v.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/kba/WettQ0006/18v",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 18v"
+        },
+        {
+            "id": "993381",
+            "src": "https://www.e-codices.unifr.ch/loris/kba/kba-WettQ0006/kba-WettQ0006_0019r.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/kba/WettQ0006/19r",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 19r"
+        },
+        {
+            "id": "993382",
+            "src": "https://www.e-codices.unifr.ch/loris/kba/kba-WettQ0006/kba-WettQ0006_0019v.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/kba/WettQ0006/19v",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 19v"
+        },
+        {
+            "id": "993383",
+            "src": "https://www.e-codices.unifr.ch/loris/kba/kba-WettQ0006/kba-WettQ0006_0020r.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/kba/WettQ0006/20r",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 20r"
+        },
+        {
+            "id": "993384",
+            "src": "https://www.e-codices.unifr.ch/loris/kba/kba-WettQ0006/kba-WettQ0006_0020v.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/kba/WettQ0006/20v",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 20v"
+        },
+        {
+            "id": "993385",
+            "src": "https://www.e-codices.unifr.ch/loris/kba/kba-WettQ0006/kba-WettQ0006_0021r.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/kba/WettQ0006/21r",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 21r"
+        },
+        {
+            "id": "993386",
+            "src": "https://www.e-codices.unifr.ch/loris/kba/kba-WettQ0006/kba-WettQ0006_0021v.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/kba/WettQ0006/21v",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 21v"
+        },
+        {
+            "id": "993387",
+            "src": "https://www.e-codices.unifr.ch/loris/kba/kba-WettQ0006/kba-WettQ0006_0022r.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/kba/WettQ0006/22r",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 22r"
+        },
+        {
+            "id": "993388",
+            "src": "https://www.e-codices.unifr.ch/loris/kba/kba-WettQ0006/kba-WettQ0006_0022v.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/kba/WettQ0006/22v",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 22v"
+        },
+        {
+            "id": "993389",
+            "src": "https://www.e-codices.unifr.ch/loris/kba/kba-WettQ0006/kba-WettQ0006_0023r.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/kba/WettQ0006/23r",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 23r"
+        },
+        {
+            "id": "993390",
+            "src": "https://www.e-codices.unifr.ch/loris/kba/kba-WettQ0006/kba-WettQ0006_0023v.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/kba/WettQ0006/23v",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 23v"
+        },
+        {
+            "id": "993391",
+            "src": "https://www.e-codices.unifr.ch/loris/kba/kba-WettQ0006/kba-WettQ0006_0024r.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/kba/WettQ0006/24r",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 24r"
+        },
+        {
+            "id": "993392",
+            "src": "https://www.e-codices.unifr.ch/loris/kba/kba-WettQ0006/kba-WettQ0006_0024v.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/kba/WettQ0006/24v",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 24v"
+        },
+        {
+            "id": "993393",
+            "src": "https://www.e-codices.unifr.ch/loris/kba/kba-WettQ0006/kba-WettQ0006_0025r.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/kba/WettQ0006/25r",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 25r"
+        },
+        {
+            "id": "993394",
+            "src": "https://www.e-codices.unifr.ch/loris/kba/kba-WettQ0006/kba-WettQ0006_0025v.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/kba/WettQ0006/25v",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 25v"
+        },
+        {
+            "id": "993395",
+            "src": "https://www.e-codices.unifr.ch/loris/kba/kba-WettQ0006/kba-WettQ0006_0026r.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/kba/WettQ0006/26r",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 26r"
+        },
+        {
+            "id": "993396",
+            "src": "https://www.e-codices.unifr.ch/loris/kba/kba-WettQ0006/kba-WettQ0006_0026v.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/kba/WettQ0006/26v",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 26v"
+        },
+        {
+            "id": "993397",
+            "src": "https://www.e-codices.unifr.ch/loris/kba/kba-WettQ0006/kba-WettQ0006_0027r.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/kba/WettQ0006/27r",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 27r"
+        },
+        {
+            "id": "993398",
+            "src": "https://www.e-codices.unifr.ch/loris/kba/kba-WettQ0006/kba-WettQ0006_0027v.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/kba/WettQ0006/27v",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 27v"
+        },
+        {
+            "id": "993399",
+            "src": "https://www.e-codices.unifr.ch/loris/kba/kba-WettQ0006/kba-WettQ0006_0028r.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/kba/WettQ0006/28r",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 28r"
+        },
+        {
+            "id": "993400",
+            "src": "https://www.e-codices.unifr.ch/loris/kba/kba-WettQ0006/kba-WettQ0006_0028v.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/kba/WettQ0006/28v",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 28v"
+        },
+        {
+            "id": "993401",
+            "src": "https://www.e-codices.unifr.ch/loris/kba/kba-WettQ0006/kba-WettQ0006_9999_0001r.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/kba/WettQ0006/N1r",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. N1r"
+        },
+        {
+            "id": "993402",
+            "src": "https://www.e-codices.unifr.ch/loris/kba/kba-WettQ0006/kba-WettQ0006_9999_0001v.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/kba/WettQ0006/N1v",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. N1v"
+        },
+        {
+            "id": "993403",
+            "src": "https://www.e-codices.unifr.ch/loris/kba/kba-WettQ0006/kba-WettQ0006_9999_0002r.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/kba/WettQ0006/N2r",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. N2r"
+        },
+        {
+            "id": "993404",
+            "src": "https://www.e-codices.unifr.ch/loris/kba/kba-WettQ0006/kba-WettQ0006_9999_0002v.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/kba/WettQ0006/N2v",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. N2v"
+        },
+        {
+            "id": "993405",
+            "src": "https://www.e-codices.unifr.ch/loris/kba/kba-WettQ0006/kba-WettQ0006_9999_0003r.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/kba/WettQ0006/N3r",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. N3r"
+        },
+        {
+            "id": "993406",
+            "src": "https://www.e-codices.unifr.ch/loris/kba/kba-WettQ0006/kba-WettQ0006_9999_0003v.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/kba/WettQ0006/N3v",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. N3v"
+        },
+        {
+            "id": "993407",
+            "src": "https://www.e-codices.unifr.ch/loris/kba/kba-WettQ0006/kba-WettQ0006_e006.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/kba/WettQ0006/bindingF",
+            "width": 112.5,
+            "height": 150,
+            "label": "Rear paste-down"
+        },
+        {
+            "id": "993408",
+            "src": "https://www.e-codices.unifr.ch/loris/kba/kba-WettQ0006/kba-WettQ0006_e003.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/kba/WettQ0006/bindingC",
+            "width": 112.5,
+            "height": 150,
+            "label": "Back cover"
+        },
+        {
+            "id": "993409",
+            "src": "https://www.e-codices.unifr.ch/loris/kba/kba-WettQ0006/kba-WettQ0006_e002.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/kba/WettQ0006/bindingB",
+            "width": 112.5,
+            "height": 150,
+            "label": "Spine"
+        },
+        {
+            "id": "993410",
+            "src": "https://www.e-codices.unifr.ch/loris/kba/kba-WettQ0006/kba-WettQ0006_e004.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/kba/WettQ0006/bindingD",
+            "width": 112.5,
+            "height": 150,
+            "label": "Fore edge"
+        },
+        {
+            "id": "993411",
+            "src": "https://www.e-codices.unifr.ch/loris/kba/kba-WettQ0006/kba-WettQ0006_e007.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/kba/WettQ0006/bindingG",
+            "width": 112.5,
+            "height": 150,
+            "label": "Head"
+        },
+        {
+            "id": "993412",
+            "src": "https://www.e-codices.unifr.ch/loris/kba/kba-WettQ0006/kba-WettQ0006_e008.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/kba/WettQ0006/bindingH",
+            "width": 112.5,
+            "height": 150,
+            "label": "Tail"
+        },
+        {
+            "id": "993413",
+            "src": "https://www.e-codices.unifr.ch/loris/kba/kba-WettQ0006/kba-WettQ0006_e009.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/kba/WettQ0006/bindingI",
+            "width": 200,
+            "height": 150,
+            "label": "View front cover"
+        },
+        {
+            "id": "993414",
+            "src": "https://www.e-codices.unifr.ch/loris/kba/kba-WettQ0006/kba-WettQ0006_e010.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/kba/WettQ0006/bindingJ",
+            "width": 200,
+            "height": 150,
+            "label": "View back cover"
+        },
+        {
+            "id": "993415",
+            "src": "https://www.e-codices.unifr.ch/loris/kba/kba-WettQ0006/kba-WettQ0006_e011.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/kba/WettQ0006/bindingK",
+            "width": 200,
+            "height": 150,
+            "label": "Open view"
+        },
+        {
+            "id": "993416",
+            "src": "https://www.e-codices.unifr.ch/loris/kba/kba-WettQ0006/kba-WettQ0006_MassE.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/kba/WettQ0006/bindingRulerE",
+            "width": 112.5,
+            "height": 150,
+            "label": "Ruler on binding"
+        },
+        {
+            "id": "993417",
+            "src": "https://www.e-codices.unifr.ch/loris/kba/kba-WettQ0006/kba-WettQ0006_MassS.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/kba/WettQ0006/bindingRulerS",
+            "width": 112.5,
+            "height": 150,
+            "label": "Ruler on page"
+        },
+        {
+            "id": "993418",
+            "src": "https://www.e-codices.unifr.ch/loris/kba/kba-WettQ0006/kba-WettQ0006_ProfilE.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/kba/WettQ0006/bindingProfileE",
+            "width": 112.5,
+            "height": 150,
+            "label": "QP card on binding"
+        },
+        {
+            "id": "993419",
+            "src": "https://www.e-codices.unifr.ch/loris/kba/kba-WettQ0006/kba-WettQ0006_ProfilS.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/kba/WettQ0006/bindingProfileS",
+            "width": 112.5,
+            "height": 150,
+            "label": "QP card on page"
+        },
+        {
+            "id": "993420",
+            "src": "https://www.e-codices.unifr.ch/loris/kba/kba-WettQ0006/kba-WettQ0006_ProfilSG.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/kba/WettQ0006/bindingProfileSG",
+            "width": 200,
+            "height": 150,
+            "label": "Digital Colorchecker"
+        }
+    ],
+    "customViewerBackgroundColor": "#000000"
+}

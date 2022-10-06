@@ -1,0 +1,57 @@
+{
+    "breadcrumbData": {
+        "isVirtualManuscript": false,
+        "primaryManuscript": {
+            "collection": {
+                "label": "Basel, Universit\u00e4tsbibliothek",
+                "url": "https://www.e-codices.unifr.ch/en/search/?iCurrentPage=1&sQueryString=&sSearchField=fullText&sSortField=score&aSelectedFacets[collection_facet][]=Basel%2C+Universit%C3%A4tsbibliothek"
+            },
+            "shelfmark": {
+                "label": "N I 6:69",
+                "url": "https://www.e-codices.unifr.ch/en/list/one/ubb/N-I-0006-69"
+            },
+            "title": {
+                "label": "Balbus gromaticus, Expositio et ratio omnium\u2026"
+            },
+            "page": {
+                "label": "Thumbnails"
+            }
+        }
+    },
+    "canvases": [
+        {
+            "id": "536849",
+            "src": "https://www.e-codices.unifr.ch/loris/ubb/ubb-N-I-0006-69/ubb-N-I-0006-69_r.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/ubb/N-I-0006-69/r",
+            "width": 112.49294449670744,
+            "height": 150,
+            "label": "f. r",
+            "active": true
+        },
+        {
+            "id": "536850",
+            "src": "https://www.e-codices.unifr.ch/loris/ubb/ubb-N-I-0006-69/ubb-N-I-0006-69_v.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/ubb/N-I-0006-69/v",
+            "width": 112.49294449670744,
+            "height": 150,
+            "label": "f. v"
+        },
+        {
+            "id": "485516",
+            "src": "https://www.e-codices.unifr.ch/loris/ubb/ubb-N-I-0006-69/ubb-N-I-0006-69_MassS.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/ubb/N-I-0006-69/bindingRulerS",
+            "width": 112.49294449670744,
+            "height": 150,
+            "label": "Ruler on page"
+        },
+        {
+            "id": "485517",
+            "src": "https://www.e-codices.unifr.ch/loris/ubb/ubb-N-I-0006-69/ubb-N-I-0006-69_ProfilS.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/ubb/N-I-0006-69/bindingProfileS",
+            "width": 112.49294449670744,
+            "height": 150,
+            "label": "QP card on page"
+        }
+    ],
+    "customViewerBackgroundColor": "#000000"
+}

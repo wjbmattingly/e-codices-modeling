@@ -1,0 +1,41 @@
+{
+    "breadcrumbData": {
+        "isVirtualManuscript": false,
+        "primaryManuscript": {
+            "collection": {
+                "label": "Basel, Staatsarchiv Basel-Stadt",
+                "url": "https://www.e-codices.unifr.ch/en/search/?iCurrentPage=1&sQueryString=&sSearchField=fullText&sSortField=score&aSelectedFacets[collection_facet][]=Basel%2C+Staatsarchiv+Basel-Stadt"
+            },
+            "shelfmark": {
+                "label": "Fragmente II Klosterarchiv St. Alban DD 1, 1580",
+                "url": "https://www.e-codices.unifr.ch/en/list/one/stabs/StAlban-DD1-1580"
+            },
+            "title": {
+                "label": "Fulda Legendary"
+            },
+            "page": {
+                "label": "Thumbnails"
+            }
+        }
+    },
+    "canvases": [
+        {
+            "id": "901561",
+            "src": "https://www.e-codices.unifr.ch/loris/stabs/stabs-StAlban-DD1-1580/stabs-StAlban-DD1-1580_r.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/stabs/StAlban-DD1-1580/1r",
+            "width": 123.54064954362131,
+            "height": 150,
+            "label": "f. 1r",
+            "active": true
+        },
+        {
+            "id": "901562",
+            "src": "https://www.e-codices.unifr.ch/loris/stabs/stabs-StAlban-DD1-1580/stabs-StAlban-DD1-1580_v.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/stabs/StAlban-DD1-1580/1v",
+            "width": 122.35887732576474,
+            "height": 150,
+            "label": "f. 1v"
+        }
+    ],
+    "customViewerBackgroundColor": "#000000"
+}

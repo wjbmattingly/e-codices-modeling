@@ -1,0 +1,65 @@
+{
+    "breadcrumbData": {
+        "isVirtualManuscript": false,
+        "primaryManuscript": {
+            "collection": {
+                "label": "Basel, Universit\u00e4tsbibliothek",
+                "url": "https://www.e-codices.unifr.ch/en/search/?iCurrentPage=1&sQueryString=&sSearchField=fullText&sSortField=score&aSelectedFacets[collection_facet][]=Basel%2C+Universit%C3%A4tsbibliothek"
+            },
+            "shelfmark": {
+                "label": "N I 1:25",
+                "url": "https://www.e-codices.unifr.ch/en/list/one/ubb/N-I-0001-25"
+            },
+            "title": {
+                "label": "Fulda Legendary"
+            },
+            "page": {
+                "label": "Thumbnails"
+            }
+        }
+    },
+    "canvases": [
+        {
+            "id": "870740",
+            "src": "https://www.e-codices.unifr.ch/loris/ubb/ubb-N-I-0001-25/ubb-N-I-0001-25_0001r.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/ubb/N-I-0001-25/1r",
+            "width": 112.49296039046368,
+            "height": 150,
+            "label": "f. 1r",
+            "active": true
+        },
+        {
+            "id": "870741",
+            "src": "https://www.e-codices.unifr.ch/loris/ubb/ubb-N-I-0001-25/ubb-N-I-0001-25_0001v.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/ubb/N-I-0001-25/1v",
+            "width": 112.49296039046368,
+            "height": 150,
+            "label": "f. 1v"
+        },
+        {
+            "id": "870742",
+            "src": "https://www.e-codices.unifr.ch/loris/ubb/ubb-N-I-0001-25/ubb-N-I-0001-25_MassS.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/ubb/N-I-0001-25/bindingRulerS",
+            "width": 112.49296039046368,
+            "height": 150,
+            "label": "Ruler on page"
+        },
+        {
+            "id": "870743",
+            "src": "https://www.e-codices.unifr.ch/loris/ubb/ubb-N-I-0001-25/ubb-N-I-0001-25_ProfilS.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/ubb/N-I-0001-25/bindingProfileS",
+            "width": 112.49296039046368,
+            "height": 150,
+            "label": "QP card on page"
+        },
+        {
+            "id": "870744",
+            "src": "https://www.e-codices.unifr.ch/loris/ubb/ubb-N-I-0001-25/ubb-N-I-0001-25_ProfilSG.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/ubb/N-I-0001-25/bindingProfileSG",
+            "width": 200.0125156445557,
+            "height": 150,
+            "label": "Digital Colorchecker"
+        }
+    ],
+    "customViewerBackgroundColor": "#000000"
+}

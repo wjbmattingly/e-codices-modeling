@@ -1,0 +1,57 @@
+{
+    "breadcrumbData": {
+        "isVirtualManuscript": false,
+        "primaryManuscript": {
+            "collection": {
+                "label": "Basel, Universit\u00e4tsbibliothek",
+                "url": "https://www.e-codices.unifr.ch/en/search/?iCurrentPage=1&sQueryString=&sSearchField=fullText&sSortField=score&aSelectedFacets[collection_facet][]=Basel%2C+Universit%C3%A4tsbibliothek"
+            },
+            "shelfmark": {
+                "label": "N I 6:14",
+                "url": "https://www.e-codices.unifr.ch/en/list/one/ubb/N-I-0006-14"
+            },
+            "title": {
+                "label": "Isidorus Hispalensis, Expositio in genesim\u2026"
+            },
+            "page": {
+                "label": "Thumbnails"
+            }
+        }
+    },
+    "canvases": [
+        {
+            "id": "536841",
+            "src": "https://www.e-codices.unifr.ch/loris/ubb/ubb-N-I-0006-14/ubb-N-I-0006-14_I.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/ubb/N-I-0006-14/I",
+            "width": 181.04616156547917,
+            "height": 150,
+            "label": "f. I",
+            "active": true
+        },
+        {
+            "id": "536842",
+            "src": "https://www.e-codices.unifr.ch/loris/ubb/ubb-N-I-0006-14/ubb-N-I-0006-14_II.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/ubb/N-I-0006-14/II",
+            "width": 183.75564475664828,
+            "height": 150,
+            "label": "f. II"
+        },
+        {
+            "id": "485520",
+            "src": "https://www.e-codices.unifr.ch/loris/ubb/ubb-N-I-0006-14/ubb-N-I-0006-14_MassS.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/ubb/N-I-0006-14/bindingRulerS",
+            "width": 181.04616156547917,
+            "height": 150,
+            "label": "Ruler on page"
+        },
+        {
+            "id": "485521",
+            "src": "https://www.e-codices.unifr.ch/loris/ubb/ubb-N-I-0006-14/ubb-N-I-0006-14_ProfilS.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/ubb/N-I-0006-14/bindingProfileS",
+            "width": 181.04616156547917,
+            "height": 150,
+            "label": "QP card on page"
+        }
+    ],
+    "customViewerBackgroundColor": "#000000"
+}

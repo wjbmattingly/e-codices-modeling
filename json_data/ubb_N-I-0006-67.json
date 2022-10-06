@@ -1,0 +1,73 @@
+{
+    "breadcrumbData": {
+        "isVirtualManuscript": false,
+        "primaryManuscript": {
+            "collection": {
+                "label": "Basel, Universit\u00e4tsbibliothek",
+                "url": "https://www.e-codices.unifr.ch/en/search/?iCurrentPage=1&sQueryString=&sSearchField=fullText&sSortField=score&aSelectedFacets[collection_facet][]=Basel%2C+Universit%C3%A4tsbibliothek"
+            },
+            "shelfmark": {
+                "label": "N I 6:67",
+                "url": "https://www.e-codices.unifr.ch/en/list/one/ubb/N-I-0006-67"
+            },
+            "title": {
+                "label": "Salvianus, Ad ecclesiam (Fragment)"
+            },
+            "page": {
+                "label": "Thumbnails"
+            }
+        }
+    },
+    "canvases": [
+        {
+            "id": "536845",
+            "src": "https://www.e-codices.unifr.ch/loris/ubb/ubb-N-I-0006-67/ubb-N-I-0006-67_ar.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/ubb/N-I-0006-67/ar",
+            "width": 112.49294449670744,
+            "height": 150,
+            "label": "f. ar",
+            "active": true
+        },
+        {
+            "id": "536846",
+            "src": "https://www.e-codices.unifr.ch/loris/ubb/ubb-N-I-0006-67/ubb-N-I-0006-67_av.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/ubb/N-I-0006-67/av",
+            "width": 112.49294449670744,
+            "height": 150,
+            "label": "f. av"
+        },
+        {
+            "id": "536847",
+            "src": "https://www.e-codices.unifr.ch/loris/ubb/ubb-N-I-0006-67/ubb-N-I-0006-67_br.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/ubb/N-I-0006-67/br",
+            "width": 112.49294449670744,
+            "height": 150,
+            "label": "f. br"
+        },
+        {
+            "id": "536848",
+            "src": "https://www.e-codices.unifr.ch/loris/ubb/ubb-N-I-0006-67/ubb-N-I-0006-67_bv.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/ubb/N-I-0006-67/bv",
+            "width": 112.49294449670744,
+            "height": 150,
+            "label": "f. bv"
+        },
+        {
+            "id": "485512",
+            "src": "https://www.e-codices.unifr.ch/loris/ubb/ubb-N-I-0006-67/ubb-N-I-0006-67_MassS.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/ubb/N-I-0006-67/bindingRulerS",
+            "width": 112.49294449670744,
+            "height": 150,
+            "label": "Ruler on page"
+        },
+        {
+            "id": "485513",
+            "src": "https://www.e-codices.unifr.ch/loris/ubb/ubb-N-I-0006-67/ubb-N-I-0006-67_ProfilS.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/ubb/N-I-0006-67/bindingProfileS",
+            "width": 112.49294449670744,
+            "height": 150,
+            "label": "QP card on page"
+        }
+    ],
+    "customViewerBackgroundColor": "#000000"
+}

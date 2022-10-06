@@ -1,0 +1,57 @@
+{
+    "breadcrumbData": {
+        "isVirtualManuscript": false,
+        "primaryManuscript": {
+            "collection": {
+                "label": "Basel, Universit\u00e4tsbibliothek",
+                "url": "https://www.e-codices.unifr.ch/en/search/?iCurrentPage=1&sQueryString=&sSearchField=fullText&sSortField=score&aSelectedFacets[collection_facet][]=Basel%2C+Universit%C3%A4tsbibliothek"
+            },
+            "shelfmark": {
+                "label": "N I 2:59b",
+                "url": "https://www.e-codices.unifr.ch/en/list/one/ubb/N-I-0002-59b"
+            },
+            "title": {
+                "label": "Fulda Legendary"
+            },
+            "page": {
+                "label": "Thumbnails"
+            }
+        }
+    },
+    "canvases": [
+        {
+            "id": "901571",
+            "src": "https://www.e-codices.unifr.ch/loris/ubb/ubb-N-I-0002-59b/ubb-N-I-0002-59b_0001r.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/ubb/N-I-0002-59b/1r",
+            "width": 254.37956204379563,
+            "height": 150,
+            "label": "f. 1r",
+            "active": true
+        },
+        {
+            "id": "901572",
+            "src": "https://www.e-codices.unifr.ch/loris/ubb/ubb-N-I-0002-59b/ubb-N-I-0002-59b_0001v.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/ubb/N-I-0002-59b/1v",
+            "width": 253.0565693430657,
+            "height": 150,
+            "label": "f. 1v"
+        },
+        {
+            "id": "901573",
+            "src": "https://www.e-codices.unifr.ch/loris/ubb/ubb-N-I-0002-59b/ubb-N-I-0002-59b_MassS.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/ubb/N-I-0002-59b/bindingRulerS",
+            "width": 225,
+            "height": 150,
+            "label": "Ruler on page"
+        },
+        {
+            "id": "901574",
+            "src": "https://www.e-codices.unifr.ch/loris/ubb/ubb-N-I-0002-59b/ubb-N-I-0002-59b_ProfilS.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/ubb/N-I-0002-59b/bindingProfileS",
+            "width": 253.3734939759036,
+            "height": 150,
+            "label": "QP card on page"
+        }
+    ],
+    "customViewerBackgroundColor": "#000000"
+}
