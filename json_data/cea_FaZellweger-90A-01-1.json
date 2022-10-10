@@ -1,0 +1,713 @@
+{
+    "breadcrumbData": {
+        "isVirtualManuscript": false,
+        "primaryManuscript": {
+            "collection": {
+                "label": "Trogen, Kantonsbibliothek Appenzell Ausserrhoden",
+                "url": "https://www.e-codices.unifr.ch/en/search/?iCurrentPage=1&sQueryString=&sSearchField=fullText&sSortField=score&aSelectedFacets[collection_facet][]=Trogen%2C+Kantonsbibliothek+Appenzell+Ausserrhoden"
+            },
+            "shelfmark": {
+                "label": "Fa Zellweger 90/A : 01.1",
+                "url": "https://www.e-codices.unifr.ch/en/list/one/cea/FaZellweger-90A-01-1"
+            },
+            "title": {
+                "label": "Chronicle of the Zellweger family, vol.\u2026"
+            },
+            "page": {
+                "label": "Thumbnails"
+            }
+        }
+    },
+    "canvases": [
+        {
+            "id": "855726",
+            "src": "https://www.e-codices.unifr.ch/loris/cea/cea-FaZellweger-90A-01-1/cea-FaZellweger-90A-01-1_e001.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/cea/FaZellweger-90A-01-1/bindingA",
+            "width": 112.5,
+            "height": 150,
+            "label": "Front cover",
+            "active": true
+        },
+        {
+            "id": "855727",
+            "src": "https://www.e-codices.unifr.ch/loris/cea/cea-FaZellweger-90A-01-1/cea-FaZellweger-90A-01-1_e005.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/cea/FaZellweger-90A-01-1/bindingE",
+            "width": 112.5,
+            "height": 150,
+            "label": "Front paste-down"
+        },
+        {
+            "id": "855728",
+            "src": "https://www.e-codices.unifr.ch/loris/cea/cea-FaZellweger-90A-01-1/cea-FaZellweger-90A-01-1_0000_0001r.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/cea/FaZellweger-90A-01-1/V1r",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. V1r"
+        },
+        {
+            "id": "855729",
+            "src": "https://www.e-codices.unifr.ch/loris/cea/cea-FaZellweger-90A-01-1/cea-FaZellweger-90A-01-1_0000_0001v.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/cea/FaZellweger-90A-01-1/V1v",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. V1v"
+        },
+        {
+            "id": "855730",
+            "src": "https://www.e-codices.unifr.ch/loris/cea/cea-FaZellweger-90A-01-1/cea-FaZellweger-90A-01-1_0000_0002r.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/cea/FaZellweger-90A-01-1/V2r",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. V2r"
+        },
+        {
+            "id": "855731",
+            "src": "https://www.e-codices.unifr.ch/loris/cea/cea-FaZellweger-90A-01-1/cea-FaZellweger-90A-01-1_0000_0002v.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/cea/FaZellweger-90A-01-1/V2v",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. V2v"
+        },
+        {
+            "id": "855732",
+            "src": "https://www.e-codices.unifr.ch/loris/cea/cea-FaZellweger-90A-01-1/cea-FaZellweger-90A-01-1_0001r.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/cea/FaZellweger-90A-01-1/1r",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 1r"
+        },
+        {
+            "id": "855733",
+            "src": "https://www.e-codices.unifr.ch/loris/cea/cea-FaZellweger-90A-01-1/cea-FaZellweger-90A-01-1_0001v.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/cea/FaZellweger-90A-01-1/1v",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 1v"
+        },
+        {
+            "id": "855734",
+            "src": "https://www.e-codices.unifr.ch/loris/cea/cea-FaZellweger-90A-01-1/cea-FaZellweger-90A-01-1_0002r.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/cea/FaZellweger-90A-01-1/2r",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 2r"
+        },
+        {
+            "id": "855735",
+            "src": "https://www.e-codices.unifr.ch/loris/cea/cea-FaZellweger-90A-01-1/cea-FaZellweger-90A-01-1_0002v.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/cea/FaZellweger-90A-01-1/2v",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 2v"
+        },
+        {
+            "id": "855736",
+            "src": "https://www.e-codices.unifr.ch/loris/cea/cea-FaZellweger-90A-01-1/cea-FaZellweger-90A-01-1_0003r.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/cea/FaZellweger-90A-01-1/3r",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 3r"
+        },
+        {
+            "id": "855737",
+            "src": "https://www.e-codices.unifr.ch/loris/cea/cea-FaZellweger-90A-01-1/cea-FaZellweger-90A-01-1_0003v.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/cea/FaZellweger-90A-01-1/3v",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 3v"
+        },
+        {
+            "id": "855738",
+            "src": "https://www.e-codices.unifr.ch/loris/cea/cea-FaZellweger-90A-01-1/cea-FaZellweger-90A-01-1_0004r.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/cea/FaZellweger-90A-01-1/4r",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 4r"
+        },
+        {
+            "id": "855739",
+            "src": "https://www.e-codices.unifr.ch/loris/cea/cea-FaZellweger-90A-01-1/cea-FaZellweger-90A-01-1_0004v.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/cea/FaZellweger-90A-01-1/4v",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 4v"
+        },
+        {
+            "id": "855740",
+            "src": "https://www.e-codices.unifr.ch/loris/cea/cea-FaZellweger-90A-01-1/cea-FaZellweger-90A-01-1_0005r.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/cea/FaZellweger-90A-01-1/5r",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 5r"
+        },
+        {
+            "id": "855741",
+            "src": "https://www.e-codices.unifr.ch/loris/cea/cea-FaZellweger-90A-01-1/cea-FaZellweger-90A-01-1_0005v.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/cea/FaZellweger-90A-01-1/5v",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 5v"
+        },
+        {
+            "id": "855742",
+            "src": "https://www.e-codices.unifr.ch/loris/cea/cea-FaZellweger-90A-01-1/cea-FaZellweger-90A-01-1_0006r.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/cea/FaZellweger-90A-01-1/6r",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 6r"
+        },
+        {
+            "id": "855743",
+            "src": "https://www.e-codices.unifr.ch/loris/cea/cea-FaZellweger-90A-01-1/cea-FaZellweger-90A-01-1_0006v.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/cea/FaZellweger-90A-01-1/6v",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 6v"
+        },
+        {
+            "id": "855744",
+            "src": "https://www.e-codices.unifr.ch/loris/cea/cea-FaZellweger-90A-01-1/cea-FaZellweger-90A-01-1_0007r.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/cea/FaZellweger-90A-01-1/7r",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 7r"
+        },
+        {
+            "id": "855745",
+            "src": "https://www.e-codices.unifr.ch/loris/cea/cea-FaZellweger-90A-01-1/cea-FaZellweger-90A-01-1_0007v.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/cea/FaZellweger-90A-01-1/7v",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 7v"
+        },
+        {
+            "id": "855746",
+            "src": "https://www.e-codices.unifr.ch/loris/cea/cea-FaZellweger-90A-01-1/cea-FaZellweger-90A-01-1_0008r.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/cea/FaZellweger-90A-01-1/8r",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 8r"
+        },
+        {
+            "id": "855747",
+            "src": "https://www.e-codices.unifr.ch/loris/cea/cea-FaZellweger-90A-01-1/cea-FaZellweger-90A-01-1_0008v.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/cea/FaZellweger-90A-01-1/8v",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 8v"
+        },
+        {
+            "id": "855748",
+            "src": "https://www.e-codices.unifr.ch/loris/cea/cea-FaZellweger-90A-01-1/cea-FaZellweger-90A-01-1_0009r.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/cea/FaZellweger-90A-01-1/9r",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 9r"
+        },
+        {
+            "id": "855749",
+            "src": "https://www.e-codices.unifr.ch/loris/cea/cea-FaZellweger-90A-01-1/cea-FaZellweger-90A-01-1_0009v.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/cea/FaZellweger-90A-01-1/9v",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 9v"
+        },
+        {
+            "id": "855750",
+            "src": "https://www.e-codices.unifr.ch/loris/cea/cea-FaZellweger-90A-01-1/cea-FaZellweger-90A-01-1_0010r.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/cea/FaZellweger-90A-01-1/10r",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 10r"
+        },
+        {
+            "id": "855751",
+            "src": "https://www.e-codices.unifr.ch/loris/cea/cea-FaZellweger-90A-01-1/cea-FaZellweger-90A-01-1_0010v.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/cea/FaZellweger-90A-01-1/10v",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 10v"
+        },
+        {
+            "id": "855752",
+            "src": "https://www.e-codices.unifr.ch/loris/cea/cea-FaZellweger-90A-01-1/cea-FaZellweger-90A-01-1_0011r.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/cea/FaZellweger-90A-01-1/11r",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 11r"
+        },
+        {
+            "id": "855753",
+            "src": "https://www.e-codices.unifr.ch/loris/cea/cea-FaZellweger-90A-01-1/cea-FaZellweger-90A-01-1_0011v.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/cea/FaZellweger-90A-01-1/11v",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 11v"
+        },
+        {
+            "id": "855754",
+            "src": "https://www.e-codices.unifr.ch/loris/cea/cea-FaZellweger-90A-01-1/cea-FaZellweger-90A-01-1_0012r.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/cea/FaZellweger-90A-01-1/12r",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 12r"
+        },
+        {
+            "id": "855755",
+            "src": "https://www.e-codices.unifr.ch/loris/cea/cea-FaZellweger-90A-01-1/cea-FaZellweger-90A-01-1_0012v.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/cea/FaZellweger-90A-01-1/12v",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 12v"
+        },
+        {
+            "id": "855756",
+            "src": "https://www.e-codices.unifr.ch/loris/cea/cea-FaZellweger-90A-01-1/cea-FaZellweger-90A-01-1_0013r.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/cea/FaZellweger-90A-01-1/13r",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 13r"
+        },
+        {
+            "id": "855757",
+            "src": "https://www.e-codices.unifr.ch/loris/cea/cea-FaZellweger-90A-01-1/cea-FaZellweger-90A-01-1_0013v.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/cea/FaZellweger-90A-01-1/13v",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 13v"
+        },
+        {
+            "id": "855758",
+            "src": "https://www.e-codices.unifr.ch/loris/cea/cea-FaZellweger-90A-01-1/cea-FaZellweger-90A-01-1_0014r.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/cea/FaZellweger-90A-01-1/14r",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 14r"
+        },
+        {
+            "id": "855759",
+            "src": "https://www.e-codices.unifr.ch/loris/cea/cea-FaZellweger-90A-01-1/cea-FaZellweger-90A-01-1_0014v.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/cea/FaZellweger-90A-01-1/14v",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 14v"
+        },
+        {
+            "id": "855760",
+            "src": "https://www.e-codices.unifr.ch/loris/cea/cea-FaZellweger-90A-01-1/cea-FaZellweger-90A-01-1_0015r.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/cea/FaZellweger-90A-01-1/15r",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 15r"
+        },
+        {
+            "id": "855761",
+            "src": "https://www.e-codices.unifr.ch/loris/cea/cea-FaZellweger-90A-01-1/cea-FaZellweger-90A-01-1_0015v.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/cea/FaZellweger-90A-01-1/15v",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 15v"
+        },
+        {
+            "id": "855762",
+            "src": "https://www.e-codices.unifr.ch/loris/cea/cea-FaZellweger-90A-01-1/cea-FaZellweger-90A-01-1_0016r.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/cea/FaZellweger-90A-01-1/16r",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 16r"
+        },
+        {
+            "id": "855763",
+            "src": "https://www.e-codices.unifr.ch/loris/cea/cea-FaZellweger-90A-01-1/cea-FaZellweger-90A-01-1_0016v.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/cea/FaZellweger-90A-01-1/16v",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 16v"
+        },
+        {
+            "id": "855764",
+            "src": "https://www.e-codices.unifr.ch/loris/cea/cea-FaZellweger-90A-01-1/cea-FaZellweger-90A-01-1_0017r.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/cea/FaZellweger-90A-01-1/17r",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 17r"
+        },
+        {
+            "id": "855765",
+            "src": "https://www.e-codices.unifr.ch/loris/cea/cea-FaZellweger-90A-01-1/cea-FaZellweger-90A-01-1_0017v.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/cea/FaZellweger-90A-01-1/17v",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 17v"
+        },
+        {
+            "id": "855766",
+            "src": "https://www.e-codices.unifr.ch/loris/cea/cea-FaZellweger-90A-01-1/cea-FaZellweger-90A-01-1_0018r.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/cea/FaZellweger-90A-01-1/18r",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 18r"
+        },
+        {
+            "id": "855767",
+            "src": "https://www.e-codices.unifr.ch/loris/cea/cea-FaZellweger-90A-01-1/cea-FaZellweger-90A-01-1_0018v.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/cea/FaZellweger-90A-01-1/18v",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 18v"
+        },
+        {
+            "id": "855768",
+            "src": "https://www.e-codices.unifr.ch/loris/cea/cea-FaZellweger-90A-01-1/cea-FaZellweger-90A-01-1_0019r.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/cea/FaZellweger-90A-01-1/19r",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 19r"
+        },
+        {
+            "id": "855769",
+            "src": "https://www.e-codices.unifr.ch/loris/cea/cea-FaZellweger-90A-01-1/cea-FaZellweger-90A-01-1_0019v.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/cea/FaZellweger-90A-01-1/19v",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 19v"
+        },
+        {
+            "id": "855770",
+            "src": "https://www.e-codices.unifr.ch/loris/cea/cea-FaZellweger-90A-01-1/cea-FaZellweger-90A-01-1_0020r.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/cea/FaZellweger-90A-01-1/20r",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 20r"
+        },
+        {
+            "id": "855771",
+            "src": "https://www.e-codices.unifr.ch/loris/cea/cea-FaZellweger-90A-01-1/cea-FaZellweger-90A-01-1_0020v.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/cea/FaZellweger-90A-01-1/20v",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 20v"
+        },
+        {
+            "id": "855772",
+            "src": "https://www.e-codices.unifr.ch/loris/cea/cea-FaZellweger-90A-01-1/cea-FaZellweger-90A-01-1_0021r.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/cea/FaZellweger-90A-01-1/21r",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 21r"
+        },
+        {
+            "id": "855773",
+            "src": "https://www.e-codices.unifr.ch/loris/cea/cea-FaZellweger-90A-01-1/cea-FaZellweger-90A-01-1_0021v.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/cea/FaZellweger-90A-01-1/21v",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 21v"
+        },
+        {
+            "id": "855774",
+            "src": "https://www.e-codices.unifr.ch/loris/cea/cea-FaZellweger-90A-01-1/cea-FaZellweger-90A-01-1_0022r.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/cea/FaZellweger-90A-01-1/22r",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 22r"
+        },
+        {
+            "id": "855775",
+            "src": "https://www.e-codices.unifr.ch/loris/cea/cea-FaZellweger-90A-01-1/cea-FaZellweger-90A-01-1_0022v.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/cea/FaZellweger-90A-01-1/22v",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 22v"
+        },
+        {
+            "id": "855776",
+            "src": "https://www.e-codices.unifr.ch/loris/cea/cea-FaZellweger-90A-01-1/cea-FaZellweger-90A-01-1_0023r.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/cea/FaZellweger-90A-01-1/23r",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 23r"
+        },
+        {
+            "id": "855777",
+            "src": "https://www.e-codices.unifr.ch/loris/cea/cea-FaZellweger-90A-01-1/cea-FaZellweger-90A-01-1_0023v.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/cea/FaZellweger-90A-01-1/23v",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 23v"
+        },
+        {
+            "id": "855778",
+            "src": "https://www.e-codices.unifr.ch/loris/cea/cea-FaZellweger-90A-01-1/cea-FaZellweger-90A-01-1_0024r.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/cea/FaZellweger-90A-01-1/24r",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 24r"
+        },
+        {
+            "id": "855779",
+            "src": "https://www.e-codices.unifr.ch/loris/cea/cea-FaZellweger-90A-01-1/cea-FaZellweger-90A-01-1_0024v.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/cea/FaZellweger-90A-01-1/24v",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 24v"
+        },
+        {
+            "id": "855780",
+            "src": "https://www.e-codices.unifr.ch/loris/cea/cea-FaZellweger-90A-01-1/cea-FaZellweger-90A-01-1_0025r.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/cea/FaZellweger-90A-01-1/25r",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 25r"
+        },
+        {
+            "id": "855781",
+            "src": "https://www.e-codices.unifr.ch/loris/cea/cea-FaZellweger-90A-01-1/cea-FaZellweger-90A-01-1_0025v.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/cea/FaZellweger-90A-01-1/25v",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 25v"
+        },
+        {
+            "id": "855782",
+            "src": "https://www.e-codices.unifr.ch/loris/cea/cea-FaZellweger-90A-01-1/cea-FaZellweger-90A-01-1_0026r.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/cea/FaZellweger-90A-01-1/26r",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 26r"
+        },
+        {
+            "id": "855783",
+            "src": "https://www.e-codices.unifr.ch/loris/cea/cea-FaZellweger-90A-01-1/cea-FaZellweger-90A-01-1_0026v.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/cea/FaZellweger-90A-01-1/26v",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 26v"
+        },
+        {
+            "id": "855784",
+            "src": "https://www.e-codices.unifr.ch/loris/cea/cea-FaZellweger-90A-01-1/cea-FaZellweger-90A-01-1_0027r.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/cea/FaZellweger-90A-01-1/27r",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 27r"
+        },
+        {
+            "id": "855785",
+            "src": "https://www.e-codices.unifr.ch/loris/cea/cea-FaZellweger-90A-01-1/cea-FaZellweger-90A-01-1_0027v.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/cea/FaZellweger-90A-01-1/27v",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 27v"
+        },
+        {
+            "id": "855786",
+            "src": "https://www.e-codices.unifr.ch/loris/cea/cea-FaZellweger-90A-01-1/cea-FaZellweger-90A-01-1_0028r.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/cea/FaZellweger-90A-01-1/28r",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 28r"
+        },
+        {
+            "id": "855787",
+            "src": "https://www.e-codices.unifr.ch/loris/cea/cea-FaZellweger-90A-01-1/cea-FaZellweger-90A-01-1_0028v.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/cea/FaZellweger-90A-01-1/28v",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 28v"
+        },
+        {
+            "id": "855788",
+            "src": "https://www.e-codices.unifr.ch/loris/cea/cea-FaZellweger-90A-01-1/cea-FaZellweger-90A-01-1_0029r.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/cea/FaZellweger-90A-01-1/29r",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 29r"
+        },
+        {
+            "id": "855789",
+            "src": "https://www.e-codices.unifr.ch/loris/cea/cea-FaZellweger-90A-01-1/cea-FaZellweger-90A-01-1_0029v.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/cea/FaZellweger-90A-01-1/29v",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 29v"
+        },
+        {
+            "id": "855790",
+            "src": "https://www.e-codices.unifr.ch/loris/cea/cea-FaZellweger-90A-01-1/cea-FaZellweger-90A-01-1_0030r.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/cea/FaZellweger-90A-01-1/30r",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 30r"
+        },
+        {
+            "id": "855791",
+            "src": "https://www.e-codices.unifr.ch/loris/cea/cea-FaZellweger-90A-01-1/cea-FaZellweger-90A-01-1_0030v.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/cea/FaZellweger-90A-01-1/30v",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 30v"
+        },
+        {
+            "id": "855792",
+            "src": "https://www.e-codices.unifr.ch/loris/cea/cea-FaZellweger-90A-01-1/cea-FaZellweger-90A-01-1_0031r.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/cea/FaZellweger-90A-01-1/31r",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 31r"
+        },
+        {
+            "id": "855793",
+            "src": "https://www.e-codices.unifr.ch/loris/cea/cea-FaZellweger-90A-01-1/cea-FaZellweger-90A-01-1_0031v.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/cea/FaZellweger-90A-01-1/31v",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 31v"
+        },
+        {
+            "id": "855794",
+            "src": "https://www.e-codices.unifr.ch/loris/cea/cea-FaZellweger-90A-01-1/cea-FaZellweger-90A-01-1_9999_0001r.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/cea/FaZellweger-90A-01-1/N1r",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. N1r"
+        },
+        {
+            "id": "855795",
+            "src": "https://www.e-codices.unifr.ch/loris/cea/cea-FaZellweger-90A-01-1/cea-FaZellweger-90A-01-1_9999_0001v.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/cea/FaZellweger-90A-01-1/N1v",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. N1v"
+        },
+        {
+            "id": "855796",
+            "src": "https://www.e-codices.unifr.ch/loris/cea/cea-FaZellweger-90A-01-1/cea-FaZellweger-90A-01-1_e006.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/cea/FaZellweger-90A-01-1/bindingF",
+            "width": 112.5,
+            "height": 150,
+            "label": "Rear paste-down"
+        },
+        {
+            "id": "855797",
+            "src": "https://www.e-codices.unifr.ch/loris/cea/cea-FaZellweger-90A-01-1/cea-FaZellweger-90A-01-1_e003.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/cea/FaZellweger-90A-01-1/bindingC",
+            "width": 112.5,
+            "height": 150,
+            "label": "Back cover"
+        },
+        {
+            "id": "855798",
+            "src": "https://www.e-codices.unifr.ch/loris/cea/cea-FaZellweger-90A-01-1/cea-FaZellweger-90A-01-1_e002.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/cea/FaZellweger-90A-01-1/bindingB",
+            "width": 112.5,
+            "height": 150,
+            "label": "Spine"
+        },
+        {
+            "id": "855799",
+            "src": "https://www.e-codices.unifr.ch/loris/cea/cea-FaZellweger-90A-01-1/cea-FaZellweger-90A-01-1_e004.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/cea/FaZellweger-90A-01-1/bindingD",
+            "width": 112.5,
+            "height": 150,
+            "label": "Fore edge"
+        },
+        {
+            "id": "855800",
+            "src": "https://www.e-codices.unifr.ch/loris/cea/cea-FaZellweger-90A-01-1/cea-FaZellweger-90A-01-1_e007.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/cea/FaZellweger-90A-01-1/bindingG",
+            "width": 112.5,
+            "height": 150,
+            "label": "Head"
+        },
+        {
+            "id": "855801",
+            "src": "https://www.e-codices.unifr.ch/loris/cea/cea-FaZellweger-90A-01-1/cea-FaZellweger-90A-01-1_e008.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/cea/FaZellweger-90A-01-1/bindingH",
+            "width": 112.5,
+            "height": 150,
+            "label": "Tail"
+        },
+        {
+            "id": "855802",
+            "src": "https://www.e-codices.unifr.ch/loris/cea/cea-FaZellweger-90A-01-1/cea-FaZellweger-90A-01-1_e009.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/cea/FaZellweger-90A-01-1/bindingI",
+            "width": 200,
+            "height": 150,
+            "label": "View front cover"
+        },
+        {
+            "id": "855803",
+            "src": "https://www.e-codices.unifr.ch/loris/cea/cea-FaZellweger-90A-01-1/cea-FaZellweger-90A-01-1_e010.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/cea/FaZellweger-90A-01-1/bindingJ",
+            "width": 200,
+            "height": 150,
+            "label": "View back cover"
+        },
+        {
+            "id": "855804",
+            "src": "https://www.e-codices.unifr.ch/loris/cea/cea-FaZellweger-90A-01-1/cea-FaZellweger-90A-01-1_e011.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/cea/FaZellweger-90A-01-1/bindingK",
+            "width": 200,
+            "height": 150,
+            "label": "Open view"
+        },
+        {
+            "id": "855810",
+            "src": "https://www.e-codices.unifr.ch/loris/cea/cea-FaZellweger-90A-01-1/cea-FaZellweger-90A-01-1_m001r.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/cea/FaZellweger-90A-01-1/material1r",
+            "width": 112.5,
+            "height": 150,
+            "label": "Accompanying materials 1r"
+        },
+        {
+            "id": "855811",
+            "src": "https://www.e-codices.unifr.ch/loris/cea/cea-FaZellweger-90A-01-1/cea-FaZellweger-90A-01-1_m001v.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/cea/FaZellweger-90A-01-1/material1v",
+            "width": 112.5,
+            "height": 150,
+            "label": "Accompanying materials 1v"
+        },
+        {
+            "id": "855805",
+            "src": "https://www.e-codices.unifr.ch/loris/cea/cea-FaZellweger-90A-01-1/cea-FaZellweger-90A-01-1_MassE.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/cea/FaZellweger-90A-01-1/bindingRulerE",
+            "width": 112.5,
+            "height": 150,
+            "label": "Ruler on binding"
+        },
+        {
+            "id": "855806",
+            "src": "https://www.e-codices.unifr.ch/loris/cea/cea-FaZellweger-90A-01-1/cea-FaZellweger-90A-01-1_MassS.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/cea/FaZellweger-90A-01-1/bindingRulerS",
+            "width": 112.5,
+            "height": 150,
+            "label": "Ruler on page"
+        },
+        {
+            "id": "855807",
+            "src": "https://www.e-codices.unifr.ch/loris/cea/cea-FaZellweger-90A-01-1/cea-FaZellweger-90A-01-1_ProfilE.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/cea/FaZellweger-90A-01-1/bindingProfileE",
+            "width": 112.5,
+            "height": 150,
+            "label": "QP card on binding"
+        },
+        {
+            "id": "855808",
+            "src": "https://www.e-codices.unifr.ch/loris/cea/cea-FaZellweger-90A-01-1/cea-FaZellweger-90A-01-1_ProfilS.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/cea/FaZellweger-90A-01-1/bindingProfileS",
+            "width": 112.5,
+            "height": 150,
+            "label": "QP card on page"
+        },
+        {
+            "id": "855809",
+            "src": "https://www.e-codices.unifr.ch/loris/cea/cea-FaZellweger-90A-01-1/cea-FaZellweger-90A-01-1_ProfilSG.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/cea/FaZellweger-90A-01-1/bindingProfileSG",
+            "width": 200,
+            "height": 150,
+            "label": "Digital Colorchecker"
+        }
+    ],
+    "customViewerBackgroundColor": "#000000"
+}

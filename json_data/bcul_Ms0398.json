@@ -1,0 +1,65 @@
+{
+    "breadcrumbData": {
+        "isVirtualManuscript": false,
+        "primaryManuscript": {
+            "collection": {
+                "label": "Lausanne, Biblioth\u00e8que cantonale et universitaire\u2026",
+                "url": "https://www.e-codices.unifr.ch/en/search/?iCurrentPage=1&sQueryString=&sSearchField=fullText&sSortField=score&aSelectedFacets[collection_facet][]=Lausanne%2C+Biblioth%C3%A8que+cantonale+et+universitaire+-+Lausanne"
+            },
+            "shelfmark": {
+                "label": "Ms 398",
+                "url": "https://www.e-codices.unifr.ch/en/list/one/bcul/Ms0398"
+            },
+            "title": {
+                "label": "Iordanes Gothus, De origine actibusque Getarum\u2026"
+            },
+            "page": {
+                "label": "Thumbnails"
+            }
+        }
+    },
+    "canvases": [
+        {
+            "id": "631277",
+            "src": "https://www.e-codices.unifr.ch/loris/bcul/bcul-Ms0398/bcul-Ms0398_001r.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/bcul/Ms0398/1r",
+            "width": 200,
+            "height": 150,
+            "label": "f. 1r",
+            "active": true
+        },
+        {
+            "id": "631278",
+            "src": "https://www.e-codices.unifr.ch/loris/bcul/bcul-Ms0398/bcul-Ms0398_001v.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/bcul/Ms0398/1v",
+            "width": 200,
+            "height": 150,
+            "label": "f. 1v"
+        },
+        {
+            "id": "631279",
+            "src": "https://www.e-codices.unifr.ch/loris/bcul/bcul-Ms0398/bcul-Ms0398_MassS.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/bcul/Ms0398/bindingRulerS",
+            "width": 200,
+            "height": 150,
+            "label": "Ruler on page"
+        },
+        {
+            "id": "631280",
+            "src": "https://www.e-codices.unifr.ch/loris/bcul/bcul-Ms0398/bcul-Ms0398_ProfilS.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/bcul/Ms0398/bindingProfileS",
+            "width": 200,
+            "height": 150,
+            "label": "QP card on page"
+        },
+        {
+            "id": "631281",
+            "src": "https://www.e-codices.unifr.ch/loris/bcul/bcul-Ms0398/bcul-Ms0398_ProfilSG.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/bcul/Ms0398/bindingProfileSG",
+            "width": 200,
+            "height": 150,
+            "label": "Digital Colorchecker"
+        }
+    ],
+    "customViewerBackgroundColor": "#000000"
+}

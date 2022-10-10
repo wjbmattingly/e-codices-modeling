@@ -1,0 +1,49 @@
+{
+    "breadcrumbData": {
+        "isVirtualManuscript": false,
+        "primaryManuscript": {
+            "collection": {
+                "label": "Frauenfeld, Historisches Museum Thurgau",
+                "url": "https://www.e-codices.unifr.ch/en/search/?iCurrentPage=1&sQueryString=&sSearchField=fullText&sSortField=score&aSelectedFacets[collection_facet][]=Frauenfeld%2C+Historisches+Museum+Thurgau"
+            },
+            "shelfmark": {
+                "label": "T 9393",
+                "url": "https://www.e-codices.unifr.ch/en/list/one/hmtg/T09393"
+            },
+            "title": {
+                "label": "Miniature depicting the \u201cAnnunciation\u2026"
+            },
+            "page": {
+                "label": "Thumbnails"
+            }
+        }
+    },
+    "canvases": [
+        {
+            "id": "926192",
+            "src": "https://www.e-codices.unifr.ch/loris/hmtg/hmtg-T09393/hmtg-T09393_a002-recto.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/hmtg/T09393/recto",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. recto",
+            "active": true
+        },
+        {
+            "id": "926193",
+            "src": "https://www.e-codices.unifr.ch/loris/hmtg/hmtg-T09393/hmtg-T09393_a003-verso.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/hmtg/T09393/verso",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. verso"
+        },
+        {
+            "id": "926191",
+            "src": "https://www.e-codices.unifr.ch/loris/hmtg/hmtg-T09393/hmtg-T09393_a001-ProfilS.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/hmtg/T09393/bindingProfileS",
+            "width": 112.5,
+            "height": 150,
+            "label": "QP card on page"
+        }
+    ],
+    "customViewerBackgroundColor": "#000000"
+}

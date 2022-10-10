@@ -1,0 +1,921 @@
+{
+    "breadcrumbData": {
+        "isVirtualManuscript": false,
+        "primaryManuscript": {
+            "collection": {
+                "label": "Disentis, Romanische Bibliothek des Klosters\u2026",
+                "url": "https://www.e-codices.unifr.ch/en/search/?iCurrentPage=1&sQueryString=&sSearchField=fullText&sSortField=score&aSelectedFacets[collection_facet][]=Disentis%2C+Romanische+Bibliothek+des+Klosters+Disentis"
+            },
+            "shelfmark": {
+                "label": "M 138",
+                "url": "https://www.e-codices.unifr.ch/en/list/one/bkd/M0138"
+            },
+            "title": {
+                "label": "Three dramas from the Upper Engadine"
+            },
+            "page": {
+                "label": "Thumbnails"
+            }
+        }
+    },
+    "canvases": [
+        {
+            "id": "814776",
+            "src": "https://www.e-codices.unifr.ch/loris/bkd/bkd-M0138/bkd-M0138_e001.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/bkd/M0138/bindingA",
+            "width": 112.5,
+            "height": 150,
+            "label": "Front cover",
+            "active": true
+        },
+        {
+            "id": "814777",
+            "src": "https://www.e-codices.unifr.ch/loris/bkd/bkd-M0138/bkd-M0138_e005.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/bkd/M0138/bindingE",
+            "width": 112.5,
+            "height": 150,
+            "label": "Front paste-down"
+        },
+        {
+            "id": "814778",
+            "src": "https://www.e-codices.unifr.ch/loris/bkd/bkd-M0138/bkd-M0138_0000_0001r.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/bkd/M0138/V1r",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. V1r"
+        },
+        {
+            "id": "814779",
+            "src": "https://www.e-codices.unifr.ch/loris/bkd/bkd-M0138/bkd-M0138_0000_0001v.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/bkd/M0138/V1v",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. V1v"
+        },
+        {
+            "id": "814780",
+            "src": "https://www.e-codices.unifr.ch/loris/bkd/bkd-M0138/bkd-M0138_0000_0002r.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/bkd/M0138/V2r",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. V2r"
+        },
+        {
+            "id": "814781",
+            "src": "https://www.e-codices.unifr.ch/loris/bkd/bkd-M0138/bkd-M0138_0000_0002v.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/bkd/M0138/V2v",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. V2v"
+        },
+        {
+            "id": "814782",
+            "src": "https://www.e-codices.unifr.ch/loris/bkd/bkd-M0138/bkd-M0138_0001r.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/bkd/M0138/1r",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 1r"
+        },
+        {
+            "id": "814783",
+            "src": "https://www.e-codices.unifr.ch/loris/bkd/bkd-M0138/bkd-M0138_0001v.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/bkd/M0138/1v",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 1v"
+        },
+        {
+            "id": "814784",
+            "src": "https://www.e-codices.unifr.ch/loris/bkd/bkd-M0138/bkd-M0138_0002r.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/bkd/M0138/2r",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 2r"
+        },
+        {
+            "id": "814785",
+            "src": "https://www.e-codices.unifr.ch/loris/bkd/bkd-M0138/bkd-M0138_0002v.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/bkd/M0138/2v",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 2v"
+        },
+        {
+            "id": "814786",
+            "src": "https://www.e-codices.unifr.ch/loris/bkd/bkd-M0138/bkd-M0138_0003r.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/bkd/M0138/3r",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 3r"
+        },
+        {
+            "id": "814787",
+            "src": "https://www.e-codices.unifr.ch/loris/bkd/bkd-M0138/bkd-M0138_0003v.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/bkd/M0138/3v",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 3v"
+        },
+        {
+            "id": "814788",
+            "src": "https://www.e-codices.unifr.ch/loris/bkd/bkd-M0138/bkd-M0138_0004r.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/bkd/M0138/4r",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 4r"
+        },
+        {
+            "id": "814789",
+            "src": "https://www.e-codices.unifr.ch/loris/bkd/bkd-M0138/bkd-M0138_0004v.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/bkd/M0138/4v",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 4v"
+        },
+        {
+            "id": "814790",
+            "src": "https://www.e-codices.unifr.ch/loris/bkd/bkd-M0138/bkd-M0138_0005r.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/bkd/M0138/5r",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 5r"
+        },
+        {
+            "id": "814791",
+            "src": "https://www.e-codices.unifr.ch/loris/bkd/bkd-M0138/bkd-M0138_0005v.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/bkd/M0138/5v",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 5v"
+        },
+        {
+            "id": "814792",
+            "src": "https://www.e-codices.unifr.ch/loris/bkd/bkd-M0138/bkd-M0138_0006r.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/bkd/M0138/6r",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 6r"
+        },
+        {
+            "id": "814793",
+            "src": "https://www.e-codices.unifr.ch/loris/bkd/bkd-M0138/bkd-M0138_0006v.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/bkd/M0138/6v",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 6v"
+        },
+        {
+            "id": "814794",
+            "src": "https://www.e-codices.unifr.ch/loris/bkd/bkd-M0138/bkd-M0138_0007r.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/bkd/M0138/7r",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 7r"
+        },
+        {
+            "id": "814795",
+            "src": "https://www.e-codices.unifr.ch/loris/bkd/bkd-M0138/bkd-M0138_0007v.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/bkd/M0138/7v",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 7v"
+        },
+        {
+            "id": "814796",
+            "src": "https://www.e-codices.unifr.ch/loris/bkd/bkd-M0138/bkd-M0138_0008r.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/bkd/M0138/8r",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 8r"
+        },
+        {
+            "id": "814797",
+            "src": "https://www.e-codices.unifr.ch/loris/bkd/bkd-M0138/bkd-M0138_0008v.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/bkd/M0138/8v",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 8v"
+        },
+        {
+            "id": "814798",
+            "src": "https://www.e-codices.unifr.ch/loris/bkd/bkd-M0138/bkd-M0138_0009r.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/bkd/M0138/9r",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 9r"
+        },
+        {
+            "id": "814799",
+            "src": "https://www.e-codices.unifr.ch/loris/bkd/bkd-M0138/bkd-M0138_0009v.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/bkd/M0138/9v",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 9v"
+        },
+        {
+            "id": "814800",
+            "src": "https://www.e-codices.unifr.ch/loris/bkd/bkd-M0138/bkd-M0138_0010r.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/bkd/M0138/10r",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 10r"
+        },
+        {
+            "id": "814801",
+            "src": "https://www.e-codices.unifr.ch/loris/bkd/bkd-M0138/bkd-M0138_0010v.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/bkd/M0138/10v",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 10v"
+        },
+        {
+            "id": "814802",
+            "src": "https://www.e-codices.unifr.ch/loris/bkd/bkd-M0138/bkd-M0138_0011r.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/bkd/M0138/11r",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 11r"
+        },
+        {
+            "id": "814803",
+            "src": "https://www.e-codices.unifr.ch/loris/bkd/bkd-M0138/bkd-M0138_0011v.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/bkd/M0138/11v",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 11v"
+        },
+        {
+            "id": "814804",
+            "src": "https://www.e-codices.unifr.ch/loris/bkd/bkd-M0138/bkd-M0138_0012r.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/bkd/M0138/12r",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 12r"
+        },
+        {
+            "id": "814805",
+            "src": "https://www.e-codices.unifr.ch/loris/bkd/bkd-M0138/bkd-M0138_0012v.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/bkd/M0138/12v",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 12v"
+        },
+        {
+            "id": "814806",
+            "src": "https://www.e-codices.unifr.ch/loris/bkd/bkd-M0138/bkd-M0138_0013r.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/bkd/M0138/13r",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 13r"
+        },
+        {
+            "id": "814807",
+            "src": "https://www.e-codices.unifr.ch/loris/bkd/bkd-M0138/bkd-M0138_0013v.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/bkd/M0138/13v",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 13v"
+        },
+        {
+            "id": "814808",
+            "src": "https://www.e-codices.unifr.ch/loris/bkd/bkd-M0138/bkd-M0138_0014r.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/bkd/M0138/14r",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 14r"
+        },
+        {
+            "id": "814809",
+            "src": "https://www.e-codices.unifr.ch/loris/bkd/bkd-M0138/bkd-M0138_0014v.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/bkd/M0138/14v",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 14v"
+        },
+        {
+            "id": "814810",
+            "src": "https://www.e-codices.unifr.ch/loris/bkd/bkd-M0138/bkd-M0138_0015r.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/bkd/M0138/15r",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 15r"
+        },
+        {
+            "id": "814811",
+            "src": "https://www.e-codices.unifr.ch/loris/bkd/bkd-M0138/bkd-M0138_0015v.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/bkd/M0138/15v",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 15v"
+        },
+        {
+            "id": "814812",
+            "src": "https://www.e-codices.unifr.ch/loris/bkd/bkd-M0138/bkd-M0138_0016r.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/bkd/M0138/16r",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 16r"
+        },
+        {
+            "id": "814813",
+            "src": "https://www.e-codices.unifr.ch/loris/bkd/bkd-M0138/bkd-M0138_0016v.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/bkd/M0138/16v",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 16v"
+        },
+        {
+            "id": "814814",
+            "src": "https://www.e-codices.unifr.ch/loris/bkd/bkd-M0138/bkd-M0138_0017r.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/bkd/M0138/17r",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 17r"
+        },
+        {
+            "id": "814815",
+            "src": "https://www.e-codices.unifr.ch/loris/bkd/bkd-M0138/bkd-M0138_0017v.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/bkd/M0138/17v",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 17v"
+        },
+        {
+            "id": "814816",
+            "src": "https://www.e-codices.unifr.ch/loris/bkd/bkd-M0138/bkd-M0138_0018r.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/bkd/M0138/18r",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 18r"
+        },
+        {
+            "id": "814817",
+            "src": "https://www.e-codices.unifr.ch/loris/bkd/bkd-M0138/bkd-M0138_0018v.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/bkd/M0138/18v",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 18v"
+        },
+        {
+            "id": "814818",
+            "src": "https://www.e-codices.unifr.ch/loris/bkd/bkd-M0138/bkd-M0138_0019r.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/bkd/M0138/19r",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 19r"
+        },
+        {
+            "id": "814819",
+            "src": "https://www.e-codices.unifr.ch/loris/bkd/bkd-M0138/bkd-M0138_0019v.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/bkd/M0138/19v",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 19v"
+        },
+        {
+            "id": "814820",
+            "src": "https://www.e-codices.unifr.ch/loris/bkd/bkd-M0138/bkd-M0138_0020r.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/bkd/M0138/20r",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 20r"
+        },
+        {
+            "id": "814821",
+            "src": "https://www.e-codices.unifr.ch/loris/bkd/bkd-M0138/bkd-M0138_0020v.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/bkd/M0138/20v",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 20v"
+        },
+        {
+            "id": "814822",
+            "src": "https://www.e-codices.unifr.ch/loris/bkd/bkd-M0138/bkd-M0138_0021r.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/bkd/M0138/21r",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 21r"
+        },
+        {
+            "id": "814823",
+            "src": "https://www.e-codices.unifr.ch/loris/bkd/bkd-M0138/bkd-M0138_0021v.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/bkd/M0138/21v",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 21v"
+        },
+        {
+            "id": "814824",
+            "src": "https://www.e-codices.unifr.ch/loris/bkd/bkd-M0138/bkd-M0138_0022r.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/bkd/M0138/22r",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 22r"
+        },
+        {
+            "id": "814825",
+            "src": "https://www.e-codices.unifr.ch/loris/bkd/bkd-M0138/bkd-M0138_0022v.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/bkd/M0138/22v",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 22v"
+        },
+        {
+            "id": "814826",
+            "src": "https://www.e-codices.unifr.ch/loris/bkd/bkd-M0138/bkd-M0138_0023r.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/bkd/M0138/23r",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 23r"
+        },
+        {
+            "id": "814827",
+            "src": "https://www.e-codices.unifr.ch/loris/bkd/bkd-M0138/bkd-M0138_0023v.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/bkd/M0138/23v",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 23v"
+        },
+        {
+            "id": "814828",
+            "src": "https://www.e-codices.unifr.ch/loris/bkd/bkd-M0138/bkd-M0138_0024r.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/bkd/M0138/24r",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 24r"
+        },
+        {
+            "id": "814829",
+            "src": "https://www.e-codices.unifr.ch/loris/bkd/bkd-M0138/bkd-M0138_0024v.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/bkd/M0138/24v",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 24v"
+        },
+        {
+            "id": "814830",
+            "src": "https://www.e-codices.unifr.ch/loris/bkd/bkd-M0138/bkd-M0138_0025r.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/bkd/M0138/25r",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 25r"
+        },
+        {
+            "id": "814831",
+            "src": "https://www.e-codices.unifr.ch/loris/bkd/bkd-M0138/bkd-M0138_0025v.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/bkd/M0138/25v",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 25v"
+        },
+        {
+            "id": "814832",
+            "src": "https://www.e-codices.unifr.ch/loris/bkd/bkd-M0138/bkd-M0138_0026r.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/bkd/M0138/26r",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 26r"
+        },
+        {
+            "id": "814833",
+            "src": "https://www.e-codices.unifr.ch/loris/bkd/bkd-M0138/bkd-M0138_0026v.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/bkd/M0138/26v",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 26v"
+        },
+        {
+            "id": "814834",
+            "src": "https://www.e-codices.unifr.ch/loris/bkd/bkd-M0138/bkd-M0138_0027r.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/bkd/M0138/27r",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 27r"
+        },
+        {
+            "id": "814835",
+            "src": "https://www.e-codices.unifr.ch/loris/bkd/bkd-M0138/bkd-M0138_0027v.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/bkd/M0138/27v",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 27v"
+        },
+        {
+            "id": "814836",
+            "src": "https://www.e-codices.unifr.ch/loris/bkd/bkd-M0138/bkd-M0138_0028r.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/bkd/M0138/28r",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 28r"
+        },
+        {
+            "id": "814837",
+            "src": "https://www.e-codices.unifr.ch/loris/bkd/bkd-M0138/bkd-M0138_0028v.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/bkd/M0138/28v",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 28v"
+        },
+        {
+            "id": "814838",
+            "src": "https://www.e-codices.unifr.ch/loris/bkd/bkd-M0138/bkd-M0138_0029r.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/bkd/M0138/29r",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 29r"
+        },
+        {
+            "id": "814839",
+            "src": "https://www.e-codices.unifr.ch/loris/bkd/bkd-M0138/bkd-M0138_0029v.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/bkd/M0138/29v",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 29v"
+        },
+        {
+            "id": "814840",
+            "src": "https://www.e-codices.unifr.ch/loris/bkd/bkd-M0138/bkd-M0138_0030r.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/bkd/M0138/30r",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 30r"
+        },
+        {
+            "id": "814841",
+            "src": "https://www.e-codices.unifr.ch/loris/bkd/bkd-M0138/bkd-M0138_0030v.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/bkd/M0138/30v",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 30v"
+        },
+        {
+            "id": "814842",
+            "src": "https://www.e-codices.unifr.ch/loris/bkd/bkd-M0138/bkd-M0138_0031r.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/bkd/M0138/31r",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 31r"
+        },
+        {
+            "id": "814843",
+            "src": "https://www.e-codices.unifr.ch/loris/bkd/bkd-M0138/bkd-M0138_0031v.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/bkd/M0138/31v",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 31v"
+        },
+        {
+            "id": "814844",
+            "src": "https://www.e-codices.unifr.ch/loris/bkd/bkd-M0138/bkd-M0138_0032r.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/bkd/M0138/32r",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 32r"
+        },
+        {
+            "id": "814845",
+            "src": "https://www.e-codices.unifr.ch/loris/bkd/bkd-M0138/bkd-M0138_0032v.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/bkd/M0138/32v",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 32v"
+        },
+        {
+            "id": "814846",
+            "src": "https://www.e-codices.unifr.ch/loris/bkd/bkd-M0138/bkd-M0138_0033r.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/bkd/M0138/33r",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 33r"
+        },
+        {
+            "id": "814847",
+            "src": "https://www.e-codices.unifr.ch/loris/bkd/bkd-M0138/bkd-M0138_0033v.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/bkd/M0138/33v",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 33v"
+        },
+        {
+            "id": "814848",
+            "src": "https://www.e-codices.unifr.ch/loris/bkd/bkd-M0138/bkd-M0138_0034r.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/bkd/M0138/34r",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 34r"
+        },
+        {
+            "id": "814849",
+            "src": "https://www.e-codices.unifr.ch/loris/bkd/bkd-M0138/bkd-M0138_0034v.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/bkd/M0138/34v",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 34v"
+        },
+        {
+            "id": "814850",
+            "src": "https://www.e-codices.unifr.ch/loris/bkd/bkd-M0138/bkd-M0138_0035r.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/bkd/M0138/35r",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 35r"
+        },
+        {
+            "id": "814851",
+            "src": "https://www.e-codices.unifr.ch/loris/bkd/bkd-M0138/bkd-M0138_0035v.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/bkd/M0138/35v",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 35v"
+        },
+        {
+            "id": "814852",
+            "src": "https://www.e-codices.unifr.ch/loris/bkd/bkd-M0138/bkd-M0138_0036r.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/bkd/M0138/36r",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 36r"
+        },
+        {
+            "id": "814853",
+            "src": "https://www.e-codices.unifr.ch/loris/bkd/bkd-M0138/bkd-M0138_0036v.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/bkd/M0138/36v",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 36v"
+        },
+        {
+            "id": "814854",
+            "src": "https://www.e-codices.unifr.ch/loris/bkd/bkd-M0138/bkd-M0138_0037r.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/bkd/M0138/37r",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 37r"
+        },
+        {
+            "id": "814855",
+            "src": "https://www.e-codices.unifr.ch/loris/bkd/bkd-M0138/bkd-M0138_0037v.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/bkd/M0138/37v",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 37v"
+        },
+        {
+            "id": "814856",
+            "src": "https://www.e-codices.unifr.ch/loris/bkd/bkd-M0138/bkd-M0138_0038r.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/bkd/M0138/38r",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 38r"
+        },
+        {
+            "id": "814857",
+            "src": "https://www.e-codices.unifr.ch/loris/bkd/bkd-M0138/bkd-M0138_0038v.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/bkd/M0138/38v",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 38v"
+        },
+        {
+            "id": "814858",
+            "src": "https://www.e-codices.unifr.ch/loris/bkd/bkd-M0138/bkd-M0138_0039r.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/bkd/M0138/39r",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 39r"
+        },
+        {
+            "id": "814859",
+            "src": "https://www.e-codices.unifr.ch/loris/bkd/bkd-M0138/bkd-M0138_0039v.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/bkd/M0138/39v",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 39v"
+        },
+        {
+            "id": "814860",
+            "src": "https://www.e-codices.unifr.ch/loris/bkd/bkd-M0138/bkd-M0138_0040r.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/bkd/M0138/40r",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 40r"
+        },
+        {
+            "id": "814861",
+            "src": "https://www.e-codices.unifr.ch/loris/bkd/bkd-M0138/bkd-M0138_0040v.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/bkd/M0138/40v",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 40v"
+        },
+        {
+            "id": "814862",
+            "src": "https://www.e-codices.unifr.ch/loris/bkd/bkd-M0138/bkd-M0138_0041r.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/bkd/M0138/41r",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 41r"
+        },
+        {
+            "id": "814863",
+            "src": "https://www.e-codices.unifr.ch/loris/bkd/bkd-M0138/bkd-M0138_0041v.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/bkd/M0138/41v",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 41v"
+        },
+        {
+            "id": "814864",
+            "src": "https://www.e-codices.unifr.ch/loris/bkd/bkd-M0138/bkd-M0138_0042r.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/bkd/M0138/42r",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 42r"
+        },
+        {
+            "id": "814865",
+            "src": "https://www.e-codices.unifr.ch/loris/bkd/bkd-M0138/bkd-M0138_0042v.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/bkd/M0138/42v",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 42v"
+        },
+        {
+            "id": "814866",
+            "src": "https://www.e-codices.unifr.ch/loris/bkd/bkd-M0138/bkd-M0138_9999_0001r.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/bkd/M0138/N1r",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. N1r"
+        },
+        {
+            "id": "814867",
+            "src": "https://www.e-codices.unifr.ch/loris/bkd/bkd-M0138/bkd-M0138_9999_0001r-s001.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/bkd/M0138/N1ra",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. N1ra"
+        },
+        {
+            "id": "814870",
+            "src": "https://www.e-codices.unifr.ch/loris/bkd/bkd-M0138/bkd-M0138_9999_0001v-s001.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/bkd/M0138/N1va",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. N1va"
+        },
+        {
+            "id": "814869",
+            "src": "https://www.e-codices.unifr.ch/loris/bkd/bkd-M0138/bkd-M0138_9999_0001v.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/bkd/M0138/N1v",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. N1v"
+        },
+        {
+            "id": "814871",
+            "src": "https://www.e-codices.unifr.ch/loris/bkd/bkd-M0138/bkd-M0138_9999_0002r.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/bkd/M0138/N2r",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. N2r"
+        },
+        {
+            "id": "814872",
+            "src": "https://www.e-codices.unifr.ch/loris/bkd/bkd-M0138/bkd-M0138_9999_0002v.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/bkd/M0138/N2v",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. N2v"
+        },
+        {
+            "id": "814873",
+            "src": "https://www.e-codices.unifr.ch/loris/bkd/bkd-M0138/bkd-M0138_9999_0003r.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/bkd/M0138/N3r",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. N3r"
+        },
+        {
+            "id": "814874",
+            "src": "https://www.e-codices.unifr.ch/loris/bkd/bkd-M0138/bkd-M0138_9999_0003v.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/bkd/M0138/N3v",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. N3v"
+        },
+        {
+            "id": "814875",
+            "src": "https://www.e-codices.unifr.ch/loris/bkd/bkd-M0138/bkd-M0138_e006.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/bkd/M0138/bindingF",
+            "width": 112.5,
+            "height": 150,
+            "label": "Rear paste-down"
+        },
+        {
+            "id": "814876",
+            "src": "https://www.e-codices.unifr.ch/loris/bkd/bkd-M0138/bkd-M0138_e003.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/bkd/M0138/bindingC",
+            "width": 112.5,
+            "height": 150,
+            "label": "Back cover"
+        },
+        {
+            "id": "814877",
+            "src": "https://www.e-codices.unifr.ch/loris/bkd/bkd-M0138/bkd-M0138_e002.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/bkd/M0138/bindingB",
+            "width": 112.5,
+            "height": 150,
+            "label": "Spine"
+        },
+        {
+            "id": "814878",
+            "src": "https://www.e-codices.unifr.ch/loris/bkd/bkd-M0138/bkd-M0138_e004.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/bkd/M0138/bindingD",
+            "width": 112.5,
+            "height": 150,
+            "label": "Fore edge"
+        },
+        {
+            "id": "814879",
+            "src": "https://www.e-codices.unifr.ch/loris/bkd/bkd-M0138/bkd-M0138_e007.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/bkd/M0138/bindingG",
+            "width": 112.5,
+            "height": 150,
+            "label": "Head"
+        },
+        {
+            "id": "814880",
+            "src": "https://www.e-codices.unifr.ch/loris/bkd/bkd-M0138/bkd-M0138_e008.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/bkd/M0138/bindingH",
+            "width": 112.5,
+            "height": 150,
+            "label": "Tail"
+        },
+        {
+            "id": "814881",
+            "src": "https://www.e-codices.unifr.ch/loris/bkd/bkd-M0138/bkd-M0138_e009.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/bkd/M0138/bindingI",
+            "width": 200,
+            "height": 150,
+            "label": "View front cover"
+        },
+        {
+            "id": "814882",
+            "src": "https://www.e-codices.unifr.ch/loris/bkd/bkd-M0138/bkd-M0138_e010.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/bkd/M0138/bindingJ",
+            "width": 200,
+            "height": 150,
+            "label": "View back cover"
+        },
+        {
+            "id": "814883",
+            "src": "https://www.e-codices.unifr.ch/loris/bkd/bkd-M0138/bkd-M0138_e011.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/bkd/M0138/bindingK",
+            "width": 200,
+            "height": 150,
+            "label": "Open view"
+        },
+        {
+            "id": "814884",
+            "src": "https://www.e-codices.unifr.ch/loris/bkd/bkd-M0138/bkd-M0138_MassE.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/bkd/M0138/bindingRulerE",
+            "width": 112.5,
+            "height": 150,
+            "label": "Ruler on binding"
+        },
+        {
+            "id": "814885",
+            "src": "https://www.e-codices.unifr.ch/loris/bkd/bkd-M0138/bkd-M0138_MassS.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/bkd/M0138/bindingRulerS",
+            "width": 112.5,
+            "height": 150,
+            "label": "Ruler on page"
+        },
+        {
+            "id": "814868",
+            "src": "https://www.e-codices.unifr.ch/loris/bkd/bkd-M0138/bkd-M0138_9999_0001r_Mass.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/bkd/M0138/N1ra_Mass",
+            "width": 112.5,
+            "height": 150,
+            "label": "N1ra_Mass"
+        },
+        {
+            "id": "814886",
+            "src": "https://www.e-codices.unifr.ch/loris/bkd/bkd-M0138/bkd-M0138_ProfilE.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/bkd/M0138/bindingProfileE",
+            "width": 112.5,
+            "height": 150,
+            "label": "QP card on binding"
+        },
+        {
+            "id": "814887",
+            "src": "https://www.e-codices.unifr.ch/loris/bkd/bkd-M0138/bkd-M0138_ProfilS.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/bkd/M0138/bindingProfileS",
+            "width": 112.5,
+            "height": 150,
+            "label": "QP card on page"
+        }
+    ],
+    "customViewerBackgroundColor": "#000000"
+}

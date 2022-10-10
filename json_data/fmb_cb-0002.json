@@ -1,0 +1,65 @@
+{
+    "breadcrumbData": {
+        "isVirtualManuscript": false,
+        "primaryManuscript": {
+            "collection": {
+                "label": "Cologny, Fondation Martin Bodmer",
+                "url": "https://www.e-codices.unifr.ch/en/search/?iCurrentPage=1&sQueryString=&sSearchField=fullText&sSortField=score&aSelectedFacets[collection_facet][]=Cologny%2C+Fondation+Martin+Bodmer"
+            },
+            "shelfmark": {
+                "label": "Cod. Bodmer 2",
+                "url": "https://www.e-codices.unifr.ch/en/list/one/fmb/cb-0002"
+            },
+            "title": {
+                "label": "Aelfric, homily for Septuagesima Sunday\u2026"
+            },
+            "page": {
+                "label": "Thumbnails"
+            }
+        }
+    },
+    "canvases": [
+        {
+            "id": "826644",
+            "src": "https://www.e-codices.unifr.ch/loris/fmb/fmb-cb-0002/fmb-cb-0002_001r.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/fmb/cb-0002/1r",
+            "width": 112.47247369708833,
+            "height": 150,
+            "label": "f. 1r",
+            "active": true
+        },
+        {
+            "id": "826645",
+            "src": "https://www.e-codices.unifr.ch/loris/fmb/fmb-cb-0002/fmb-cb-0002_001v.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/fmb/cb-0002/1v",
+            "width": 112.47247369708833,
+            "height": 150,
+            "label": "f. 1v"
+        },
+        {
+            "id": "825759",
+            "src": "https://www.e-codices.unifr.ch/loris/fmb/fmb-cb-0002/fmb-cb-0002_MassS.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/fmb/cb-0002/bindingRulerS",
+            "width": 112.47247369708833,
+            "height": 150,
+            "label": "Ruler on page"
+        },
+        {
+            "id": "825760",
+            "src": "https://www.e-codices.unifr.ch/loris/fmb/fmb-cb-0002/fmb-cb-0002_ProfilS.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/fmb/cb-0002/bindingProfileS",
+            "width": 112.47247369708833,
+            "height": 150,
+            "label": "QP card on page"
+        },
+        {
+            "id": "825761",
+            "src": "https://www.e-codices.unifr.ch/loris/fmb/fmb-cb-0002/fmb-cb-0002_ProfilSG.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/fmb/cb-0002/bindingProfileSG",
+            "width": 200.01631321370309,
+            "height": 150,
+            "label": "Digital Colorchecker"
+        }
+    ],
+    "customViewerBackgroundColor": "#000000"
+}

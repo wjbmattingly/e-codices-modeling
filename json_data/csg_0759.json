@@ -1,0 +1,913 @@
+{
+    "breadcrumbData": {
+        "isVirtualManuscript": false,
+        "primaryManuscript": {
+            "collection": {
+                "label": "St. Gallen, Stiftsbibliothek",
+                "url": "https://www.e-codices.unifr.ch/en/search/?iCurrentPage=1&sQueryString=&sSearchField=fullText&sSortField=score&aSelectedFacets[collection_facet][]=St.+Gallen%2C+Stiftsbibliothek"
+            },
+            "shelfmark": {
+                "label": "Cod. Sang. 759",
+                "url": "https://www.e-codices.unifr.ch/en/list/one/csg/0759"
+            },
+            "title": {
+                "label": "Collection of medical texts"
+            },
+            "page": {
+                "label": "Thumbnails"
+            }
+        }
+    },
+    "canvases": [
+        {
+            "id": "238014",
+            "src": "https://www.e-codices.unifr.ch/loris/csg/csg-0759/csg-0759_e001.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/csg/0759/bindingA",
+            "width": 112.5,
+            "height": 150,
+            "label": "Front cover",
+            "active": true
+        },
+        {
+            "id": "238018",
+            "src": "https://www.e-codices.unifr.ch/loris/csg/csg-0759/csg-0759_e005.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/csg/0759/bindingE",
+            "width": 112.5,
+            "height": 150,
+            "label": "Front paste-down"
+        },
+        {
+            "id": "237916",
+            "src": "https://www.e-codices.unifr.ch/loris/csg/csg-0759/csg-0759_000a.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/csg/0759/V1",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. V1"
+        },
+        {
+            "id": "237917",
+            "src": "https://www.e-codices.unifr.ch/loris/csg/csg-0759/csg-0759_000b.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/csg/0759/V2",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. V2"
+        },
+        {
+            "id": "237918",
+            "src": "https://www.e-codices.unifr.ch/loris/csg/csg-0759/csg-0759_001.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/csg/0759/1",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 1"
+        },
+        {
+            "id": "237919",
+            "src": "https://www.e-codices.unifr.ch/loris/csg/csg-0759/csg-0759_002.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/csg/0759/2",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 2"
+        },
+        {
+            "id": "237920",
+            "src": "https://www.e-codices.unifr.ch/loris/csg/csg-0759/csg-0759_003.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/csg/0759/3",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 3"
+        },
+        {
+            "id": "237921",
+            "src": "https://www.e-codices.unifr.ch/loris/csg/csg-0759/csg-0759_004.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/csg/0759/4",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 4"
+        },
+        {
+            "id": "237922",
+            "src": "https://www.e-codices.unifr.ch/loris/csg/csg-0759/csg-0759_005.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/csg/0759/5",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 5"
+        },
+        {
+            "id": "237923",
+            "src": "https://www.e-codices.unifr.ch/loris/csg/csg-0759/csg-0759_006.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/csg/0759/6",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 6"
+        },
+        {
+            "id": "237924",
+            "src": "https://www.e-codices.unifr.ch/loris/csg/csg-0759/csg-0759_007.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/csg/0759/7",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 7"
+        },
+        {
+            "id": "237925",
+            "src": "https://www.e-codices.unifr.ch/loris/csg/csg-0759/csg-0759_008.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/csg/0759/8",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 8"
+        },
+        {
+            "id": "237926",
+            "src": "https://www.e-codices.unifr.ch/loris/csg/csg-0759/csg-0759_009.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/csg/0759/9",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 9"
+        },
+        {
+            "id": "237927",
+            "src": "https://www.e-codices.unifr.ch/loris/csg/csg-0759/csg-0759_010.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/csg/0759/10",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 10"
+        },
+        {
+            "id": "237928",
+            "src": "https://www.e-codices.unifr.ch/loris/csg/csg-0759/csg-0759_011.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/csg/0759/11",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 11"
+        },
+        {
+            "id": "237929",
+            "src": "https://www.e-codices.unifr.ch/loris/csg/csg-0759/csg-0759_012.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/csg/0759/12",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 12"
+        },
+        {
+            "id": "237930",
+            "src": "https://www.e-codices.unifr.ch/loris/csg/csg-0759/csg-0759_013.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/csg/0759/13",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 13"
+        },
+        {
+            "id": "237931",
+            "src": "https://www.e-codices.unifr.ch/loris/csg/csg-0759/csg-0759_014.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/csg/0759/14",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 14"
+        },
+        {
+            "id": "237932",
+            "src": "https://www.e-codices.unifr.ch/loris/csg/csg-0759/csg-0759_015.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/csg/0759/15",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 15"
+        },
+        {
+            "id": "237933",
+            "src": "https://www.e-codices.unifr.ch/loris/csg/csg-0759/csg-0759_016.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/csg/0759/16",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 16"
+        },
+        {
+            "id": "237934",
+            "src": "https://www.e-codices.unifr.ch/loris/csg/csg-0759/csg-0759_017.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/csg/0759/17",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 17"
+        },
+        {
+            "id": "237935",
+            "src": "https://www.e-codices.unifr.ch/loris/csg/csg-0759/csg-0759_018.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/csg/0759/18",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 18"
+        },
+        {
+            "id": "237936",
+            "src": "https://www.e-codices.unifr.ch/loris/csg/csg-0759/csg-0759_019.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/csg/0759/19",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 19"
+        },
+        {
+            "id": "237937",
+            "src": "https://www.e-codices.unifr.ch/loris/csg/csg-0759/csg-0759_020.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/csg/0759/20",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 20"
+        },
+        {
+            "id": "237938",
+            "src": "https://www.e-codices.unifr.ch/loris/csg/csg-0759/csg-0759_021.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/csg/0759/21",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 21"
+        },
+        {
+            "id": "237939",
+            "src": "https://www.e-codices.unifr.ch/loris/csg/csg-0759/csg-0759_022.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/csg/0759/22",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 22"
+        },
+        {
+            "id": "237940",
+            "src": "https://www.e-codices.unifr.ch/loris/csg/csg-0759/csg-0759_023.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/csg/0759/23",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 23"
+        },
+        {
+            "id": "237941",
+            "src": "https://www.e-codices.unifr.ch/loris/csg/csg-0759/csg-0759_024.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/csg/0759/24",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 24"
+        },
+        {
+            "id": "237942",
+            "src": "https://www.e-codices.unifr.ch/loris/csg/csg-0759/csg-0759_025.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/csg/0759/25",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 25"
+        },
+        {
+            "id": "237943",
+            "src": "https://www.e-codices.unifr.ch/loris/csg/csg-0759/csg-0759_026.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/csg/0759/26",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 26"
+        },
+        {
+            "id": "237944",
+            "src": "https://www.e-codices.unifr.ch/loris/csg/csg-0759/csg-0759_027.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/csg/0759/27",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 27"
+        },
+        {
+            "id": "237945",
+            "src": "https://www.e-codices.unifr.ch/loris/csg/csg-0759/csg-0759_028.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/csg/0759/28",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 28"
+        },
+        {
+            "id": "237946",
+            "src": "https://www.e-codices.unifr.ch/loris/csg/csg-0759/csg-0759_029.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/csg/0759/29",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 29"
+        },
+        {
+            "id": "237947",
+            "src": "https://www.e-codices.unifr.ch/loris/csg/csg-0759/csg-0759_030.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/csg/0759/30",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 30"
+        },
+        {
+            "id": "237948",
+            "src": "https://www.e-codices.unifr.ch/loris/csg/csg-0759/csg-0759_031.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/csg/0759/31",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 31"
+        },
+        {
+            "id": "237949",
+            "src": "https://www.e-codices.unifr.ch/loris/csg/csg-0759/csg-0759_032.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/csg/0759/32",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 32"
+        },
+        {
+            "id": "237950",
+            "src": "https://www.e-codices.unifr.ch/loris/csg/csg-0759/csg-0759_033.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/csg/0759/33",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 33"
+        },
+        {
+            "id": "237951",
+            "src": "https://www.e-codices.unifr.ch/loris/csg/csg-0759/csg-0759_034.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/csg/0759/34",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 34"
+        },
+        {
+            "id": "237952",
+            "src": "https://www.e-codices.unifr.ch/loris/csg/csg-0759/csg-0759_035.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/csg/0759/35",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 35"
+        },
+        {
+            "id": "237953",
+            "src": "https://www.e-codices.unifr.ch/loris/csg/csg-0759/csg-0759_036.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/csg/0759/36",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 36"
+        },
+        {
+            "id": "237954",
+            "src": "https://www.e-codices.unifr.ch/loris/csg/csg-0759/csg-0759_037.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/csg/0759/37",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 37"
+        },
+        {
+            "id": "237955",
+            "src": "https://www.e-codices.unifr.ch/loris/csg/csg-0759/csg-0759_038.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/csg/0759/38",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 38"
+        },
+        {
+            "id": "237956",
+            "src": "https://www.e-codices.unifr.ch/loris/csg/csg-0759/csg-0759_039.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/csg/0759/39",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 39"
+        },
+        {
+            "id": "237957",
+            "src": "https://www.e-codices.unifr.ch/loris/csg/csg-0759/csg-0759_040.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/csg/0759/40",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 40"
+        },
+        {
+            "id": "237958",
+            "src": "https://www.e-codices.unifr.ch/loris/csg/csg-0759/csg-0759_041.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/csg/0759/41",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 41"
+        },
+        {
+            "id": "237959",
+            "src": "https://www.e-codices.unifr.ch/loris/csg/csg-0759/csg-0759_042.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/csg/0759/42",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 42"
+        },
+        {
+            "id": "237960",
+            "src": "https://www.e-codices.unifr.ch/loris/csg/csg-0759/csg-0759_043.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/csg/0759/43",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 43"
+        },
+        {
+            "id": "237961",
+            "src": "https://www.e-codices.unifr.ch/loris/csg/csg-0759/csg-0759_044.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/csg/0759/44",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 44"
+        },
+        {
+            "id": "237962",
+            "src": "https://www.e-codices.unifr.ch/loris/csg/csg-0759/csg-0759_045.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/csg/0759/45",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 45"
+        },
+        {
+            "id": "237963",
+            "src": "https://www.e-codices.unifr.ch/loris/csg/csg-0759/csg-0759_046.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/csg/0759/46",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 46"
+        },
+        {
+            "id": "237964",
+            "src": "https://www.e-codices.unifr.ch/loris/csg/csg-0759/csg-0759_047.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/csg/0759/47",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 47"
+        },
+        {
+            "id": "237965",
+            "src": "https://www.e-codices.unifr.ch/loris/csg/csg-0759/csg-0759_048.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/csg/0759/48",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 48"
+        },
+        {
+            "id": "237966",
+            "src": "https://www.e-codices.unifr.ch/loris/csg/csg-0759/csg-0759_049.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/csg/0759/49",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 49"
+        },
+        {
+            "id": "237967",
+            "src": "https://www.e-codices.unifr.ch/loris/csg/csg-0759/csg-0759_050.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/csg/0759/50",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 50"
+        },
+        {
+            "id": "237968",
+            "src": "https://www.e-codices.unifr.ch/loris/csg/csg-0759/csg-0759_051.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/csg/0759/51",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 51"
+        },
+        {
+            "id": "237969",
+            "src": "https://www.e-codices.unifr.ch/loris/csg/csg-0759/csg-0759_052.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/csg/0759/52",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 52"
+        },
+        {
+            "id": "237970",
+            "src": "https://www.e-codices.unifr.ch/loris/csg/csg-0759/csg-0759_053.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/csg/0759/53",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 53"
+        },
+        {
+            "id": "237971",
+            "src": "https://www.e-codices.unifr.ch/loris/csg/csg-0759/csg-0759_054.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/csg/0759/54",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 54"
+        },
+        {
+            "id": "237972",
+            "src": "https://www.e-codices.unifr.ch/loris/csg/csg-0759/csg-0759_055.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/csg/0759/55",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 55"
+        },
+        {
+            "id": "237973",
+            "src": "https://www.e-codices.unifr.ch/loris/csg/csg-0759/csg-0759_056.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/csg/0759/56",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 56"
+        },
+        {
+            "id": "237974",
+            "src": "https://www.e-codices.unifr.ch/loris/csg/csg-0759/csg-0759_057.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/csg/0759/57",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 57"
+        },
+        {
+            "id": "237975",
+            "src": "https://www.e-codices.unifr.ch/loris/csg/csg-0759/csg-0759_058.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/csg/0759/58",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 58"
+        },
+        {
+            "id": "237976",
+            "src": "https://www.e-codices.unifr.ch/loris/csg/csg-0759/csg-0759_059.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/csg/0759/59",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 59"
+        },
+        {
+            "id": "237977",
+            "src": "https://www.e-codices.unifr.ch/loris/csg/csg-0759/csg-0759_060.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/csg/0759/60",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 60"
+        },
+        {
+            "id": "237978",
+            "src": "https://www.e-codices.unifr.ch/loris/csg/csg-0759/csg-0759_061.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/csg/0759/61",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 61"
+        },
+        {
+            "id": "237979",
+            "src": "https://www.e-codices.unifr.ch/loris/csg/csg-0759/csg-0759_062.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/csg/0759/62",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 62"
+        },
+        {
+            "id": "237980",
+            "src": "https://www.e-codices.unifr.ch/loris/csg/csg-0759/csg-0759_063.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/csg/0759/63",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 63"
+        },
+        {
+            "id": "237981",
+            "src": "https://www.e-codices.unifr.ch/loris/csg/csg-0759/csg-0759_064.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/csg/0759/64",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 64"
+        },
+        {
+            "id": "237982",
+            "src": "https://www.e-codices.unifr.ch/loris/csg/csg-0759/csg-0759_065.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/csg/0759/65",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 65"
+        },
+        {
+            "id": "237983",
+            "src": "https://www.e-codices.unifr.ch/loris/csg/csg-0759/csg-0759_066.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/csg/0759/66",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 66"
+        },
+        {
+            "id": "237984",
+            "src": "https://www.e-codices.unifr.ch/loris/csg/csg-0759/csg-0759_067.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/csg/0759/67",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 67"
+        },
+        {
+            "id": "237985",
+            "src": "https://www.e-codices.unifr.ch/loris/csg/csg-0759/csg-0759_068.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/csg/0759/68",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 68"
+        },
+        {
+            "id": "237986",
+            "src": "https://www.e-codices.unifr.ch/loris/csg/csg-0759/csg-0759_069.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/csg/0759/69",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 69"
+        },
+        {
+            "id": "237987",
+            "src": "https://www.e-codices.unifr.ch/loris/csg/csg-0759/csg-0759_070.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/csg/0759/70",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 70"
+        },
+        {
+            "id": "237988",
+            "src": "https://www.e-codices.unifr.ch/loris/csg/csg-0759/csg-0759_071.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/csg/0759/71",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 71"
+        },
+        {
+            "id": "237989",
+            "src": "https://www.e-codices.unifr.ch/loris/csg/csg-0759/csg-0759_072.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/csg/0759/72",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 72"
+        },
+        {
+            "id": "237990",
+            "src": "https://www.e-codices.unifr.ch/loris/csg/csg-0759/csg-0759_073.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/csg/0759/73",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 73"
+        },
+        {
+            "id": "237991",
+            "src": "https://www.e-codices.unifr.ch/loris/csg/csg-0759/csg-0759_074.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/csg/0759/74",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 74"
+        },
+        {
+            "id": "237992",
+            "src": "https://www.e-codices.unifr.ch/loris/csg/csg-0759/csg-0759_075.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/csg/0759/75",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 75"
+        },
+        {
+            "id": "237993",
+            "src": "https://www.e-codices.unifr.ch/loris/csg/csg-0759/csg-0759_076.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/csg/0759/76",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 76"
+        },
+        {
+            "id": "237994",
+            "src": "https://www.e-codices.unifr.ch/loris/csg/csg-0759/csg-0759_077.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/csg/0759/77",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 77"
+        },
+        {
+            "id": "237995",
+            "src": "https://www.e-codices.unifr.ch/loris/csg/csg-0759/csg-0759_078.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/csg/0759/78",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 78"
+        },
+        {
+            "id": "237996",
+            "src": "https://www.e-codices.unifr.ch/loris/csg/csg-0759/csg-0759_079.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/csg/0759/79",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 79"
+        },
+        {
+            "id": "237997",
+            "src": "https://www.e-codices.unifr.ch/loris/csg/csg-0759/csg-0759_080.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/csg/0759/80",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 80"
+        },
+        {
+            "id": "237998",
+            "src": "https://www.e-codices.unifr.ch/loris/csg/csg-0759/csg-0759_081.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/csg/0759/81",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 81"
+        },
+        {
+            "id": "237999",
+            "src": "https://www.e-codices.unifr.ch/loris/csg/csg-0759/csg-0759_082.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/csg/0759/82",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 82"
+        },
+        {
+            "id": "238000",
+            "src": "https://www.e-codices.unifr.ch/loris/csg/csg-0759/csg-0759_083.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/csg/0759/83",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 83"
+        },
+        {
+            "id": "238001",
+            "src": "https://www.e-codices.unifr.ch/loris/csg/csg-0759/csg-0759_084.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/csg/0759/84",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 84"
+        },
+        {
+            "id": "238002",
+            "src": "https://www.e-codices.unifr.ch/loris/csg/csg-0759/csg-0759_085.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/csg/0759/85",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 85"
+        },
+        {
+            "id": "238003",
+            "src": "https://www.e-codices.unifr.ch/loris/csg/csg-0759/csg-0759_086.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/csg/0759/86",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 86"
+        },
+        {
+            "id": "238004",
+            "src": "https://www.e-codices.unifr.ch/loris/csg/csg-0759/csg-0759_087.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/csg/0759/87",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 87"
+        },
+        {
+            "id": "238005",
+            "src": "https://www.e-codices.unifr.ch/loris/csg/csg-0759/csg-0759_088.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/csg/0759/88",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 88"
+        },
+        {
+            "id": "238006",
+            "src": "https://www.e-codices.unifr.ch/loris/csg/csg-0759/csg-0759_089.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/csg/0759/89",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 89"
+        },
+        {
+            "id": "238007",
+            "src": "https://www.e-codices.unifr.ch/loris/csg/csg-0759/csg-0759_090.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/csg/0759/90",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 90"
+        },
+        {
+            "id": "238008",
+            "src": "https://www.e-codices.unifr.ch/loris/csg/csg-0759/csg-0759_091.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/csg/0759/91",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 91"
+        },
+        {
+            "id": "238009",
+            "src": "https://www.e-codices.unifr.ch/loris/csg/csg-0759/csg-0759_092.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/csg/0759/92",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 92"
+        },
+        {
+            "id": "238010",
+            "src": "https://www.e-codices.unifr.ch/loris/csg/csg-0759/csg-0759_093.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/csg/0759/93",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 93"
+        },
+        {
+            "id": "238011",
+            "src": "https://www.e-codices.unifr.ch/loris/csg/csg-0759/csg-0759_094.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/csg/0759/94",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 94"
+        },
+        {
+            "id": "238012",
+            "src": "https://www.e-codices.unifr.ch/loris/csg/csg-0759/csg-0759_999a.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/csg/0759/N1",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. N1"
+        },
+        {
+            "id": "238013",
+            "src": "https://www.e-codices.unifr.ch/loris/csg/csg-0759/csg-0759_999b.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/csg/0759/N2",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. N2"
+        },
+        {
+            "id": "238019",
+            "src": "https://www.e-codices.unifr.ch/loris/csg/csg-0759/csg-0759_e006.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/csg/0759/bindingF",
+            "width": 112.5,
+            "height": 150,
+            "label": "Rear paste-down"
+        },
+        {
+            "id": "238016",
+            "src": "https://www.e-codices.unifr.ch/loris/csg/csg-0759/csg-0759_e003.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/csg/0759/bindingC",
+            "width": 112.5,
+            "height": 150,
+            "label": "Back cover"
+        },
+        {
+            "id": "238015",
+            "src": "https://www.e-codices.unifr.ch/loris/csg/csg-0759/csg-0759_e002.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/csg/0759/bindingB",
+            "width": 112.5,
+            "height": 150,
+            "label": "Spine"
+        },
+        {
+            "id": "238017",
+            "src": "https://www.e-codices.unifr.ch/loris/csg/csg-0759/csg-0759_e004.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/csg/0759/bindingD",
+            "width": 112.5,
+            "height": 150,
+            "label": "Fore edge"
+        },
+        {
+            "id": "238020",
+            "src": "https://www.e-codices.unifr.ch/loris/csg/csg-0759/csg-0759_e007.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/csg/0759/bindingG",
+            "width": 112.5,
+            "height": 150,
+            "label": "Head"
+        },
+        {
+            "id": "238021",
+            "src": "https://www.e-codices.unifr.ch/loris/csg/csg-0759/csg-0759_e008.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/csg/0759/bindingH",
+            "width": 112.5,
+            "height": 150,
+            "label": "Tail"
+        },
+        {
+            "id": "238022",
+            "src": "https://www.e-codices.unifr.ch/loris/csg/csg-0759/csg-0759_MassE.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/csg/0759/bindingRulerE",
+            "width": 112.5,
+            "height": 150,
+            "label": "Ruler on binding"
+        },
+        {
+            "id": "238023",
+            "src": "https://www.e-codices.unifr.ch/loris/csg/csg-0759/csg-0759_MassS.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/csg/0759/bindingRulerS",
+            "width": 112.5,
+            "height": 150,
+            "label": "Ruler on page"
+        },
+        {
+            "id": "238024",
+            "src": "https://www.e-codices.unifr.ch/loris/csg/csg-0759/csg-0759_ProfilE.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/csg/0759/bindingProfileE",
+            "width": 112.5,
+            "height": 150,
+            "label": "QP card on binding"
+        },
+        {
+            "id": "238025",
+            "src": "https://www.e-codices.unifr.ch/loris/csg/csg-0759/csg-0759_ProfilS.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/csg/0759/bindingProfileS",
+            "width": 112.5,
+            "height": 150,
+            "label": "QP card on page"
+        },
+        {
+            "id": "238026",
+            "src": "https://www.e-codices.unifr.ch/loris/csg/csg-0759/csg-0759_ProfilSG.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/csg/0759/bindingProfileSG",
+            "width": 200,
+            "height": 150,
+            "label": "Digital Colorchecker"
+        }
+    ],
+    "customViewerBackgroundColor": "#000000"
+}

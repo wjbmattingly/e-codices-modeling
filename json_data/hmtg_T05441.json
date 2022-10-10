@@ -1,0 +1,49 @@
+{
+    "breadcrumbData": {
+        "isVirtualManuscript": false,
+        "primaryManuscript": {
+            "collection": {
+                "label": "Frauenfeld, Historisches Museum Thurgau",
+                "url": "https://www.e-codices.unifr.ch/en/search/?iCurrentPage=1&sQueryString=&sSearchField=fullText&sSortField=score&aSelectedFacets[collection_facet][]=Frauenfeld%2C+Historisches+Museum+Thurgau"
+            },
+            "shelfmark": {
+                "label": "T 5441",
+                "url": "https://www.e-codices.unifr.ch/en/list/one/hmtg/T05441"
+            },
+            "title": {
+                "label": "Illuminated initial \"Jesus in the Temple\"\u2026"
+            },
+            "page": {
+                "label": "Thumbnails"
+            }
+        }
+    },
+    "canvases": [
+        {
+            "id": "926198",
+            "src": "https://www.e-codices.unifr.ch/loris/hmtg/hmtg-T05441/hmtg-T05441_a002-recto.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/hmtg/T05441/recto",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. recto",
+            "active": true
+        },
+        {
+            "id": "926199",
+            "src": "https://www.e-codices.unifr.ch/loris/hmtg/hmtg-T05441/hmtg-T05441_a003-verso.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/hmtg/T05441/verso",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. verso"
+        },
+        {
+            "id": "926197",
+            "src": "https://www.e-codices.unifr.ch/loris/hmtg/hmtg-T05441/hmtg-T05441_a001-ProfilS.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/hmtg/T05441/bindingProfileS",
+            "width": 112.5,
+            "height": 150,
+            "label": "QP card on page"
+        }
+    ],
+    "customViewerBackgroundColor": "#000000"
+}

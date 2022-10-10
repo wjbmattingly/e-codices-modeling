@@ -1,0 +1,41 @@
+{
+    "breadcrumbData": {
+        "isVirtualManuscript": false,
+        "primaryManuscript": {
+            "collection": {
+                "label": "Cleveland, The Cleveland Museum of Art",
+                "url": "https://www.e-codices.unifr.ch/en/search/?iCurrentPage=1&sQueryString=&sSearchField=fullText&sSortField=score&aSelectedFacets[collection_facet][]=Cleveland%2C+The+Cleveland+Museum+of+Art"
+            },
+            "shelfmark": {
+                "label": "Purchase from the J. H. Wade Fund 1955.74",
+                "url": "https://www.e-codices.unifr.ch/en/list/one/cma/1955-74"
+            },
+            "title": {
+                "label": "Gregory the Great, Morals in Job (Author\u2026"
+            },
+            "page": {
+                "label": "Thumbnails"
+            }
+        }
+    },
+    "canvases": [
+        {
+            "id": "84417",
+            "src": "https://www.e-codices.unifr.ch/loris/cma/cma-1955-74/cma-1955-74_000b.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/cma/1955-74/Ir",
+            "width": 112.25,
+            "height": 150,
+            "label": "f. Ir",
+            "active": true
+        },
+        {
+            "id": "84416",
+            "src": "https://www.e-codices.unifr.ch/loris/cma/cma-1955-74/cma-1955-74_000a.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/cma/1955-74/Iv",
+            "width": 112.25,
+            "height": 150,
+            "label": "f. Iv"
+        }
+    ],
+    "customViewerBackgroundColor": "#f9f0e2"
+}

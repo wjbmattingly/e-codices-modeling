@@ -1,0 +1,41 @@
+{
+    "breadcrumbData": {
+        "isVirtualManuscript": false,
+        "primaryManuscript": {
+            "collection": {
+                "label": "St. Gallen, Stiftsbibliothek",
+                "url": "https://www.e-codices.unifr.ch/en/search/?iCurrentPage=1&sQueryString=&sSearchField=fullText&sSortField=score&aSelectedFacets[collection_facet][]=St.+Gallen%2C+Stiftsbibliothek"
+            },
+            "shelfmark": {
+                "label": "Cod. Sang. 1092",
+                "url": "https://www.e-codices.unifr.ch/en/list/one/csg/1092"
+            },
+            "title": {
+                "label": "Plan of Saint Gall"
+            },
+            "page": {
+                "label": "Thumbnails"
+            }
+        }
+    },
+    "canvases": [
+        {
+            "id": "260386",
+            "src": "https://www.e-codices.unifr.ch/loris/csg/csg-1092/csg-1092_recto.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/csg/1092/recto",
+            "width": 104.95163519115614,
+            "height": 150,
+            "label": "f. recto",
+            "active": true
+        },
+        {
+            "id": "260387",
+            "src": "https://www.e-codices.unifr.ch/loris/csg/csg-1092/csg-1092_verso.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/csg/1092/verso",
+            "width": 106.10169491525424,
+            "height": 150,
+            "label": "f. verso"
+        }
+    ],
+    "customViewerBackgroundColor": "#1a1a19"
+}

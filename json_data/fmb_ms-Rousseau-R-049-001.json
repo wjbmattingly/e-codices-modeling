@@ -1,0 +1,65 @@
+{
+    "breadcrumbData": {
+        "isVirtualManuscript": false,
+        "primaryManuscript": {
+            "collection": {
+                "label": "Cologny, Fondation Martin Bodmer",
+                "url": "https://www.e-codices.unifr.ch/en/search/?iCurrentPage=1&sQueryString=&sSearchField=fullText&sSortField=score&aSelectedFacets[collection_facet][]=Cologny%2C+Fondation+Martin+Bodmer"
+            },
+            "shelfmark": {
+                "label": "R-49.1",
+                "url": "https://www.e-codices.unifr.ch/en/list/one/fmb/ms-Rousseau-R-049-001"
+            },
+            "title": {
+                "label": "Jean-Jacques Rousseau, Lettres \u00e9crites\u2026"
+            },
+            "page": {
+                "label": "Thumbnails"
+            }
+        }
+    },
+    "canvases": [
+        {
+            "id": "540718",
+            "src": "https://www.e-codices.unifr.ch/loris/fmb/fmb-ms-Rousseau-R-049-001/fmb-ms-Rousseau-R-049-001_001.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/fmb/ms-Rousseau-R-049-001/1",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 1",
+            "active": true
+        },
+        {
+            "id": "540719",
+            "src": "https://www.e-codices.unifr.ch/loris/fmb/fmb-ms-Rousseau-R-049-001/fmb-ms-Rousseau-R-049-001_002.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/fmb/ms-Rousseau-R-049-001/2",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 2"
+        },
+        {
+            "id": "540720",
+            "src": "https://www.e-codices.unifr.ch/loris/fmb/fmb-ms-Rousseau-R-049-001/fmb-ms-Rousseau-R-049-001_MassS.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/fmb/ms-Rousseau-R-049-001/bindingRulerS",
+            "width": 112.5,
+            "height": 150,
+            "label": "Ruler on page"
+        },
+        {
+            "id": "540721",
+            "src": "https://www.e-codices.unifr.ch/loris/fmb/fmb-ms-Rousseau-R-049-001/fmb-ms-Rousseau-R-049-001_ProfilS.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/fmb/ms-Rousseau-R-049-001/bindingProfileS",
+            "width": 112.5,
+            "height": 150,
+            "label": "QP card on page"
+        },
+        {
+            "id": "540722",
+            "src": "https://www.e-codices.unifr.ch/loris/fmb/fmb-ms-Rousseau-R-049-001/fmb-ms-Rousseau-R-049-001_ProfilSG.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/fmb/ms-Rousseau-R-049-001/bindingProfileSG",
+            "width": 200,
+            "height": 150,
+            "label": "Digital Colorchecker"
+        }
+    ],
+    "customViewerBackgroundColor": "#000000"
+}

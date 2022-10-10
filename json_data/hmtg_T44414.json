@@ -1,0 +1,49 @@
+{
+    "breadcrumbData": {
+        "isVirtualManuscript": false,
+        "primaryManuscript": {
+            "collection": {
+                "label": "Frauenfeld, Historisches Museum Thurgau",
+                "url": "https://www.e-codices.unifr.ch/en/search/?iCurrentPage=1&sQueryString=&sSearchField=fullText&sSortField=score&aSelectedFacets[collection_facet][]=Frauenfeld%2C+Historisches+Museum+Thurgau"
+            },
+            "shelfmark": {
+                "label": "T 44414",
+                "url": "https://www.e-codices.unifr.ch/en/list/one/hmtg/T44414"
+            },
+            "title": {
+                "label": "Miniature with Saint Catherine of Alexandria\u2026"
+            },
+            "page": {
+                "label": "Thumbnails"
+            }
+        }
+    },
+    "canvases": [
+        {
+            "id": "927898",
+            "src": "https://www.e-codices.unifr.ch/loris/hmtg/hmtg-T44414/hmtg-T44414_a002-recto.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/hmtg/T44414/recto",
+            "width": 200,
+            "height": 150,
+            "label": "f. recto",
+            "active": true
+        },
+        {
+            "id": "926181",
+            "src": "https://www.e-codices.unifr.ch/loris/hmtg/hmtg-T44414/hmtg-T44414_a003-verso.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/hmtg/T44414/verso",
+            "width": 200,
+            "height": 150,
+            "label": "f. verso"
+        },
+        {
+            "id": "926179",
+            "src": "https://www.e-codices.unifr.ch/loris/hmtg/hmtg-T44414/hmtg-T44414_a001-ProfilS.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/hmtg/T44414/bindingProfileS",
+            "width": 200,
+            "height": 150,
+            "label": "QP card on page"
+        }
+    ],
+    "customViewerBackgroundColor": "#000000"
+}
