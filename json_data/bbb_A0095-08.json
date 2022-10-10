@@ -1,0 +1,49 @@
+{
+    "breadcrumbData": {
+        "isVirtualManuscript": false,
+        "primaryManuscript": {
+            "collection": {
+                "label": "Bern, Burgerbibliothek",
+                "url": "https://www.e-codices.unifr.ch/en/search/?iCurrentPage=1&sQueryString=&sSearchField=fullText&sSortField=score&aSelectedFacets[collection_facet][]=Bern%2C+Burgerbibliothek"
+            },
+            "shelfmark": {
+                "label": "Cod. A 95.8",
+                "url": "https://www.e-codices.unifr.ch/en/list/one/bbb/A0095-08"
+            },
+            "title": {
+                "label": "Copie de lettre"
+            },
+            "page": {
+                "label": "Thumbnails"
+            }
+        }
+    },
+    "canvases": [
+        {
+            "id": "811577",
+            "src": "https://www.e-codices.unifr.ch/loris/bbb/bbb-A0095-08/bbb-A0095-08_0001r.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/bbb/A0095-08/1r",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 1r",
+            "active": true
+        },
+        {
+            "id": "811578",
+            "src": "https://www.e-codices.unifr.ch/loris/bbb/bbb-A0095-08/bbb-A0095-08_0001v.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/bbb/A0095-08/1v",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 1v"
+        },
+        {
+            "id": "811579",
+            "src": "https://www.e-codices.unifr.ch/loris/bbb/bbb-A0095-08/bbb-A0095-08_ProfilS.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/bbb/A0095-08/bindingProfileS",
+            "width": 112.5,
+            "height": 150,
+            "label": "QP card on page"
+        }
+    ],
+    "customViewerBackgroundColor": "#000000"
+}

@@ -1,0 +1,65 @@
+{
+    "breadcrumbData": {
+        "isVirtualManuscript": false,
+        "primaryManuscript": {
+            "collection": {
+                "label": "Bern, Burgerbibliothek",
+                "url": "https://www.e-codices.unifr.ch/en/search/?iCurrentPage=1&sQueryString=&sSearchField=fullText&sSortField=score&aSelectedFacets[collection_facet][]=Bern%2C+Burgerbibliothek"
+            },
+            "shelfmark": {
+                "label": "Cod. AA 90.2",
+                "url": "https://www.e-codices.unifr.ch/en/list/one/bbb/AA0090-02"
+            },
+            "title": {
+                "label": "Passio Cornelii Papae et martyrum (Fragment)"
+            },
+            "page": {
+                "label": "Thumbnails"
+            }
+        }
+    },
+    "canvases": [
+        {
+            "id": "751132",
+            "src": "https://www.e-codices.unifr.ch/loris/bbb/bbb-AA0090-02/bbb-AA0090-02_001r.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/bbb/AA0090-02/1r",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 1r",
+            "active": true
+        },
+        {
+            "id": "751133",
+            "src": "https://www.e-codices.unifr.ch/loris/bbb/bbb-AA0090-02/bbb-AA0090-02_001v.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/bbb/AA0090-02/1v",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 1v"
+        },
+        {
+            "id": "751134",
+            "src": "https://www.e-codices.unifr.ch/loris/bbb/bbb-AA0090-02/bbb-AA0090-02_002r.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/bbb/AA0090-02/2r",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 2r"
+        },
+        {
+            "id": "751135",
+            "src": "https://www.e-codices.unifr.ch/loris/bbb/bbb-AA0090-02/bbb-AA0090-02_002v.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/bbb/AA0090-02/2v",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 2v"
+        },
+        {
+            "id": "751136",
+            "src": "https://www.e-codices.unifr.ch/loris/bbb/bbb-AA0090-02/bbb-AA0090-02_ProfilS.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/bbb/AA0090-02/bindingProfileS",
+            "width": 112.5,
+            "height": 150,
+            "label": "QP card on page"
+        }
+    ],
+    "customViewerBackgroundColor": "#000000"
+}

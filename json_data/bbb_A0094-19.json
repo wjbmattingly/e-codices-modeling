@@ -1,0 +1,49 @@
+{
+    "breadcrumbData": {
+        "isVirtualManuscript": false,
+        "primaryManuscript": {
+            "collection": {
+                "label": "Bern, Burgerbibliothek",
+                "url": "https://www.e-codices.unifr.ch/en/search/?iCurrentPage=1&sQueryString=&sSearchField=fullText&sSortField=score&aSelectedFacets[collection_facet][]=Bern%2C+Burgerbibliothek"
+            },
+            "shelfmark": {
+                "label": "Cod. A 94.19",
+                "url": "https://www.e-codices.unifr.ch/en/list/one/bbb/A0094-19"
+            },
+            "title": {
+                "label": "Prosa de sancto Eligio; list of chapters\u2026"
+            },
+            "page": {
+                "label": "Thumbnails"
+            }
+        }
+    },
+    "canvases": [
+        {
+            "id": "750848",
+            "src": "https://www.e-codices.unifr.ch/loris/bbb/bbb-A0094-19/bbb-A0094-19_001r.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/bbb/A0094-19/1r",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 1r",
+            "active": true
+        },
+        {
+            "id": "750849",
+            "src": "https://www.e-codices.unifr.ch/loris/bbb/bbb-A0094-19/bbb-A0094-19_001v.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/bbb/A0094-19/1v",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 1v"
+        },
+        {
+            "id": "750850",
+            "src": "https://www.e-codices.unifr.ch/loris/bbb/bbb-A0094-19/bbb-A0094-19_ProfilS.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/bbb/A0094-19/bindingProfileS",
+            "width": 112.5,
+            "height": 150,
+            "label": "QP card on page"
+        }
+    ],
+    "customViewerBackgroundColor": "#000000"
+}

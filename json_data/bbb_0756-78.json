@@ -1,0 +1,65 @@
+{
+    "breadcrumbData": {
+        "isVirtualManuscript": false,
+        "primaryManuscript": {
+            "collection": {
+                "label": "Bern, Burgerbibliothek",
+                "url": "https://www.e-codices.unifr.ch/en/search/?iCurrentPage=1&sQueryString=&sSearchField=fullText&sSortField=score&aSelectedFacets[collection_facet][]=Bern%2C+Burgerbibliothek"
+            },
+            "shelfmark": {
+                "label": "Cod. 756.78",
+                "url": "https://www.e-codices.unifr.ch/en/list/one/bbb/0756-78"
+            },
+            "title": {
+                "label": "Ulrich von dem T\u00fcrlin: Arabel (fragment)"
+            },
+            "page": {
+                "label": "Thumbnails"
+            }
+        }
+    },
+    "canvases": [
+        {
+            "id": "811093",
+            "src": "https://www.e-codices.unifr.ch/loris/bbb/bbb-0756-78/bbb-0756-78_0001r.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/bbb/0756-78/1r",
+            "width": 84.94373776908023,
+            "height": 150,
+            "label": "f. 1r",
+            "active": true
+        },
+        {
+            "id": "811094",
+            "src": "https://www.e-codices.unifr.ch/loris/bbb/bbb-0756-78/bbb-0756-78_0001v.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/bbb/0756-78/1v",
+            "width": 84.94373776908023,
+            "height": 150,
+            "label": "f. 1v"
+        },
+        {
+            "id": "811095",
+            "src": "https://www.e-codices.unifr.ch/loris/bbb/bbb-0756-78/bbb-0756-78_0002r.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/bbb/0756-78/2r",
+            "width": 84.94373776908023,
+            "height": 150,
+            "label": "f. 2r"
+        },
+        {
+            "id": "811096",
+            "src": "https://www.e-codices.unifr.ch/loris/bbb/bbb-0756-78/bbb-0756-78_0002v.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/bbb/0756-78/2v",
+            "width": 84.94373776908023,
+            "height": 150,
+            "label": "f. 2v"
+        },
+        {
+            "id": "811097",
+            "src": "https://www.e-codices.unifr.ch/loris/bbb/bbb-0756-78/bbb-0756-78_ProfilS.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/bbb/0756-78/bindingProfileS",
+            "width": 84.94373776908023,
+            "height": 150,
+            "label": "QP card on page"
+        }
+    ],
+    "customViewerBackgroundColor": "#000000"
+}

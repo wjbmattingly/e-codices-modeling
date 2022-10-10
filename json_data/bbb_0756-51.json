@@ -1,0 +1,49 @@
+{
+    "breadcrumbData": {
+        "isVirtualManuscript": false,
+        "primaryManuscript": {
+            "collection": {
+                "label": "Bern, Burgerbibliothek",
+                "url": "https://www.e-codices.unifr.ch/en/search/?iCurrentPage=1&sQueryString=&sSearchField=fullText&sSortField=score&aSelectedFacets[collection_facet][]=Bern%2C+Burgerbibliothek"
+            },
+            "shelfmark": {
+                "label": "Cod. 756.51",
+                "url": "https://www.e-codices.unifr.ch/en/list/one/bbb/0756-51"
+            },
+            "title": {
+                "label": "Gregorius Magnus: Homiliae in Ezechielem\u2026"
+            },
+            "page": {
+                "label": "Thumbnails"
+            }
+        }
+    },
+    "canvases": [
+        {
+            "id": "866271",
+            "src": "https://www.e-codices.unifr.ch/loris/bbb/bbb-0756-51/bbb-0756-51_0001r.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/bbb/0756-51/1r",
+            "width": 115.84551411290323,
+            "height": 150,
+            "label": "f. 1r",
+            "active": true
+        },
+        {
+            "id": "866272",
+            "src": "https://www.e-codices.unifr.ch/loris/bbb/bbb-0756-51/bbb-0756-51_0001v.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/bbb/0756-51/1v",
+            "width": 115.84551411290323,
+            "height": 150,
+            "label": "f. 1v"
+        },
+        {
+            "id": "866273",
+            "src": "https://www.e-codices.unifr.ch/loris/bbb/bbb-0756-51/bbb-0756-51_ProfilS.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/bbb/0756-51/bindingProfileS",
+            "width": 115.84551411290323,
+            "height": 150,
+            "label": "QP card on page"
+        }
+    ],
+    "customViewerBackgroundColor": "#000000"
+}

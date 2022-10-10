@@ -1,0 +1,65 @@
+{
+    "breadcrumbData": {
+        "isVirtualManuscript": false,
+        "primaryManuscript": {
+            "collection": {
+                "label": "Bern, Burgerbibliothek",
+                "url": "https://www.e-codices.unifr.ch/en/search/?iCurrentPage=1&sQueryString=&sSearchField=fullText&sSortField=score&aSelectedFacets[collection_facet][]=Bern%2C+Burgerbibliothek"
+            },
+            "shelfmark": {
+                "label": "Cod. A 92.29",
+                "url": "https://www.e-codices.unifr.ch/en/list/one/bbb/A0092-29"
+            },
+            "title": {
+                "label": "Accessus in Ciceronis De amicitia; Horatius:\u2026"
+            },
+            "page": {
+                "label": "Thumbnails"
+            }
+        }
+    },
+    "canvases": [
+        {
+            "id": "751841",
+            "src": "https://www.e-codices.unifr.ch/loris/bbb/bbb-A0092-29/bbb-A0092-29_001r.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/bbb/A0092-29/1r",
+            "width": 108.1373989713446,
+            "height": 150,
+            "label": "f. 1r",
+            "active": true
+        },
+        {
+            "id": "751842",
+            "src": "https://www.e-codices.unifr.ch/loris/bbb/bbb-A0092-29/bbb-A0092-29_001v.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/bbb/A0092-29/1v",
+            "width": 108.1373989713446,
+            "height": 150,
+            "label": "f. 1v"
+        },
+        {
+            "id": "751843",
+            "src": "https://www.e-codices.unifr.ch/loris/bbb/bbb-A0092-29/bbb-A0092-29_002r.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/bbb/A0092-29/2r",
+            "width": 108.1373989713446,
+            "height": 150,
+            "label": "f. 2r"
+        },
+        {
+            "id": "751844",
+            "src": "https://www.e-codices.unifr.ch/loris/bbb/bbb-A0092-29/bbb-A0092-29_002v.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/bbb/A0092-29/2v",
+            "width": 108.1373989713446,
+            "height": 150,
+            "label": "f. 2v"
+        },
+        {
+            "id": "751845",
+            "src": "https://www.e-codices.unifr.ch/loris/bbb/bbb-A0092-29/bbb-A0092-29_ProfilS.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/bbb/A0092-29/bindingProfileS",
+            "width": 112.5,
+            "height": 150,
+            "label": "QP card on page"
+        }
+    ],
+    "customViewerBackgroundColor": "#000000"
+}

@@ -1,0 +1,49 @@
+{
+    "breadcrumbData": {
+        "isVirtualManuscript": false,
+        "primaryManuscript": {
+            "collection": {
+                "label": "Bern, Burgerbibliothek",
+                "url": "https://www.e-codices.unifr.ch/en/search/?iCurrentPage=1&sQueryString=&sSearchField=fullText&sSortField=score&aSelectedFacets[collection_facet][]=Bern%2C+Burgerbibliothek"
+            },
+            "shelfmark": {
+                "label": "Cod. A 92.32",
+                "url": "https://www.e-codices.unifr.ch/en/list/one/bbb/A0092-32"
+            },
+            "title": {
+                "label": "Generatio regum Francorum; List of the Archbishops\u2026"
+            },
+            "page": {
+                "label": "Thumbnails"
+            }
+        }
+    },
+    "canvases": [
+        {
+            "id": "751858",
+            "src": "https://www.e-codices.unifr.ch/loris/bbb/bbb-A0092-32/bbb-A0092-32_001r.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/bbb/A0092-32/1r",
+            "width": 115.55583501006036,
+            "height": 150,
+            "label": "f. 1r",
+            "active": true
+        },
+        {
+            "id": "751859",
+            "src": "https://www.e-codices.unifr.ch/loris/bbb/bbb-A0092-32/bbb-A0092-32_001v.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/bbb/A0092-32/1v",
+            "width": 115.57036850710602,
+            "height": 150,
+            "label": "f. 1v"
+        },
+        {
+            "id": "751860",
+            "src": "https://www.e-codices.unifr.ch/loris/bbb/bbb-A0092-32/bbb-A0092-32_ProfilS.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/bbb/A0092-32/bindingProfileS",
+            "width": 115.55583501006036,
+            "height": 150,
+            "label": "QP card on page"
+        }
+    ],
+    "customViewerBackgroundColor": "#000000"
+}

@@ -1,0 +1,49 @@
+{
+    "breadcrumbData": {
+        "isVirtualManuscript": false,
+        "primaryManuscript": {
+            "collection": {
+                "label": "Bern, Burgerbibliothek",
+                "url": "https://www.e-codices.unifr.ch/en/search/?iCurrentPage=1&sQueryString=&sSearchField=fullText&sSortField=score&aSelectedFacets[collection_facet][]=Bern%2C+Burgerbibliothek"
+            },
+            "shelfmark": {
+                "label": "Cod. 756.23",
+                "url": "https://www.e-codices.unifr.ch/en/list/one/bbb/0756-23"
+            },
+            "title": {
+                "label": "Biblia latina: Vulgata (fragment)"
+            },
+            "page": {
+                "label": "Thumbnails"
+            }
+        }
+    },
+    "canvases": [
+        {
+            "id": "866252",
+            "src": "https://www.e-codices.unifr.ch/loris/bbb/bbb-0756-23/bbb-0756-23_0001r.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/bbb/0756-23/1r",
+            "width": 93.18070519098923,
+            "height": 150,
+            "label": "f. 1r",
+            "active": true
+        },
+        {
+            "id": "866253",
+            "src": "https://www.e-codices.unifr.ch/loris/bbb/bbb-0756-23/bbb-0756-23_0001v.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/bbb/0756-23/1v",
+            "width": 93.18070519098923,
+            "height": 150,
+            "label": "f. 1v"
+        },
+        {
+            "id": "866254",
+            "src": "https://www.e-codices.unifr.ch/loris/bbb/bbb-0756-23/bbb-0756-23_ProfilS.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/bbb/0756-23/bindingProfileS",
+            "width": 93.18070519098923,
+            "height": 150,
+            "label": "QP card on page"
+        }
+    ],
+    "customViewerBackgroundColor": "#000000"
+}

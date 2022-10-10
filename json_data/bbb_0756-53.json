@@ -1,0 +1,49 @@
+{
+    "breadcrumbData": {
+        "isVirtualManuscript": false,
+        "primaryManuscript": {
+            "collection": {
+                "label": "Bern, Burgerbibliothek",
+                "url": "https://www.e-codices.unifr.ch/en/search/?iCurrentPage=1&sQueryString=&sSearchField=fullText&sSortField=score&aSelectedFacets[collection_facet][]=Bern%2C+Burgerbibliothek"
+            },
+            "shelfmark": {
+                "label": "Cod. 756.53",
+                "url": "https://www.e-codices.unifr.ch/en/list/one/bbb/0756-53"
+            },
+            "title": {
+                "label": "Flavius Josephus: Antiquitates Iudaicae\u2026"
+            },
+            "page": {
+                "label": "Thumbnails"
+            }
+        }
+    },
+    "canvases": [
+        {
+            "id": "866277",
+            "src": "https://www.e-codices.unifr.ch/loris/bbb/bbb-0756-53/bbb-0756-53_0001r.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/bbb/0756-53/1r",
+            "width": 92.99706170421156,
+            "height": 150,
+            "label": "f. 1r",
+            "active": true
+        },
+        {
+            "id": "866278",
+            "src": "https://www.e-codices.unifr.ch/loris/bbb/bbb-0756-53/bbb-0756-53_0001v.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/bbb/0756-53/1v",
+            "width": 92.99706170421156,
+            "height": 150,
+            "label": "f. 1v"
+        },
+        {
+            "id": "866279",
+            "src": "https://www.e-codices.unifr.ch/loris/bbb/bbb-0756-53/bbb-0756-53_ProfilS.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/bbb/0756-53/bindingProfileS",
+            "width": 92.99706170421156,
+            "height": 150,
+            "label": "QP card on page"
+        }
+    ],
+    "customViewerBackgroundColor": "#000000"
+}

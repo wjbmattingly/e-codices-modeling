@@ -1,0 +1,65 @@
+{
+    "breadcrumbData": {
+        "isVirtualManuscript": false,
+        "primaryManuscript": {
+            "collection": {
+                "label": "Bern, Burgerbibliothek",
+                "url": "https://www.e-codices.unifr.ch/en/search/?iCurrentPage=1&sQueryString=&sSearchField=fullText&sSortField=score&aSelectedFacets[collection_facet][]=Bern%2C+Burgerbibliothek"
+            },
+            "shelfmark": {
+                "label": "Cod. 847.9",
+                "url": "https://www.e-codices.unifr.ch/en/list/one/bbb/0847-09"
+            },
+            "title": {
+                "label": "Notarial document (fragment)"
+            },
+            "page": {
+                "label": "Thumbnails"
+            }
+        }
+    },
+    "canvases": [
+        {
+            "id": "584728",
+            "src": "https://www.e-codices.unifr.ch/loris/bbb/bbb-0847-09/bbb-0847-09_recto.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/bbb/0847-09/recto",
+            "width": 200,
+            "height": 150,
+            "label": "f. recto",
+            "active": true
+        },
+        {
+            "id": "584729",
+            "src": "https://www.e-codices.unifr.ch/loris/bbb/bbb-0847-09/bbb-0847-09_verso.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/bbb/0847-09/verso",
+            "width": 200,
+            "height": 150,
+            "label": "f. verso"
+        },
+        {
+            "id": "584730",
+            "src": "https://www.e-codices.unifr.ch/loris/bbb/bbb-0847-09/bbb-0847-09_Mass.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/bbb/0847-09/bindingRuler",
+            "width": 200,
+            "height": 150,
+            "label": "Ruler"
+        },
+        {
+            "id": "584731",
+            "src": "https://www.e-codices.unifr.ch/loris/bbb/bbb-0847-09/bbb-0847-09_Profil.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/bbb/0847-09/bindingProfile",
+            "width": 200,
+            "height": 150,
+            "label": "Color profile"
+        },
+        {
+            "id": "584732",
+            "src": "https://www.e-codices.unifr.ch/loris/bbb/bbb-0847-09/bbb-0847-09_ProfilSG.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/bbb/0847-09/bindingProfileSG",
+            "width": 200,
+            "height": 150,
+            "label": "Digital Colorchecker"
+        }
+    ],
+    "customViewerBackgroundColor": "#000000"
+}

@@ -1,0 +1,49 @@
+{
+    "breadcrumbData": {
+        "isVirtualManuscript": false,
+        "primaryManuscript": {
+            "collection": {
+                "label": "Bern, Burgerbibliothek",
+                "url": "https://www.e-codices.unifr.ch/en/search/?iCurrentPage=1&sQueryString=&sSearchField=fullText&sSortField=score&aSelectedFacets[collection_facet][]=Bern%2C+Burgerbibliothek"
+            },
+            "shelfmark": {
+                "label": "Cod. 756.86",
+                "url": "https://www.e-codices.unifr.ch/en/list/one/bbb/0756-86"
+            },
+            "title": {
+                "label": "Liber Officii et Missae (fragment)"
+            },
+            "page": {
+                "label": "Thumbnails"
+            }
+        }
+    },
+    "canvases": [
+        {
+            "id": "866353",
+            "src": "https://www.e-codices.unifr.ch/loris/bbb/bbb-0756-86/bbb-0756-86_0001r.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/bbb/0756-86/1r",
+            "width": 140.53041883216142,
+            "height": 150,
+            "label": "f. 1r",
+            "active": true
+        },
+        {
+            "id": "866354",
+            "src": "https://www.e-codices.unifr.ch/loris/bbb/bbb-0756-86/bbb-0756-86_0001v.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/bbb/0756-86/1v",
+            "width": 140.53041883216142,
+            "height": 150,
+            "label": "f. 1v"
+        },
+        {
+            "id": "866355",
+            "src": "https://www.e-codices.unifr.ch/loris/bbb/bbb-0756-86/bbb-0756-86_ProfilS.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/bbb/0756-86/bindingProfileS",
+            "width": 140.53041883216142,
+            "height": 150,
+            "label": "QP card on page"
+        }
+    ],
+    "customViewerBackgroundColor": "#000000"
+}

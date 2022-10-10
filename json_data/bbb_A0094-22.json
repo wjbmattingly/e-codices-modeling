@@ -1,0 +1,65 @@
+{
+    "breadcrumbData": {
+        "isVirtualManuscript": false,
+        "primaryManuscript": {
+            "collection": {
+                "label": "Bern, Burgerbibliothek",
+                "url": "https://www.e-codices.unifr.ch/en/search/?iCurrentPage=1&sQueryString=&sSearchField=fullText&sSortField=score&aSelectedFacets[collection_facet][]=Bern%2C+Burgerbibliothek"
+            },
+            "shelfmark": {
+                "label": "Cod. A 94.22",
+                "url": "https://www.e-codices.unifr.ch/en/list/one/bbb/A0094-22"
+            },
+            "title": {
+                "label": "Clemens Romanus: Epistula I ad Jacobum (Fragment)"
+            },
+            "page": {
+                "label": "Thumbnails"
+            }
+        }
+    },
+    "canvases": [
+        {
+            "id": "750933",
+            "src": "https://www.e-codices.unifr.ch/loris/bbb/bbb-A0094-22/bbb-A0094-22_001r.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/bbb/A0094-22/1r",
+            "width": 114.89002749312672,
+            "height": 150,
+            "label": "f. 1r",
+            "active": true
+        },
+        {
+            "id": "750934",
+            "src": "https://www.e-codices.unifr.ch/loris/bbb/bbb-A0094-22/bbb-A0094-22_001v.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/bbb/A0094-22/1v",
+            "width": 114.89002749312672,
+            "height": 150,
+            "label": "f. 1v"
+        },
+        {
+            "id": "750935",
+            "src": "https://www.e-codices.unifr.ch/loris/bbb/bbb-A0094-22/bbb-A0094-22_002r.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/bbb/A0094-22/2r",
+            "width": 114.89002749312672,
+            "height": 150,
+            "label": "f. 2r"
+        },
+        {
+            "id": "750936",
+            "src": "https://www.e-codices.unifr.ch/loris/bbb/bbb-A0094-22/bbb-A0094-22_002v.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/bbb/A0094-22/2v",
+            "width": 114.89002749312672,
+            "height": 150,
+            "label": "f. 2v"
+        },
+        {
+            "id": "750937",
+            "src": "https://www.e-codices.unifr.ch/loris/bbb/bbb-A0094-22/bbb-A0094-22_ProfilS.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/bbb/A0094-22/bindingProfileS",
+            "width": 114.89002749312672,
+            "height": 150,
+            "label": "QP card on page"
+        }
+    ],
+    "customViewerBackgroundColor": "#000000"
+}

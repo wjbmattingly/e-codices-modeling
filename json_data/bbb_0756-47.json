@@ -1,0 +1,65 @@
+{
+    "breadcrumbData": {
+        "isVirtualManuscript": false,
+        "primaryManuscript": {
+            "collection": {
+                "label": "Bern, Burgerbibliothek",
+                "url": "https://www.e-codices.unifr.ch/en/search/?iCurrentPage=1&sQueryString=&sSearchField=fullText&sSortField=score&aSelectedFacets[collection_facet][]=Bern%2C+Burgerbibliothek"
+            },
+            "shelfmark": {
+                "label": "Cod. 756.47",
+                "url": "https://www.e-codices.unifr.ch/en/list/one/bbb/0756-47"
+            },
+            "title": {
+                "label": "Ambrosius Mediolanensis: Hexameron (fragment)"
+            },
+            "page": {
+                "label": "Thumbnails"
+            }
+        }
+    },
+    "canvases": [
+        {
+            "id": "866263",
+            "src": "https://www.e-codices.unifr.ch/loris/bbb/bbb-0756-47/bbb-0756-47_0001r.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/bbb/0756-47/1r",
+            "width": 131.67430535663135,
+            "height": 150,
+            "label": "f. 1r",
+            "active": true
+        },
+        {
+            "id": "866264",
+            "src": "https://www.e-codices.unifr.ch/loris/bbb/bbb-0756-47/bbb-0756-47_0001v.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/bbb/0756-47/1v",
+            "width": 131.67430535663135,
+            "height": 150,
+            "label": "f. 1v"
+        },
+        {
+            "id": "866265",
+            "src": "https://www.e-codices.unifr.ch/loris/bbb/bbb-0756-47/bbb-0756-47_0002r.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/bbb/0756-47/2r",
+            "width": 131.67430535663135,
+            "height": 150,
+            "label": "f. 2r"
+        },
+        {
+            "id": "866266",
+            "src": "https://www.e-codices.unifr.ch/loris/bbb/bbb-0756-47/bbb-0756-47_0002v.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/bbb/0756-47/2v",
+            "width": 131.67430535663135,
+            "height": 150,
+            "label": "f. 2v"
+        },
+        {
+            "id": "866267",
+            "src": "https://www.e-codices.unifr.ch/loris/bbb/bbb-0756-47/bbb-0756-47_ProfilS.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/bbb/0756-47/bindingProfileS",
+            "width": 131.67430535663135,
+            "height": 150,
+            "label": "QP card on page"
+        }
+    ],
+    "customViewerBackgroundColor": "#000000"
+}

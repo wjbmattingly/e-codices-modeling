@@ -1,0 +1,49 @@
+{
+    "breadcrumbData": {
+        "isVirtualManuscript": false,
+        "primaryManuscript": {
+            "collection": {
+                "label": "Bern, Burgerbibliothek",
+                "url": "https://www.e-codices.unifr.ch/en/search/?iCurrentPage=1&sQueryString=&sSearchField=fullText&sSortField=score&aSelectedFacets[collection_facet][]=Bern%2C+Burgerbibliothek"
+            },
+            "shelfmark": {
+                "label": "Cod. A 91.3",
+                "url": "https://www.e-codices.unifr.ch/en/list/one/bbb/A0091-03"
+            },
+            "title": {
+                "label": "Juvenal: Saturae (Fragment)"
+            },
+            "page": {
+                "label": "Thumbnails"
+            }
+        }
+    },
+    "canvases": [
+        {
+            "id": "750292",
+            "src": "https://www.e-codices.unifr.ch/loris/bbb/bbb-A0091-03/bbb-A0091-03_001r.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/bbb/A0091-03/1r",
+            "width": 114.11991062562066,
+            "height": 150,
+            "label": "f. 1r",
+            "active": true
+        },
+        {
+            "id": "750293",
+            "src": "https://www.e-codices.unifr.ch/loris/bbb/bbb-A0091-03/bbb-A0091-03_001v.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/bbb/A0091-03/1v",
+            "width": 114.11991062562066,
+            "height": 150,
+            "label": "f. 1v"
+        },
+        {
+            "id": "750294",
+            "src": "https://www.e-codices.unifr.ch/loris/bbb/bbb-A0091-03/bbb-A0091-03_ProfilS.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/bbb/A0091-03/bindingProfileS",
+            "width": 114.11991062562066,
+            "height": 150,
+            "label": "QP card on page"
+        }
+    ],
+    "customViewerBackgroundColor": "#000000"
+}

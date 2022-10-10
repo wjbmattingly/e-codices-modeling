@@ -1,0 +1,49 @@
+{
+    "breadcrumbData": {
+        "isVirtualManuscript": false,
+        "primaryManuscript": {
+            "collection": {
+                "label": "Bern, Burgerbibliothek",
+                "url": "https://www.e-codices.unifr.ch/en/search/?iCurrentPage=1&sQueryString=&sSearchField=fullText&sSortField=score&aSelectedFacets[collection_facet][]=Bern%2C+Burgerbibliothek"
+            },
+            "shelfmark": {
+                "label": "Cod. 756.55",
+                "url": "https://www.e-codices.unifr.ch/en/list/one/bbb/0756-55"
+            },
+            "title": {
+                "label": "Gregorius Magnus: Moralia in Hiob (fragment)"
+            },
+            "page": {
+                "label": "Thumbnails"
+            }
+        }
+    },
+    "canvases": [
+        {
+            "id": "866283",
+            "src": "https://www.e-codices.unifr.ch/loris/bbb/bbb-0756-55/bbb-0756-55_0001r.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/bbb/0756-55/1r",
+            "width": 117.32388973966309,
+            "height": 150,
+            "label": "f. 1r",
+            "active": true
+        },
+        {
+            "id": "866284",
+            "src": "https://www.e-codices.unifr.ch/loris/bbb/bbb-0756-55/bbb-0756-55_0001v.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/bbb/0756-55/1v",
+            "width": 117.32388973966309,
+            "height": 150,
+            "label": "f. 1v"
+        },
+        {
+            "id": "866285",
+            "src": "https://www.e-codices.unifr.ch/loris/bbb/bbb-0756-55/bbb-0756-55_ProfilS.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/bbb/0756-55/bindingProfileS",
+            "width": 117.32388973966309,
+            "height": 150,
+            "label": "QP card on page"
+        }
+    ],
+    "customViewerBackgroundColor": "#000000"
+}

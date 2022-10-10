@@ -1,0 +1,65 @@
+{
+    "breadcrumbData": {
+        "isVirtualManuscript": false,
+        "primaryManuscript": {
+            "collection": {
+                "label": "Bern, Burgerbibliothek",
+                "url": "https://www.e-codices.unifr.ch/en/search/?iCurrentPage=1&sQueryString=&sSearchField=fullText&sSortField=score&aSelectedFacets[collection_facet][]=Bern%2C+Burgerbibliothek"
+            },
+            "shelfmark": {
+                "label": "Cod. 756.27",
+                "url": "https://www.e-codices.unifr.ch/en/list/one/bbb/0756-27"
+            },
+            "title": {
+                "label": "Publicus Papinius Statius: Thebais (fragment)"
+            },
+            "page": {
+                "label": "Thumbnails"
+            }
+        }
+    },
+    "canvases": [
+        {
+            "id": "866255",
+            "src": "https://www.e-codices.unifr.ch/loris/bbb/bbb-0756-27/bbb-0756-27_0001r.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/bbb/0756-27/1r",
+            "width": 98.69676945668135,
+            "height": 150,
+            "label": "f. 1r",
+            "active": true
+        },
+        {
+            "id": "866256",
+            "src": "https://www.e-codices.unifr.ch/loris/bbb/bbb-0756-27/bbb-0756-27_0001v.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/bbb/0756-27/1v",
+            "width": 98.69676945668135,
+            "height": 150,
+            "label": "f. 1v"
+        },
+        {
+            "id": "866257",
+            "src": "https://www.e-codices.unifr.ch/loris/bbb/bbb-0756-27/bbb-0756-27_0002r.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/bbb/0756-27/2r",
+            "width": 98.69676945668135,
+            "height": 150,
+            "label": "f. 2r"
+        },
+        {
+            "id": "866258",
+            "src": "https://www.e-codices.unifr.ch/loris/bbb/bbb-0756-27/bbb-0756-27_0002v.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/bbb/0756-27/2v",
+            "width": 98.69676945668135,
+            "height": 150,
+            "label": "f. 2v"
+        },
+        {
+            "id": "866259",
+            "src": "https://www.e-codices.unifr.ch/loris/bbb/bbb-0756-27/bbb-0756-27_ProfilS.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/bbb/0756-27/bindingProfileS",
+            "width": 98.69676945668135,
+            "height": 150,
+            "label": "QP card on page"
+        }
+    ],
+    "customViewerBackgroundColor": "#000000"
+}

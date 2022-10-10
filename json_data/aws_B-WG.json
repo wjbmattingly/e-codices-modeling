@@ -1,0 +1,57 @@
+{
+    "breadcrumbData": {
+        "isVirtualManuscript": false,
+        "primaryManuscript": {
+            "collection": {
+                "label": "Steinhausen, Archiv der Waldgenossenschaft\u2026",
+                "url": "https://www.e-codices.unifr.ch/en/search/?iCurrentPage=1&sQueryString=&sSearchField=fullText&sSortField=score&aSelectedFacets[collection_facet][]=Steinhausen%2C+Archiv+der+Waldgenossenschaft+Steinhausen"
+            },
+            "shelfmark": {
+                "label": "B WG Steinhausen",
+                "url": "https://www.e-codices.unifr.ch/en/list/one/aws/B-WG"
+            },
+            "title": {
+                "label": "Concilium Ephesinum (fragment)"
+            },
+            "page": {
+                "label": "Thumbnails"
+            }
+        }
+    },
+    "canvases": [
+        {
+            "id": "811642",
+            "src": "https://www.e-codices.unifr.ch/loris/aws/aws-B-WG/aws-B-WG_0001vMass.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/aws/B-WG/IIv-Ir",
+            "width": 200,
+            "height": 150,
+            "label": "f. IIv-Ir",
+            "active": true
+        },
+        {
+            "id": "811640",
+            "src": "https://www.e-codices.unifr.ch/loris/aws/aws-B-WG/aws-B-WG_0001rMass.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/aws/B-WG/Iv-IIr",
+            "width": 200,
+            "height": 150,
+            "label": "f. Iv-IIr"
+        },
+        {
+            "id": "811643",
+            "src": "https://www.e-codices.unifr.ch/loris/aws/aws-B-WG/aws-B-WG_MassS.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/aws/B-WG/bindingRulerS",
+            "width": 200,
+            "height": 150,
+            "label": "Ruler on page"
+        },
+        {
+            "id": "811646",
+            "src": "https://www.e-codices.unifr.ch/loris/aws/aws-B-WG/aws-B-WG_ProfilSMass.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/aws/B-WG/bindingProfileSMass",
+            "width": 200,
+            "height": 150,
+            "label": "bindingProfileSMass"
+        }
+    ],
+    "customViewerBackgroundColor": "#000000"
+}

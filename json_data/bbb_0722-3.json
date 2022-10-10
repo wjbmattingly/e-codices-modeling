@@ -1,0 +1,65 @@
+{
+    "breadcrumbData": {
+        "isVirtualManuscript": false,
+        "primaryManuscript": {
+            "collection": {
+                "label": "Bern, Burgerbibliothek",
+                "url": "https://www.e-codices.unifr.ch/en/search/?iCurrentPage=1&sQueryString=&sSearchField=fullText&sSortField=score&aSelectedFacets[collection_facet][]=Bern%2C+Burgerbibliothek"
+            },
+            "shelfmark": {
+                "label": "Cod. 722.3",
+                "url": "https://www.e-codices.unifr.ch/en/list/one/bbb/0722-3"
+            },
+            "title": {
+                "label": "Cetius Faventinus: Artis architectonicae\u2026"
+            },
+            "page": {
+                "label": "Thumbnails"
+            }
+        }
+    },
+    "canvases": [
+        {
+            "id": "14380",
+            "src": "https://www.e-codices.unifr.ch/loris/bbb/bbb-0722-3/bbb-0722-3_recto.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/bbb/0722-3/recto",
+            "width": 200.13054830287206,
+            "height": 150,
+            "label": "f. recto",
+            "active": true
+        },
+        {
+            "id": "14381",
+            "src": "https://www.e-codices.unifr.ch/loris/bbb/bbb-0722-3/bbb-0722-3_verso.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/bbb/0722-3/verso",
+            "width": 200.13054830287206,
+            "height": 150,
+            "label": "f. verso"
+        },
+        {
+            "id": "14382",
+            "src": "https://www.e-codices.unifr.ch/loris/bbb/bbb-0722-3/bbb-0722-3_MassE.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/bbb/0722-3/bindingRulerE",
+            "width": 200.13054830287206,
+            "height": 150,
+            "label": "Ruler on binding"
+        },
+        {
+            "id": "14383",
+            "src": "https://www.e-codices.unifr.ch/loris/bbb/bbb-0722-3/bbb-0722-3_ProfilE.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/bbb/0722-3/bindingProfileE",
+            "width": 200.13054830287206,
+            "height": 150,
+            "label": "QP card on binding"
+        },
+        {
+            "id": "14384",
+            "src": "https://www.e-codices.unifr.ch/loris/bbb/bbb-0722-3/bbb-0722-3_ProfilSG.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/bbb/0722-3/bindingProfileSG",
+            "width": 200.13054830287206,
+            "height": 150,
+            "label": "Digital Colorchecker"
+        }
+    ],
+    "customViewerBackgroundColor": "#000000"
+}

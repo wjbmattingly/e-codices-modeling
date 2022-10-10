@@ -1,0 +1,65 @@
+{
+    "breadcrumbData": {
+        "isVirtualManuscript": false,
+        "primaryManuscript": {
+            "collection": {
+                "label": "Bern, Burgerbibliothek",
+                "url": "https://www.e-codices.unifr.ch/en/search/?iCurrentPage=1&sQueryString=&sSearchField=fullText&sSortField=score&aSelectedFacets[collection_facet][]=Bern%2C+Burgerbibliothek"
+            },
+            "shelfmark": {
+                "label": "Cod. A 94.11",
+                "url": "https://www.e-codices.unifr.ch/en/list/one/bbb/A0094-11"
+            },
+            "title": {
+                "label": "Boethius: De institutione musica (Fragment)"
+            },
+            "page": {
+                "label": "Thumbnails"
+            }
+        }
+    },
+    "canvases": [
+        {
+            "id": "750742",
+            "src": "https://www.e-codices.unifr.ch/loris/bbb/bbb-A0094-11/bbb-A0094-11_001r.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/bbb/A0094-11/1r",
+            "width": 116.64332993890021,
+            "height": 150,
+            "label": "f. 1r",
+            "active": true
+        },
+        {
+            "id": "750743",
+            "src": "https://www.e-codices.unifr.ch/loris/bbb/bbb-A0094-11/bbb-A0094-11_001v.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/bbb/A0094-11/1v",
+            "width": 116.64332993890021,
+            "height": 150,
+            "label": "f. 1v"
+        },
+        {
+            "id": "750744",
+            "src": "https://www.e-codices.unifr.ch/loris/bbb/bbb-A0094-11/bbb-A0094-11_002r.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/bbb/A0094-11/2r",
+            "width": 116.64332993890021,
+            "height": 150,
+            "label": "f. 2r"
+        },
+        {
+            "id": "750745",
+            "src": "https://www.e-codices.unifr.ch/loris/bbb/bbb-A0094-11/bbb-A0094-11_002v.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/bbb/A0094-11/2v",
+            "width": 116.64332993890021,
+            "height": 150,
+            "label": "f. 2v"
+        },
+        {
+            "id": "750746",
+            "src": "https://www.e-codices.unifr.ch/loris/bbb/bbb-A0094-11/bbb-A0094-11_ProfilS.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/bbb/A0094-11/bindingProfileS",
+            "width": 116.64332993890021,
+            "height": 150,
+            "label": "QP card on page"
+        }
+    ],
+    "customViewerBackgroundColor": "#000000"
+}

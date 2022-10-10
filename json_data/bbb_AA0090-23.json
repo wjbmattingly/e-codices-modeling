@@ -1,0 +1,49 @@
+{
+    "breadcrumbData": {
+        "isVirtualManuscript": false,
+        "primaryManuscript": {
+            "collection": {
+                "label": "Bern, Burgerbibliothek",
+                "url": "https://www.e-codices.unifr.ch/en/search/?iCurrentPage=1&sQueryString=&sSearchField=fullText&sSortField=score&aSelectedFacets[collection_facet][]=Bern%2C+Burgerbibliothek"
+            },
+            "shelfmark": {
+                "label": "Cod. AA 90.23",
+                "url": "https://www.e-codices.unifr.ch/en/list/one/bbb/AA0090-23"
+            },
+            "title": {
+                "label": "Isidorus: Etymologiae (Fragment)"
+            },
+            "page": {
+                "label": "Thumbnails"
+            }
+        }
+    },
+    "canvases": [
+        {
+            "id": "751407",
+            "src": "https://www.e-codices.unifr.ch/loris/bbb/bbb-AA0090-23/bbb-AA0090-23_001r.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/bbb/AA0090-23/1r",
+            "width": 106.93832599118943,
+            "height": 150,
+            "label": "f. 1r",
+            "active": true
+        },
+        {
+            "id": "751408",
+            "src": "https://www.e-codices.unifr.ch/loris/bbb/bbb-AA0090-23/bbb-AA0090-23_001v.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/bbb/AA0090-23/1v",
+            "width": 106.93832599118943,
+            "height": 150,
+            "label": "f. 1v"
+        },
+        {
+            "id": "751409",
+            "src": "https://www.e-codices.unifr.ch/loris/bbb/bbb-AA0090-23/bbb-AA0090-23_ProfilS.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/bbb/AA0090-23/bindingProfileS",
+            "width": 106.93832599118943,
+            "height": 150,
+            "label": "QP card on page"
+        }
+    ],
+    "customViewerBackgroundColor": "#000000"
+}

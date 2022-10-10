@@ -1,0 +1,49 @@
+{
+    "breadcrumbData": {
+        "isVirtualManuscript": false,
+        "primaryManuscript": {
+            "collection": {
+                "label": "Bern, Burgerbibliothek",
+                "url": "https://www.e-codices.unifr.ch/en/search/?iCurrentPage=1&sQueryString=&sSearchField=fullText&sSortField=score&aSelectedFacets[collection_facet][]=Bern%2C+Burgerbibliothek"
+            },
+            "shelfmark": {
+                "label": "Cod. A 92.33",
+                "url": "https://www.e-codices.unifr.ch/en/list/one/bbb/A0092-33"
+            },
+            "title": {
+                "label": "Emili, Paolo: De rebus gestis Francorum\u2026"
+            },
+            "page": {
+                "label": "Thumbnails"
+            }
+        }
+    },
+    "canvases": [
+        {
+            "id": "751861",
+            "src": "https://www.e-codices.unifr.ch/loris/bbb/bbb-A0092-33/bbb-A0092-33_001r.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/bbb/A0092-33/1v",
+            "width": 108.47820763956905,
+            "height": 150,
+            "label": "f. 1v",
+            "active": true
+        },
+        {
+            "id": "751862",
+            "src": "https://www.e-codices.unifr.ch/loris/bbb/bbb-A0092-33/bbb-A0092-33_001v.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/bbb/A0092-33/1r",
+            "width": 108.47820763956905,
+            "height": 150,
+            "label": "f. 1r"
+        },
+        {
+            "id": "751863",
+            "src": "https://www.e-codices.unifr.ch/loris/bbb/bbb-A0092-33/bbb-A0092-33_ProfilS.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/bbb/A0092-33/bindingProfileS",
+            "width": 108.47820763956905,
+            "height": 150,
+            "label": "QP card on page"
+        }
+    ],
+    "customViewerBackgroundColor": "#000000"
+}

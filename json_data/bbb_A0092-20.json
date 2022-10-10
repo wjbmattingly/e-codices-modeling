@@ -1,0 +1,65 @@
+{
+    "breadcrumbData": {
+        "isVirtualManuscript": false,
+        "primaryManuscript": {
+            "collection": {
+                "label": "Bern, Burgerbibliothek",
+                "url": "https://www.e-codices.unifr.ch/en/search/?iCurrentPage=1&sQueryString=&sSearchField=fullText&sSortField=score&aSelectedFacets[collection_facet][]=Bern%2C+Burgerbibliothek"
+            },
+            "shelfmark": {
+                "label": "Cod. A 92.20",
+                "url": "https://www.e-codices.unifr.ch/en/list/one/bbb/A0092-20"
+            },
+            "title": {
+                "label": "Isidorus: De natura rerum (Fragment)"
+            },
+            "page": {
+                "label": "Thumbnails"
+            }
+        }
+    },
+    "canvases": [
+        {
+            "id": "751744",
+            "src": "https://www.e-codices.unifr.ch/loris/bbb/bbb-A0092-20/bbb-A0092-20_001r.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/bbb/A0092-20/1r",
+            "width": 117.94098781270046,
+            "height": 150,
+            "label": "f. 1r",
+            "active": true
+        },
+        {
+            "id": "751745",
+            "src": "https://www.e-codices.unifr.ch/loris/bbb/bbb-A0092-20/bbb-A0092-20_001v.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/bbb/A0092-20/1v",
+            "width": 117.94098781270046,
+            "height": 150,
+            "label": "f. 1v"
+        },
+        {
+            "id": "751746",
+            "src": "https://www.e-codices.unifr.ch/loris/bbb/bbb-A0092-20/bbb-A0092-20_002r.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/bbb/A0092-20/2r",
+            "width": 117.94098781270046,
+            "height": 150,
+            "label": "f. 2r"
+        },
+        {
+            "id": "751747",
+            "src": "https://www.e-codices.unifr.ch/loris/bbb/bbb-A0092-20/bbb-A0092-20_002v.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/bbb/A0092-20/2v",
+            "width": 117.94098781270046,
+            "height": 150,
+            "label": "f. 2v"
+        },
+        {
+            "id": "751748",
+            "src": "https://www.e-codices.unifr.ch/loris/bbb/bbb-A0092-20/bbb-A0092-20_ProfilS.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/bbb/A0092-20/bindingProfileS",
+            "width": 117.94098781270046,
+            "height": 150,
+            "label": "QP card on page"
+        }
+    ],
+    "customViewerBackgroundColor": "#000000"
+}

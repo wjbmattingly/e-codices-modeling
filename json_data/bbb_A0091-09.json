@@ -1,0 +1,65 @@
+{
+    "breadcrumbData": {
+        "isVirtualManuscript": false,
+        "primaryManuscript": {
+            "collection": {
+                "label": "Bern, Burgerbibliothek",
+                "url": "https://www.e-codices.unifr.ch/en/search/?iCurrentPage=1&sQueryString=&sSearchField=fullText&sSortField=score&aSelectedFacets[collection_facet][]=Bern%2C+Burgerbibliothek"
+            },
+            "shelfmark": {
+                "label": "Cod. A 91.9",
+                "url": "https://www.e-codices.unifr.ch/en/list/one/bbb/A0091-09"
+            },
+            "title": {
+                "label": "Prayer; Biblical index (Fragment)"
+            },
+            "page": {
+                "label": "Thumbnails"
+            }
+        }
+    },
+    "canvases": [
+        {
+            "id": "750341",
+            "src": "https://www.e-codices.unifr.ch/loris/bbb/bbb-A0091-09/bbb-A0091-09_001r.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/bbb/A0091-09/1r",
+            "width": 125.7316739606127,
+            "height": 150,
+            "label": "f. 1r",
+            "active": true
+        },
+        {
+            "id": "750342",
+            "src": "https://www.e-codices.unifr.ch/loris/bbb/bbb-A0091-09/bbb-A0091-09_001v.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/bbb/A0091-09/1v",
+            "width": 125.7316739606127,
+            "height": 150,
+            "label": "f. 1v"
+        },
+        {
+            "id": "750343",
+            "src": "https://www.e-codices.unifr.ch/loris/bbb/bbb-A0091-09/bbb-A0091-09_002r.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/bbb/A0091-09/2r",
+            "width": 125.7316739606127,
+            "height": 150,
+            "label": "f. 2r"
+        },
+        {
+            "id": "750344",
+            "src": "https://www.e-codices.unifr.ch/loris/bbb/bbb-A0091-09/bbb-A0091-09_002v.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/bbb/A0091-09/2v",
+            "width": 125.7316739606127,
+            "height": 150,
+            "label": "f. 2v"
+        },
+        {
+            "id": "750345",
+            "src": "https://www.e-codices.unifr.ch/loris/bbb/bbb-A0091-09/bbb-A0091-09_ProfilS.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/bbb/A0091-09/bindingProfileS",
+            "width": 125.7316739606127,
+            "height": 150,
+            "label": "QP card on page"
+        }
+    ],
+    "customViewerBackgroundColor": "#000000"
+}

@@ -1,0 +1,49 @@
+{
+    "breadcrumbData": {
+        "isVirtualManuscript": false,
+        "primaryManuscript": {
+            "collection": {
+                "label": "Bern, Burgerbibliothek",
+                "url": "https://www.e-codices.unifr.ch/en/search/?iCurrentPage=1&sQueryString=&sSearchField=fullText&sSortField=score&aSelectedFacets[collection_facet][]=Bern%2C+Burgerbibliothek"
+            },
+            "shelfmark": {
+                "label": "Cod. A 92.10",
+                "url": "https://www.e-codices.unifr.ch/en/list/one/bbb/A0092-10"
+            },
+            "title": {
+                "label": "Livius: Periochae (Fragment)"
+            },
+            "page": {
+                "label": "Thumbnails"
+            }
+        }
+    },
+    "canvases": [
+        {
+            "id": "751129",
+            "src": "https://www.e-codices.unifr.ch/loris/bbb/bbb-A0092-10/bbb-A0092-10_001.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/bbb/A0092-10/1r",
+            "width": 120.36527886881383,
+            "height": 150,
+            "label": "f. 1r",
+            "active": true
+        },
+        {
+            "id": "751130",
+            "src": "https://www.e-codices.unifr.ch/loris/bbb/bbb-A0092-10/bbb-A0092-10_002.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/bbb/A0092-10/1v",
+            "width": 120.36527886881383,
+            "height": 150,
+            "label": "f. 1v"
+        },
+        {
+            "id": "751131",
+            "src": "https://www.e-codices.unifr.ch/loris/bbb/bbb-A0092-10/bbb-A0092-10_ProfilS.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/bbb/A0092-10/bindingProfileS",
+            "width": 120.36527886881383,
+            "height": 150,
+            "label": "QP card on page"
+        }
+    ],
+    "customViewerBackgroundColor": "#000000"
+}

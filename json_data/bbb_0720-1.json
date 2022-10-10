@@ -1,0 +1,81 @@
+{
+    "breadcrumbData": {
+        "isVirtualManuscript": false,
+        "primaryManuscript": {
+            "collection": {
+                "label": "Bern, Burgerbibliothek",
+                "url": "https://www.e-codices.unifr.ch/en/search/?iCurrentPage=1&sQueryString=&sSearchField=fullText&sSortField=score&aSelectedFacets[collection_facet][]=Bern%2C+Burgerbibliothek"
+            },
+            "shelfmark": {
+                "label": "Cod. 720.1",
+                "url": "https://www.e-codices.unifr.ch/en/list/one/bbb/0720-1"
+            },
+            "title": {
+                "label": "Annales Fuldenses (fragment)"
+            },
+            "page": {
+                "label": "Thumbnails"
+            }
+        }
+    },
+    "canvases": [
+        {
+            "id": "14373",
+            "src": "https://www.e-codices.unifr.ch/loris/bbb/bbb-0720-1/bbb-0720-1_001r.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/bbb/0720-1/1r",
+            "width": 112.426614481409,
+            "height": 150,
+            "label": "f. 1r",
+            "active": true
+        },
+        {
+            "id": "14374",
+            "src": "https://www.e-codices.unifr.ch/loris/bbb/bbb-0720-1/bbb-0720-1_001v.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/bbb/0720-1/1v",
+            "width": 112.426614481409,
+            "height": 150,
+            "label": "f. 1v"
+        },
+        {
+            "id": "14375",
+            "src": "https://www.e-codices.unifr.ch/loris/bbb/bbb-0720-1/bbb-0720-1_002r.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/bbb/0720-1/2r",
+            "width": 112.426614481409,
+            "height": 150,
+            "label": "f. 2r"
+        },
+        {
+            "id": "14376",
+            "src": "https://www.e-codices.unifr.ch/loris/bbb/bbb-0720-1/bbb-0720-1_002v.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/bbb/0720-1/2v",
+            "width": 112.426614481409,
+            "height": 150,
+            "label": "f. 2v"
+        },
+        {
+            "id": "14377",
+            "src": "https://www.e-codices.unifr.ch/loris/bbb/bbb-0720-1/bbb-0720-1_MassS.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/bbb/0720-1/bindingRulerS",
+            "width": 112.426614481409,
+            "height": 150,
+            "label": "Ruler on page"
+        },
+        {
+            "id": "14378",
+            "src": "https://www.e-codices.unifr.ch/loris/bbb/bbb-0720-1/bbb-0720-1_ProfilS.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/bbb/0720-1/bindingProfileS",
+            "width": 112.426614481409,
+            "height": 150,
+            "label": "QP card on page"
+        },
+        {
+            "id": "14379",
+            "src": "https://www.e-codices.unifr.ch/loris/bbb/bbb-0720-1/bbb-0720-1_ProfilSG.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/bbb/0720-1/bindingProfileSG",
+            "width": 200.13054830287206,
+            "height": 150,
+            "label": "Digital Colorchecker"
+        }
+    ],
+    "customViewerBackgroundColor": "#000000"
+}

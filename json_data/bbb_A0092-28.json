@@ -1,0 +1,65 @@
+{
+    "breadcrumbData": {
+        "isVirtualManuscript": false,
+        "primaryManuscript": {
+            "collection": {
+                "label": "Bern, Burgerbibliothek",
+                "url": "https://www.e-codices.unifr.ch/en/search/?iCurrentPage=1&sQueryString=&sSearchField=fullText&sSortField=score&aSelectedFacets[collection_facet][]=Bern%2C+Burgerbibliothek"
+            },
+            "shelfmark": {
+                "label": "Cod. A 92.28",
+                "url": "https://www.e-codices.unifr.ch/en/list/one/bbb/A0092-28"
+            },
+            "title": {
+                "label": "Hieronymus: Commentaria in Matthaeum; Orthographia\u2026"
+            },
+            "page": {
+                "label": "Thumbnails"
+            }
+        }
+    },
+    "canvases": [
+        {
+            "id": "751836",
+            "src": "https://www.e-codices.unifr.ch/loris/bbb/bbb-A0092-28/bbb-A0092-28_001r.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/bbb/A0092-28/1r",
+            "width": 105.72355533790402,
+            "height": 150,
+            "label": "f. 1r",
+            "active": true
+        },
+        {
+            "id": "751837",
+            "src": "https://www.e-codices.unifr.ch/loris/bbb/bbb-A0092-28/bbb-A0092-28_001v.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/bbb/A0092-28/1v",
+            "width": 105.72355533790402,
+            "height": 150,
+            "label": "f. 1v"
+        },
+        {
+            "id": "751838",
+            "src": "https://www.e-codices.unifr.ch/loris/bbb/bbb-A0092-28/bbb-A0092-28_002r.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/bbb/A0092-28/2r",
+            "width": 105.72355533790402,
+            "height": 150,
+            "label": "f. 2r"
+        },
+        {
+            "id": "751839",
+            "src": "https://www.e-codices.unifr.ch/loris/bbb/bbb-A0092-28/bbb-A0092-28_002v.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/bbb/A0092-28/2v",
+            "width": 105.72355533790402,
+            "height": 150,
+            "label": "f. 2v"
+        },
+        {
+            "id": "751840",
+            "src": "https://www.e-codices.unifr.ch/loris/bbb/bbb-A0092-28/bbb-A0092-28_ProfilS.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/bbb/A0092-28/bindingProfileS",
+            "width": 105.72355533790402,
+            "height": 150,
+            "label": "QP card on page"
+        }
+    ],
+    "customViewerBackgroundColor": "#000000"
+}

@@ -1,0 +1,65 @@
+{
+    "breadcrumbData": {
+        "isVirtualManuscript": false,
+        "primaryManuscript": {
+            "collection": {
+                "label": "Bern, Burgerbibliothek",
+                "url": "https://www.e-codices.unifr.ch/en/search/?iCurrentPage=1&sQueryString=&sSearchField=fullText&sSortField=score&aSelectedFacets[collection_facet][]=Bern%2C+Burgerbibliothek"
+            },
+            "shelfmark": {
+                "label": "Cod. 722.4",
+                "url": "https://www.e-codices.unifr.ch/en/list/one/bbb/0722-4"
+            },
+            "title": {
+                "label": "Constantinus Africanus: Viaticus (fragment)"
+            },
+            "page": {
+                "label": "Thumbnails"
+            }
+        }
+    },
+    "canvases": [
+        {
+            "id": "811049",
+            "src": "https://www.e-codices.unifr.ch/loris/bbb/bbb-0722-4/bbb-0722-4_0001r.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/bbb/0722-4/1r",
+            "width": 148.8831337002266,
+            "height": 150,
+            "label": "f. 1r",
+            "active": true
+        },
+        {
+            "id": "811050",
+            "src": "https://www.e-codices.unifr.ch/loris/bbb/bbb-0722-4/bbb-0722-4_0001v.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/bbb/0722-4/1v",
+            "width": 148.8831337002266,
+            "height": 150,
+            "label": "f. 1v"
+        },
+        {
+            "id": "811051",
+            "src": "https://www.e-codices.unifr.ch/loris/bbb/bbb-0722-4/bbb-0722-4_0002r.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/bbb/0722-4/2r",
+            "width": 148.8831337002266,
+            "height": 150,
+            "label": "f. 2r"
+        },
+        {
+            "id": "811052",
+            "src": "https://www.e-codices.unifr.ch/loris/bbb/bbb-0722-4/bbb-0722-4_0002v.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/bbb/0722-4/2v",
+            "width": 148.8831337002266,
+            "height": 150,
+            "label": "f. 2v"
+        },
+        {
+            "id": "811053",
+            "src": "https://www.e-codices.unifr.ch/loris/bbb/bbb-0722-4/bbb-0722-4_ProfilS.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/bbb/0722-4/bindingProfileS",
+            "width": 148.8831337002266,
+            "height": 150,
+            "label": "QP card on page"
+        }
+    ],
+    "customViewerBackgroundColor": "#000000"
+}

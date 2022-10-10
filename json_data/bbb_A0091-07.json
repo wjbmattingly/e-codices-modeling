@@ -1,0 +1,65 @@
+{
+    "breadcrumbData": {
+        "isVirtualManuscript": false,
+        "primaryManuscript": {
+            "collection": {
+                "label": "Bern, Burgerbibliothek",
+                "url": "https://www.e-codices.unifr.ch/en/search/?iCurrentPage=1&sQueryString=&sSearchField=fullText&sSortField=score&aSelectedFacets[collection_facet][]=Bern%2C+Burgerbibliothek"
+            },
+            "shelfmark": {
+                "label": "Cod. A 91.7",
+                "url": "https://www.e-codices.unifr.ch/en/list/one/bbb/A0091-07"
+            },
+            "title": {
+                "label": "Dioscoride: De materia medica (Fragment)"
+            },
+            "page": {
+                "label": "Thumbnails"
+            }
+        }
+    },
+    "canvases": [
+        {
+            "id": "750306",
+            "src": "https://www.e-codices.unifr.ch/loris/bbb/bbb-A0091-07/bbb-A0091-07_001r.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/bbb/A0091-07/1r",
+            "width": 106.81957561633754,
+            "height": 150,
+            "label": "f. 1r",
+            "active": true
+        },
+        {
+            "id": "750307",
+            "src": "https://www.e-codices.unifr.ch/loris/bbb/bbb-A0091-07/bbb-A0091-07_001v.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/bbb/A0091-07/1v",
+            "width": 106.81957561633754,
+            "height": 150,
+            "label": "f. 1v"
+        },
+        {
+            "id": "750308",
+            "src": "https://www.e-codices.unifr.ch/loris/bbb/bbb-A0091-07/bbb-A0091-07_002r.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/bbb/A0091-07/2r",
+            "width": 106.81957561633754,
+            "height": 150,
+            "label": "f. 2r"
+        },
+        {
+            "id": "750309",
+            "src": "https://www.e-codices.unifr.ch/loris/bbb/bbb-A0091-07/bbb-A0091-07_002v.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/bbb/A0091-07/2v",
+            "width": 106.81957561633754,
+            "height": 150,
+            "label": "f. 2v"
+        },
+        {
+            "id": "750310",
+            "src": "https://www.e-codices.unifr.ch/loris/bbb/bbb-A0091-07/bbb-A0091-07_ProfilS.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/bbb/A0091-07/bindingProfileS",
+            "width": 106.81957561633754,
+            "height": 150,
+            "label": "QP card on page"
+        }
+    ],
+    "customViewerBackgroundColor": "#000000"
+}
