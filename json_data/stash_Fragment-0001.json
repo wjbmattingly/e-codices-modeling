@@ -1,0 +1,81 @@
+{
+    "breadcrumbData": {
+        "isVirtualManuscript": false,
+        "primaryManuscript": {
+            "collection": {
+                "label": "Schaffhausen, Staatsarchiv",
+                "url": "https://www.e-codices.unifr.ch/en/search/?iCurrentPage=1&sQueryString=&sSearchField=fullText&sSortField=score&aSelectedFacets[collection_facet][]=Schaffhausen%2C+Staatsarchiv"
+            },
+            "shelfmark": {
+                "label": "Fragment 1",
+                "url": "https://www.e-codices.unifr.ch/en/list/one/stash/Fragment-0001"
+            },
+            "title": {
+                "label": "Versus de mensibus"
+            },
+            "page": {
+                "label": "Thumbnails"
+            }
+        }
+    },
+    "canvases": [
+        {
+            "id": "380513",
+            "src": "https://www.e-codices.unifr.ch/loris/stash/stash-Fragment-0001/stash-Fragment-0001_001.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/stash/Fragment-0001/1",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 1",
+            "active": true
+        },
+        {
+            "id": "380514",
+            "src": "https://www.e-codices.unifr.ch/loris/stash/stash-Fragment-0001/stash-Fragment-0001_002.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/stash/Fragment-0001/2",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 2"
+        },
+        {
+            "id": "380515",
+            "src": "https://www.e-codices.unifr.ch/loris/stash/stash-Fragment-0001/stash-Fragment-0001_003.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/stash/Fragment-0001/3",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 3"
+        },
+        {
+            "id": "380516",
+            "src": "https://www.e-codices.unifr.ch/loris/stash/stash-Fragment-0001/stash-Fragment-0001_004.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/stash/Fragment-0001/4",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 4"
+        },
+        {
+            "id": "380517",
+            "src": "https://www.e-codices.unifr.ch/loris/stash/stash-Fragment-0001/stash-Fragment-0001_MassS.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/stash/Fragment-0001/bindingRulerS",
+            "width": 112.5,
+            "height": 150,
+            "label": "Ruler on page"
+        },
+        {
+            "id": "380518",
+            "src": "https://www.e-codices.unifr.ch/loris/stash/stash-Fragment-0001/stash-Fragment-0001_ProfilS.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/stash/Fragment-0001/bindingProfileS",
+            "width": 112.5,
+            "height": 150,
+            "label": "QP card on page"
+        },
+        {
+            "id": "380519",
+            "src": "https://www.e-codices.unifr.ch/loris/stash/stash-Fragment-0001/stash-Fragment-0001_ProfilSG.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/stash/Fragment-0001/bindingProfileSG",
+            "width": 200,
+            "height": 150,
+            "label": "Digital Colorchecker"
+        }
+    ],
+    "customViewerBackgroundColor": "#000000"
+}

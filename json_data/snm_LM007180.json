@@ -1,0 +1,57 @@
+{
+    "breadcrumbData": {
+        "isVirtualManuscript": false,
+        "primaryManuscript": {
+            "collection": {
+                "label": "Z\u00fcrich, Schweizerisches Nationalmuseum",
+                "url": "https://www.e-codices.unifr.ch/en/search/?iCurrentPage=1&sQueryString=&sSearchField=fullText&sSortField=score&aSelectedFacets[collection_facet][]=Z%C3%BCrich%2C+Schweizerisches+Nationalmuseum"
+            },
+            "shelfmark": {
+                "label": "LM 7180",
+                "url": "https://www.e-codices.unifr.ch/en/list/one/snm/LM007180"
+            },
+            "title": {
+                "label": "Calendar fragment (January and February)"
+            },
+            "page": {
+                "label": "Thumbnails"
+            }
+        }
+    },
+    "canvases": [
+        {
+            "id": "594748",
+            "src": "https://www.e-codices.unifr.ch/loris/snm/snm-LM007180/snm-LM007180_frag_recto.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/snm/LM007180/recto",
+            "width": 112.5,
+            "height": 150,
+            "label": "Recto",
+            "active": true
+        },
+        {
+            "id": "594749",
+            "src": "https://www.e-codices.unifr.ch/loris/snm/snm-LM007180/snm-LM007180_frag_verso.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/snm/LM007180/verso",
+            "width": 112.5,
+            "height": 150,
+            "label": "Verso"
+        },
+        {
+            "id": "594750",
+            "src": "https://www.e-codices.unifr.ch/loris/snm/snm-LM007180/snm-LM007180_Profil.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/snm/LM007180/bindingProfile",
+            "width": 112.5,
+            "height": 150,
+            "label": "Color profile"
+        },
+        {
+            "id": "594751",
+            "src": "https://www.e-codices.unifr.ch/loris/snm/snm-LM007180/snm-LM007180_ProfilSG.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/snm/LM007180/bindingProfileSG",
+            "width": 200,
+            "height": 150,
+            "label": "Digital Colorchecker"
+        }
+    ],
+    "customViewerBackgroundColor": "#000000"
+}

@@ -1,0 +1,57 @@
+{
+    "breadcrumbData": {
+        "isVirtualManuscript": false,
+        "primaryManuscript": {
+            "collection": {
+                "label": "Z\u00fcrich, Schweizerisches Nationalmuseum",
+                "url": "https://www.e-codices.unifr.ch/en/search/?iCurrentPage=1&sQueryString=&sSearchField=fullText&sSortField=score&aSelectedFacets[collection_facet][]=Z%C3%BCrich%2C+Schweizerisches+Nationalmuseum"
+            },
+            "shelfmark": {
+                "label": "LM 71410",
+                "url": "https://www.e-codices.unifr.ch/en/list/one/snm/LM071410"
+            },
+            "title": {
+                "label": "Fragment with the Last Supper from the Gradual\u2026"
+            },
+            "page": {
+                "label": "Thumbnails"
+            }
+        }
+    },
+    "canvases": [
+        {
+            "id": "788149",
+            "src": "https://www.e-codices.unifr.ch/loris/snm/snm-LM071410/snm-LM071410_Var_frag_recto.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/snm/LM071410/recto",
+            "width": 112.5,
+            "height": 150,
+            "label": "Recto",
+            "active": true
+        },
+        {
+            "id": "788150",
+            "src": "https://www.e-codices.unifr.ch/loris/snm/snm-LM071410/snm-LM071410_Var_frag_verso.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/snm/LM071410/verso",
+            "width": 112.5,
+            "height": 150,
+            "label": "Verso"
+        },
+        {
+            "id": "788151",
+            "src": "https://www.e-codices.unifr.ch/loris/snm/snm-LM071410/snm-LM071410_Var_Profil.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/snm/LM071410/bindingProfile",
+            "width": 112.5,
+            "height": 150,
+            "label": "Color profile"
+        },
+        {
+            "id": "595531",
+            "src": "https://www.e-codices.unifr.ch/loris/snm/snm-LM071410/snm-LM071410_ProfilSG.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/snm/LM071410/bindingProfileSG",
+            "width": 200,
+            "height": 150,
+            "label": "Digital Colorchecker"
+        }
+    ],
+    "customViewerBackgroundColor": "#000000"
+}

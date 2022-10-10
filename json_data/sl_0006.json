@@ -1,0 +1,104 @@
+{
+    "breadcrumbData": {
+        "isVirtualManuscript": true,
+        "primaryManuscript": {
+            "collection": {
+                "label": "[sine loco], codices restituti",
+                "url": "https://www.e-codices.unifr.ch/en/search/?iCurrentPage=1&sQueryString=&sSearchField=fullText&sSortField=score&aSelectedFacets[collection_facet][]=%5Bsine+loco%5D%2C+codices+restituti"
+            },
+            "shelfmark": {
+                "label": "Cod. 6 (Concilium Ephesinum, Fragment)",
+                "url": "https://www.e-codices.unifr.ch/en/list/one/sl/0006"
+            },
+            "title": {
+                "label": "Concilium Ephesinum (fragment)"
+            }
+        },
+        "virtualManuscriptLabel": "Virtual Manuscript",
+        "physicalManuscriptLabel": "Physical Manuscript",
+        "physicalManuscript": {
+            "collection": {
+                "label": "Chicago, The Newberry Library",
+                "url": "https://www.e-codices.unifr.ch/en/search/?iCurrentPage=1&sQueryString=&sSearchField=fullText&sSortField=score&aSelectedFacets[collection_facet][]=Chicago%2C+The+Newberry+Library"
+            },
+            "shelfmark": {
+                "label": "Case Ms Fragment 7",
+                "url": "https://www.e-codices.unifr.ch/en/list/one/nlc/CaseMsFragment-07"
+            },
+            "title": {
+                "label": "Concilium Ephesinum (fragment)"
+            },
+            "page": {
+                "label": "Thumbnails"
+            }
+        }
+    },
+    "canvases": [
+        {
+            "id": "963652",
+            "src": "https://www.e-codices.unifr.ch/loris/nlc/nlc-CaseMsFragment-07/nlc-CaseMsFragment-07_0001r-s002.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sl/0006/nlc-CaseMsFragment-07_0001r-s002",
+            "width": 79.04282115869017,
+            "height": 150,
+            "label": "f. Chicago_Ir",
+            "active": true
+        },
+        {
+            "id": "963654",
+            "src": "https://www.e-codices.unifr.ch/loris/nlc/nlc-CaseMsFragment-07/nlc-CaseMsFragment-07_0001v-s001.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sl/0006/nlc-CaseMsFragment-07_0001v-s001",
+            "width": 79.93166580711707,
+            "height": 150,
+            "label": "f. Chicago_Iv"
+        },
+        {
+            "id": "963662",
+            "src": "https://www.e-codices.unifr.ch/loris/aws/aws-B-WG/aws-B-WG_0001v-s002.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sl/0006/aws-B-WG_0001v-s002",
+            "width": 100,
+            "height": 150,
+            "label": "f. Steinhausen_Ir"
+        },
+        {
+            "id": "963657",
+            "src": "https://www.e-codices.unifr.ch/loris/aws/aws-B-WG/aws-B-WG_0001r-s001.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sl/0006/aws-B-WG_0001r-s001",
+            "width": 100,
+            "height": 150,
+            "label": "f. Steinhausen_Iv"
+        },
+        {
+            "id": "963658",
+            "src": "https://www.e-codices.unifr.ch/loris/aws/aws-B-WG/aws-B-WG_0001r-s002.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sl/0006/aws-B-WG_0001r-s002",
+            "width": 100,
+            "height": 150,
+            "label": "f. Steinhausen_IIr"
+        },
+        {
+            "id": "963661",
+            "src": "https://www.e-codices.unifr.ch/loris/aws/aws-B-WG/aws-B-WG_0001v-s001.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sl/0006/aws-B-WG_0001v-s001",
+            "width": 100,
+            "height": 150,
+            "label": "f. Steinhausen_IIv"
+        },
+        {
+            "id": "963655",
+            "src": "https://www.e-codices.unifr.ch/loris/nlc/nlc-CaseMsFragment-07/nlc-CaseMsFragment-07_0001v-s002.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sl/0006/nlc-CaseMsFragment-07_0001v-s002",
+            "width": 79.93166580711707,
+            "height": 150,
+            "label": "f. Chicago_IIr"
+        },
+        {
+            "id": "963651",
+            "src": "https://www.e-codices.unifr.ch/loris/nlc/nlc-CaseMsFragment-07/nlc-CaseMsFragment-07_0001r-s001.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sl/0006/nlc-CaseMsFragment-07_0001r-s001",
+            "width": 79.04282115869017,
+            "height": 150,
+            "label": "f. Chicago_IIv"
+        }
+    ],
+    "customViewerBackgroundColor": "#000000"
+}

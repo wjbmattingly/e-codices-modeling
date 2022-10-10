@@ -1,0 +1,65 @@
+{
+    "breadcrumbData": {
+        "isVirtualManuscript": false,
+        "primaryManuscript": {
+            "collection": {
+                "label": "Solothurn, Staatsarchiv",
+                "url": "https://www.e-codices.unifr.ch/en/search/?iCurrentPage=1&sQueryString=&sSearchField=fullText&sSortField=score&aSelectedFacets[collection_facet][]=Solothurn%2C+Staatsarchiv"
+            },
+            "shelfmark": {
+                "label": "R 1.1.43",
+                "url": "https://www.e-codices.unifr.ch/en/list/one/staso/R0001-0001-0043"
+            },
+            "title": {
+                "label": "Biblia latina (Vulgata recensione Theodulfi).\u2026"
+            },
+            "page": {
+                "label": "Thumbnails"
+            }
+        }
+    },
+    "canvases": [
+        {
+            "id": "478369",
+            "src": "https://www.e-codices.unifr.ch/loris/staso/staso-R0001-0001-0043/staso-R0001-0001-0043_001.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/staso/R0001-0001-0043/1",
+            "width": 200,
+            "height": 150,
+            "label": "p. 1",
+            "active": true
+        },
+        {
+            "id": "478370",
+            "src": "https://www.e-codices.unifr.ch/loris/staso/staso-R0001-0001-0043/staso-R0001-0001-0043_002.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/staso/R0001-0001-0043/2",
+            "width": 200,
+            "height": 150,
+            "label": "p. 2"
+        },
+        {
+            "id": "478371",
+            "src": "https://www.e-codices.unifr.ch/loris/staso/staso-R0001-0001-0043/staso-R0001-0001-0043_MassS.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/staso/R0001-0001-0043/bindingRulerS",
+            "width": 200,
+            "height": 150,
+            "label": "Ruler on page"
+        },
+        {
+            "id": "478372",
+            "src": "https://www.e-codices.unifr.ch/loris/staso/staso-R0001-0001-0043/staso-R0001-0001-0043_ProfilS.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/staso/R0001-0001-0043/bindingProfileS",
+            "width": 200,
+            "height": 150,
+            "label": "QP card on page"
+        },
+        {
+            "id": "814640",
+            "src": "https://www.e-codices.unifr.ch/loris/staso/staso-R0001-0001-0043/staso-R0001-0001-0043_ProfilSG.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/staso/R0001-0001-0043/bindingProfileSG",
+            "width": 200,
+            "height": 150,
+            "label": "Digital Colorchecker"
+        }
+    ],
+    "customViewerBackgroundColor": "#000000"
+}

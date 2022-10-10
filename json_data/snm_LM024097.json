@@ -1,0 +1,65 @@
+{
+    "breadcrumbData": {
+        "isVirtualManuscript": false,
+        "primaryManuscript": {
+            "collection": {
+                "label": "Z\u00fcrich, Schweizerisches Nationalmuseum",
+                "url": "https://www.e-codices.unifr.ch/en/search/?iCurrentPage=1&sQueryString=&sSearchField=fullText&sSortField=score&aSelectedFacets[collection_facet][]=Z%C3%BCrich%2C+Schweizerisches+Nationalmuseum"
+            },
+            "shelfmark": {
+                "label": "LM 24097",
+                "url": "https://www.e-codices.unifr.ch/en/list/one/snm/LM024097"
+            },
+            "title": {
+                "label": "Letter of Protection"
+            },
+            "page": {
+                "label": "Thumbnails"
+            }
+        }
+    },
+    "canvases": [
+        {
+            "id": "376200",
+            "src": "https://www.e-codices.unifr.ch/loris/snm/snm-LM024097/snm-LM024097_001r.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/snm/LM024097/1r",
+            "width": 200.13054830287206,
+            "height": 150,
+            "label": "f. 1r",
+            "active": true
+        },
+        {
+            "id": "376201",
+            "src": "https://www.e-codices.unifr.ch/loris/snm/snm-LM024097/snm-LM024097_001v.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/snm/LM024097/1v",
+            "width": 200.13054830287206,
+            "height": 150,
+            "label": "f. 1v"
+        },
+        {
+            "id": "376202",
+            "src": "https://www.e-codices.unifr.ch/loris/snm/snm-LM024097/snm-LM024097_MassS.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/snm/LM024097/bindingRulerS",
+            "width": 200.13054830287206,
+            "height": 150,
+            "label": "Ruler on page"
+        },
+        {
+            "id": "376203",
+            "src": "https://www.e-codices.unifr.ch/loris/snm/snm-LM024097/snm-LM024097_ProfilS.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/snm/LM024097/bindingProfileS",
+            "width": 200.13054830287206,
+            "height": 150,
+            "label": "QP card on page"
+        },
+        {
+            "id": "376204",
+            "src": "https://www.e-codices.unifr.ch/loris/snm/snm-LM024097/snm-LM024097_ProfilSG.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/snm/LM024097/bindingProfileSG",
+            "width": 200.13054830287206,
+            "height": 150,
+            "label": "Digital Colorchecker"
+        }
+    ],
+    "customViewerBackgroundColor": "#000000"
+}

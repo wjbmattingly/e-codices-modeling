@@ -1,0 +1,41 @@
+{
+    "breadcrumbData": {
+        "isVirtualManuscript": false,
+        "primaryManuscript": {
+            "collection": {
+                "label": "St. Gallen, Stiftsarchiv (Abtei Pf\u00e4fers)",
+                "url": "https://www.e-codices.unifr.ch/en/search/?iCurrentPage=1&sQueryString=&sSearchField=fullText&sSortField=score&aSelectedFacets[collection_facet][]=St.+Gallen%2C+Stiftsarchiv+%28Abtei+Pf%C3%A4fers%29"
+            },
+            "shelfmark": {
+                "label": "Fragm. Fab. IV",
+                "url": "https://www.e-codices.unifr.ch/en/list/one/ssg/fragm0004"
+            },
+            "title": {
+                "label": "Passion Play (Fragment)"
+            },
+            "page": {
+                "label": "Thumbnails"
+            }
+        }
+    },
+    "canvases": [
+        {
+            "id": "379476",
+            "src": "https://www.e-codices.unifr.ch/loris/ssg/ssg-fragm0004/ssg-fragm0004_001r.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/ssg/fragm0004/1r",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 1r",
+            "active": true
+        },
+        {
+            "id": "379477",
+            "src": "https://www.e-codices.unifr.ch/loris/ssg/ssg-fragm0004/ssg-fragm0004_001v.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/ssg/fragm0004/1v",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 1v"
+        }
+    ],
+    "customViewerBackgroundColor": "#000000"
+}

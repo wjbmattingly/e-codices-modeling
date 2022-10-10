@@ -1,0 +1,41 @@
+{
+    "breadcrumbData": {
+        "isVirtualManuscript": false,
+        "primaryManuscript": {
+            "collection": {
+                "label": "St. Petersburg, National Library of Russia",
+                "url": "https://www.e-codices.unifr.ch/en/search/?iCurrentPage=1&sQueryString=&sSearchField=fullText&sSortField=score&aSelectedFacets[collection_facet][]=St.+Petersburg%2C+National+Library+of+Russia"
+            },
+            "shelfmark": {
+                "label": "Lat.F.papyr. I.1",
+                "url": "https://www.e-codices.unifr.ch/en/list/one/nlr/lat-F-I-1"
+            },
+            "title": {
+                "label": "Augustini Hipponensis Fragmentum Sermonis\u2026"
+            },
+            "page": {
+                "label": "Thumbnails"
+            }
+        }
+    },
+    "canvases": [
+        {
+            "id": "339407",
+            "src": "https://www.e-codices.unifr.ch/loris/nlr/nlr-lat-F-I-1/nlr-lat-F-I-1_a.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/nlr/lat-F-I-1/a",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. a",
+            "active": true
+        },
+        {
+            "id": "339408",
+            "src": "https://www.e-codices.unifr.ch/loris/nlr/nlr-lat-F-I-1/nlr-lat-F-I-1_b.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/nlr/lat-F-I-1/b",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. b"
+        }
+    ],
+    "customViewerBackgroundColor": "#000000"
+}

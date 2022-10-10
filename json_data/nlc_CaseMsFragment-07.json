@@ -1,0 +1,41 @@
+{
+    "breadcrumbData": {
+        "isVirtualManuscript": false,
+        "primaryManuscript": {
+            "collection": {
+                "label": "Chicago, The Newberry Library",
+                "url": "https://www.e-codices.unifr.ch/en/search/?iCurrentPage=1&sQueryString=&sSearchField=fullText&sSortField=score&aSelectedFacets[collection_facet][]=Chicago%2C+The+Newberry+Library"
+            },
+            "shelfmark": {
+                "label": "Case Ms Fragment 7",
+                "url": "https://www.e-codices.unifr.ch/en/list/one/nlc/CaseMsFragment-07"
+            },
+            "title": {
+                "label": "Concilium Ephesinum (fragment)"
+            },
+            "page": {
+                "label": "Thumbnails"
+            }
+        }
+    },
+    "canvases": [
+        {
+            "id": "901602",
+            "src": "https://www.e-codices.unifr.ch/loris/nlc/nlc-CaseMsFragment-07/nlc-CaseMsFragment-07_0001r.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/nlc/CaseMsFragment-07/IIv-Ir",
+            "width": 158.08564231738035,
+            "height": 150,
+            "label": "f. IIv-Ir",
+            "active": true
+        },
+        {
+            "id": "901603",
+            "src": "https://www.e-codices.unifr.ch/loris/nlc/nlc-CaseMsFragment-07/nlc-CaseMsFragment-07_0001v.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/nlc/CaseMsFragment-07/Iv-IIr",
+            "width": 159.84399174832387,
+            "height": 150,
+            "label": "f. Iv-IIr"
+        }
+    ],
+    "customViewerBackgroundColor": "#000000"
+}

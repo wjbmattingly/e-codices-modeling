@@ -1,0 +1,505 @@
+{
+    "breadcrumbData": {
+        "isVirtualManuscript": false,
+        "primaryManuscript": {
+            "collection": {
+                "label": "Luzern, Staatsarchiv",
+                "url": "https://www.e-codices.unifr.ch/en/search/?iCurrentPage=1&sQueryString=&sSearchField=fullText&sSortField=score&aSelectedFacets[collection_facet][]=Luzern%2C+Staatsarchiv"
+            },
+            "shelfmark": {
+                "label": "Pontifikallektionar",
+                "url": "https://www.e-codices.unifr.ch/en/list/one/stalu/StiAHof"
+            },
+            "title": {
+                "label": "Pontifical-lectionary of Abbot Peter Eichhorn\u2026"
+            },
+            "page": {
+                "label": "Thumbnails"
+            }
+        }
+    },
+    "canvases": [
+        {
+            "id": "598725",
+            "src": "https://www.e-codices.unifr.ch/loris/stalu/stalu-StiAHof/stalu-StiAHof_e001.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/stalu/StiAHof/bindingA",
+            "width": 112.5,
+            "height": 150,
+            "label": "Front cover",
+            "active": true
+        },
+        {
+            "id": "598726",
+            "src": "https://www.e-codices.unifr.ch/loris/stalu/stalu-StiAHof/stalu-StiAHof_e005.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/stalu/StiAHof/bindingE",
+            "width": 112.5,
+            "height": 150,
+            "label": "Front paste-down"
+        },
+        {
+            "id": "598772",
+            "src": "https://www.e-codices.unifr.ch/loris/stalu/stalu-StiAHof/stalu-StiAHof_e005a.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/stalu/StiAHof/bindingEa",
+            "width": 112.5,
+            "height": 150,
+            "label": "Front paste-down a"
+        },
+        {
+            "id": "598771",
+            "src": "https://www.e-codices.unifr.ch/loris/stalu/stalu-StiAHof/stalu-StiAHof_e005_001r.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/stalu/StiAHof/bindingEb",
+            "width": 112.5,
+            "height": 150,
+            "label": "Front paste-down b"
+        },
+        {
+            "id": "598727",
+            "src": "https://www.e-codices.unifr.ch/loris/stalu/stalu-StiAHof/stalu-StiAHof_0000_001r.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/stalu/StiAHof/V1r",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. V1r"
+        },
+        {
+            "id": "598728",
+            "src": "https://www.e-codices.unifr.ch/loris/stalu/stalu-StiAHof/stalu-StiAHof_0000_001v.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/stalu/StiAHof/V1v",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. V1v"
+        },
+        {
+            "id": "598729",
+            "src": "https://www.e-codices.unifr.ch/loris/stalu/stalu-StiAHof/stalu-StiAHof_001r.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/stalu/StiAHof/1r",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 1r"
+        },
+        {
+            "id": "598730",
+            "src": "https://www.e-codices.unifr.ch/loris/stalu/stalu-StiAHof/stalu-StiAHof_001v.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/stalu/StiAHof/1v",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 1v"
+        },
+        {
+            "id": "598731",
+            "src": "https://www.e-codices.unifr.ch/loris/stalu/stalu-StiAHof/stalu-StiAHof_002r.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/stalu/StiAHof/2r",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 2r"
+        },
+        {
+            "id": "598732",
+            "src": "https://www.e-codices.unifr.ch/loris/stalu/stalu-StiAHof/stalu-StiAHof_002v.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/stalu/StiAHof/2v",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 2v"
+        },
+        {
+            "id": "598733",
+            "src": "https://www.e-codices.unifr.ch/loris/stalu/stalu-StiAHof/stalu-StiAHof_003r.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/stalu/StiAHof/3r",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 3r"
+        },
+        {
+            "id": "598734",
+            "src": "https://www.e-codices.unifr.ch/loris/stalu/stalu-StiAHof/stalu-StiAHof_003v.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/stalu/StiAHof/3v",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 3v"
+        },
+        {
+            "id": "598735",
+            "src": "https://www.e-codices.unifr.ch/loris/stalu/stalu-StiAHof/stalu-StiAHof_004r.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/stalu/StiAHof/4r",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 4r"
+        },
+        {
+            "id": "598736",
+            "src": "https://www.e-codices.unifr.ch/loris/stalu/stalu-StiAHof/stalu-StiAHof_004v.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/stalu/StiAHof/4v",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 4v"
+        },
+        {
+            "id": "598737",
+            "src": "https://www.e-codices.unifr.ch/loris/stalu/stalu-StiAHof/stalu-StiAHof_005r.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/stalu/StiAHof/5r",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 5r"
+        },
+        {
+            "id": "598738",
+            "src": "https://www.e-codices.unifr.ch/loris/stalu/stalu-StiAHof/stalu-StiAHof_005v.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/stalu/StiAHof/5v",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 5v"
+        },
+        {
+            "id": "598739",
+            "src": "https://www.e-codices.unifr.ch/loris/stalu/stalu-StiAHof/stalu-StiAHof_006r.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/stalu/StiAHof/6r",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 6r"
+        },
+        {
+            "id": "598740",
+            "src": "https://www.e-codices.unifr.ch/loris/stalu/stalu-StiAHof/stalu-StiAHof_006v.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/stalu/StiAHof/6v",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 6v"
+        },
+        {
+            "id": "598741",
+            "src": "https://www.e-codices.unifr.ch/loris/stalu/stalu-StiAHof/stalu-StiAHof_007r.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/stalu/StiAHof/7r",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 7r"
+        },
+        {
+            "id": "598742",
+            "src": "https://www.e-codices.unifr.ch/loris/stalu/stalu-StiAHof/stalu-StiAHof_007v.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/stalu/StiAHof/7v",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 7v"
+        },
+        {
+            "id": "598743",
+            "src": "https://www.e-codices.unifr.ch/loris/stalu/stalu-StiAHof/stalu-StiAHof_008r.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/stalu/StiAHof/8r",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 8r"
+        },
+        {
+            "id": "598744",
+            "src": "https://www.e-codices.unifr.ch/loris/stalu/stalu-StiAHof/stalu-StiAHof_008v.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/stalu/StiAHof/8v",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 8v"
+        },
+        {
+            "id": "598745",
+            "src": "https://www.e-codices.unifr.ch/loris/stalu/stalu-StiAHof/stalu-StiAHof_009r.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/stalu/StiAHof/9r",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 9r"
+        },
+        {
+            "id": "598746",
+            "src": "https://www.e-codices.unifr.ch/loris/stalu/stalu-StiAHof/stalu-StiAHof_009v.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/stalu/StiAHof/9v",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 9v"
+        },
+        {
+            "id": "598747",
+            "src": "https://www.e-codices.unifr.ch/loris/stalu/stalu-StiAHof/stalu-StiAHof_010r.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/stalu/StiAHof/10r",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 10r"
+        },
+        {
+            "id": "598748",
+            "src": "https://www.e-codices.unifr.ch/loris/stalu/stalu-StiAHof/stalu-StiAHof_010v.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/stalu/StiAHof/10v",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 10v"
+        },
+        {
+            "id": "598749",
+            "src": "https://www.e-codices.unifr.ch/loris/stalu/stalu-StiAHof/stalu-StiAHof_011r.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/stalu/StiAHof/11r",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 11r"
+        },
+        {
+            "id": "598750",
+            "src": "https://www.e-codices.unifr.ch/loris/stalu/stalu-StiAHof/stalu-StiAHof_011v.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/stalu/StiAHof/11v",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 11v"
+        },
+        {
+            "id": "598751",
+            "src": "https://www.e-codices.unifr.ch/loris/stalu/stalu-StiAHof/stalu-StiAHof_012r.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/stalu/StiAHof/12r",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 12r"
+        },
+        {
+            "id": "598752",
+            "src": "https://www.e-codices.unifr.ch/loris/stalu/stalu-StiAHof/stalu-StiAHof_012v.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/stalu/StiAHof/12v",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 12v"
+        },
+        {
+            "id": "598753",
+            "src": "https://www.e-codices.unifr.ch/loris/stalu/stalu-StiAHof/stalu-StiAHof_013r.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/stalu/StiAHof/13r",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 13r"
+        },
+        {
+            "id": "598754",
+            "src": "https://www.e-codices.unifr.ch/loris/stalu/stalu-StiAHof/stalu-StiAHof_013v.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/stalu/StiAHof/13v",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 13v"
+        },
+        {
+            "id": "598755",
+            "src": "https://www.e-codices.unifr.ch/loris/stalu/stalu-StiAHof/stalu-StiAHof_014r.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/stalu/StiAHof/14r",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 14r"
+        },
+        {
+            "id": "598756",
+            "src": "https://www.e-codices.unifr.ch/loris/stalu/stalu-StiAHof/stalu-StiAHof_014v.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/stalu/StiAHof/14v",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 14v"
+        },
+        {
+            "id": "598757",
+            "src": "https://www.e-codices.unifr.ch/loris/stalu/stalu-StiAHof/stalu-StiAHof_015r.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/stalu/StiAHof/15r",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 15r"
+        },
+        {
+            "id": "598758",
+            "src": "https://www.e-codices.unifr.ch/loris/stalu/stalu-StiAHof/stalu-StiAHof_015v.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/stalu/StiAHof/15v",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 15v"
+        },
+        {
+            "id": "598759",
+            "src": "https://www.e-codices.unifr.ch/loris/stalu/stalu-StiAHof/stalu-StiAHof_016r.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/stalu/StiAHof/16r",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 16r"
+        },
+        {
+            "id": "598760",
+            "src": "https://www.e-codices.unifr.ch/loris/stalu/stalu-StiAHof/stalu-StiAHof_016v.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/stalu/StiAHof/16v",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 16v"
+        },
+        {
+            "id": "598761",
+            "src": "https://www.e-codices.unifr.ch/loris/stalu/stalu-StiAHof/stalu-StiAHof_017r.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/stalu/StiAHof/17r",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 17r"
+        },
+        {
+            "id": "598762",
+            "src": "https://www.e-codices.unifr.ch/loris/stalu/stalu-StiAHof/stalu-StiAHof_017v.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/stalu/StiAHof/17v",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 17v"
+        },
+        {
+            "id": "598763",
+            "src": "https://www.e-codices.unifr.ch/loris/stalu/stalu-StiAHof/stalu-StiAHof_018r.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/stalu/StiAHof/18r",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 18r"
+        },
+        {
+            "id": "598764",
+            "src": "https://www.e-codices.unifr.ch/loris/stalu/stalu-StiAHof/stalu-StiAHof_018v.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/stalu/StiAHof/18v",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 18v"
+        },
+        {
+            "id": "598765",
+            "src": "https://www.e-codices.unifr.ch/loris/stalu/stalu-StiAHof/stalu-StiAHof_019r.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/stalu/StiAHof/19r",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 19r"
+        },
+        {
+            "id": "598766",
+            "src": "https://www.e-codices.unifr.ch/loris/stalu/stalu-StiAHof/stalu-StiAHof_019v.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/stalu/StiAHof/19v",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 19v"
+        },
+        {
+            "id": "598767",
+            "src": "https://www.e-codices.unifr.ch/loris/stalu/stalu-StiAHof/stalu-StiAHof_e006.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/stalu/StiAHof/bindingF",
+            "width": 112.5,
+            "height": 150,
+            "label": "Rear paste-down"
+        },
+        {
+            "id": "598773",
+            "src": "https://www.e-codices.unifr.ch/loris/stalu/stalu-StiAHof/stalu-StiAHof_e006_001v.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/stalu/StiAHof/bindingFa-s1",
+            "width": 112.5,
+            "height": 150,
+            "label": "Rear paste-down a-1"
+        },
+        {
+            "id": "598774",
+            "src": "https://www.e-codices.unifr.ch/loris/stalu/stalu-StiAHof/stalu-StiAHof_e006a.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/stalu/StiAHof/bindingFa",
+            "width": 112.5,
+            "height": 150,
+            "label": "Rear paste-down a"
+        },
+        {
+            "id": "598768",
+            "src": "https://www.e-codices.unifr.ch/loris/stalu/stalu-StiAHof/stalu-StiAHof_e003.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/stalu/StiAHof/bindingC",
+            "width": 112.5,
+            "height": 150,
+            "label": "Back cover"
+        },
+        {
+            "id": "598769",
+            "src": "https://www.e-codices.unifr.ch/loris/stalu/stalu-StiAHof/stalu-StiAHof_e002.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/stalu/StiAHof/bindingB",
+            "width": 112.5,
+            "height": 150,
+            "label": "Spine"
+        },
+        {
+            "id": "598770",
+            "src": "https://www.e-codices.unifr.ch/loris/stalu/stalu-StiAHof/stalu-StiAHof_e004.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/stalu/StiAHof/bindingD",
+            "width": 112.5,
+            "height": 150,
+            "label": "Fore edge"
+        },
+        {
+            "id": "598775",
+            "src": "https://www.e-codices.unifr.ch/loris/stalu/stalu-StiAHof/stalu-StiAHof_e007.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/stalu/StiAHof/bindingG",
+            "width": 112.5,
+            "height": 150,
+            "label": "Head"
+        },
+        {
+            "id": "598776",
+            "src": "https://www.e-codices.unifr.ch/loris/stalu/stalu-StiAHof/stalu-StiAHof_e008.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/stalu/StiAHof/bindingH",
+            "width": 112.5,
+            "height": 150,
+            "label": "Tail"
+        },
+        {
+            "id": "598777",
+            "src": "https://www.e-codices.unifr.ch/loris/stalu/stalu-StiAHof/stalu-StiAHof_e009.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/stalu/StiAHof/bindingI",
+            "width": 200,
+            "height": 150,
+            "label": "View front cover"
+        },
+        {
+            "id": "598778",
+            "src": "https://www.e-codices.unifr.ch/loris/stalu/stalu-StiAHof/stalu-StiAHof_e010.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/stalu/StiAHof/bindingJ",
+            "width": 200,
+            "height": 150,
+            "label": "View back cover"
+        },
+        {
+            "id": "598779",
+            "src": "https://www.e-codices.unifr.ch/loris/stalu/stalu-StiAHof/stalu-StiAHof_e011.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/stalu/StiAHof/bindingK",
+            "width": 200,
+            "height": 150,
+            "label": "Open view"
+        },
+        {
+            "id": "598780",
+            "src": "https://www.e-codices.unifr.ch/loris/stalu/stalu-StiAHof/stalu-StiAHof_MassE.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/stalu/StiAHof/bindingRulerE",
+            "width": 112.5,
+            "height": 150,
+            "label": "Ruler on binding"
+        },
+        {
+            "id": "598781",
+            "src": "https://www.e-codices.unifr.ch/loris/stalu/stalu-StiAHof/stalu-StiAHof_MassS.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/stalu/StiAHof/bindingRulerS",
+            "width": 112.5,
+            "height": 150,
+            "label": "Ruler on page"
+        },
+        {
+            "id": "598782",
+            "src": "https://www.e-codices.unifr.ch/loris/stalu/stalu-StiAHof/stalu-StiAHof_ProfilE.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/stalu/StiAHof/bindingProfileE",
+            "width": 112.5,
+            "height": 150,
+            "label": "QP card on binding"
+        },
+        {
+            "id": "598783",
+            "src": "https://www.e-codices.unifr.ch/loris/stalu/stalu-StiAHof/stalu-StiAHof_ProfilS.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/stalu/StiAHof/bindingProfileS",
+            "width": 112.5,
+            "height": 150,
+            "label": "QP card on page"
+        },
+        {
+            "id": "598784",
+            "src": "https://www.e-codices.unifr.ch/loris/stalu/stalu-StiAHof/stalu-StiAHof_ProfilSG.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/stalu/StiAHof/bindingProfileSG",
+            "width": 200,
+            "height": 150,
+            "label": "Digital Colorchecker"
+        }
+    ],
+    "customViewerBackgroundColor": "#000000"
+}

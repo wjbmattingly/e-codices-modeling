@@ -1,0 +1,2561 @@
+{
+    "breadcrumbData": {
+        "isVirtualManuscript": false,
+        "primaryManuscript": {
+            "collection": {
+                "label": "Einsiedeln, Stiftsbibliothek",
+                "url": "https://www.e-codices.unifr.ch/en/search/?iCurrentPage=1&sQueryString=&sSearchField=fullText&sSortField=score&aSelectedFacets[collection_facet][]=Einsiedeln%2C+Stiftsbibliothek"
+            },
+            "shelfmark": {
+                "label": "Codex 319(645)",
+                "url": "https://www.e-codices.unifr.ch/en/list/one/sbe/0319"
+            },
+            "title": {
+                "label": "Composite manuscript"
+            },
+            "page": {
+                "label": "Thumbnails"
+            }
+        }
+    },
+    "canvases": [
+        {
+            "id": "361488",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_e001.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/bindingA",
+            "width": 112.5,
+            "height": 150,
+            "label": "Front cover",
+            "active": true
+        },
+        {
+            "id": "361492",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_e005.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/bindingE",
+            "width": 112.5,
+            "height": 150,
+            "label": "Front paste-down"
+        },
+        {
+            "id": "361184",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_000a.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/V1",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. V1"
+        },
+        {
+            "id": "361185",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_000b.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/V2",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. V2"
+        },
+        {
+            "id": "361186",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_001.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/1",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 1"
+        },
+        {
+            "id": "361187",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_002.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/2",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 2"
+        },
+        {
+            "id": "361188",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_003.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/3",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 3"
+        },
+        {
+            "id": "361189",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_004.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/4",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 4"
+        },
+        {
+            "id": "361190",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_005.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/5",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 5"
+        },
+        {
+            "id": "361191",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_006.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/6",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 6"
+        },
+        {
+            "id": "361192",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_007.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/7",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 7"
+        },
+        {
+            "id": "361193",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_008.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/8",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 8"
+        },
+        {
+            "id": "361194",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_009.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/9",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 9"
+        },
+        {
+            "id": "361195",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_010.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/10",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 10"
+        },
+        {
+            "id": "361196",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_011.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/11",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 11"
+        },
+        {
+            "id": "361197",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_012.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/12",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 12"
+        },
+        {
+            "id": "361198",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_013.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/13",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 13"
+        },
+        {
+            "id": "361199",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_014.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/14",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 14"
+        },
+        {
+            "id": "361200",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_015.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/15",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 15"
+        },
+        {
+            "id": "361201",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_016.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/16",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 16"
+        },
+        {
+            "id": "361202",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_017.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/17",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 17"
+        },
+        {
+            "id": "361203",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_018.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/18",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 18"
+        },
+        {
+            "id": "361204",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_019.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/19",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 19"
+        },
+        {
+            "id": "361205",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_020.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/20",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 20"
+        },
+        {
+            "id": "361206",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_021.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/21",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 21"
+        },
+        {
+            "id": "361207",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_022.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/22",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 22"
+        },
+        {
+            "id": "361208",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_023.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/23",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 23"
+        },
+        {
+            "id": "361209",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_024.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/24",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 24"
+        },
+        {
+            "id": "361210",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_025.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/25",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 25"
+        },
+        {
+            "id": "361211",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_026.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/26",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 26"
+        },
+        {
+            "id": "361212",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_027.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/27",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 27"
+        },
+        {
+            "id": "361213",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_028.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/28",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 28"
+        },
+        {
+            "id": "361214",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_029.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/29",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 29"
+        },
+        {
+            "id": "361215",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_030.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/30",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 30"
+        },
+        {
+            "id": "361216",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_031.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/31",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 31"
+        },
+        {
+            "id": "361217",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_032.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/32",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 32"
+        },
+        {
+            "id": "361218",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_033.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/33",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 33"
+        },
+        {
+            "id": "361219",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_034.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/34",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 34"
+        },
+        {
+            "id": "361220",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_035.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/35",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 35"
+        },
+        {
+            "id": "361221",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_036.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/36",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 36"
+        },
+        {
+            "id": "361222",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_037.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/37",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 37"
+        },
+        {
+            "id": "361223",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_038.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/38",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 38"
+        },
+        {
+            "id": "361224",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_039.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/39",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 39"
+        },
+        {
+            "id": "361225",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_040.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/40",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 40"
+        },
+        {
+            "id": "361226",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_041.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/41",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 41"
+        },
+        {
+            "id": "361227",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_042.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/42",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 42"
+        },
+        {
+            "id": "361228",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_043.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/43",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 43"
+        },
+        {
+            "id": "361229",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_044.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/44",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 44"
+        },
+        {
+            "id": "361230",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_045.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/45",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 45"
+        },
+        {
+            "id": "361231",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_046.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/46",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 46"
+        },
+        {
+            "id": "361232",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_047.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/47",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 47"
+        },
+        {
+            "id": "361233",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_048.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/48",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 48"
+        },
+        {
+            "id": "361234",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_049.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/49",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 49"
+        },
+        {
+            "id": "361235",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_050.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/50",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 50"
+        },
+        {
+            "id": "361236",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_051.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/51",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 51"
+        },
+        {
+            "id": "361237",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_052.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/52",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 52"
+        },
+        {
+            "id": "361238",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_053.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/53",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 53"
+        },
+        {
+            "id": "361239",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_054.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/54",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 54"
+        },
+        {
+            "id": "361240",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_055.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/55",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 55"
+        },
+        {
+            "id": "361241",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_056.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/56",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 56"
+        },
+        {
+            "id": "361242",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_057.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/57",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 57"
+        },
+        {
+            "id": "361243",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_058.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/58",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 58"
+        },
+        {
+            "id": "361244",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_059.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/59",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 59"
+        },
+        {
+            "id": "361245",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_060.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/60",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 60"
+        },
+        {
+            "id": "361246",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_061.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/61",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 61"
+        },
+        {
+            "id": "361247",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_062.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/62",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 62"
+        },
+        {
+            "id": "361248",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_063.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/63",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 63"
+        },
+        {
+            "id": "361249",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_064.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/64",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 64"
+        },
+        {
+            "id": "361250",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_065.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/65",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 65"
+        },
+        {
+            "id": "361251",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_066.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/66",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 66"
+        },
+        {
+            "id": "361252",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_067.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/67",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 67"
+        },
+        {
+            "id": "361253",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_068.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/68",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 68"
+        },
+        {
+            "id": "361254",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_069.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/69",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 69"
+        },
+        {
+            "id": "361255",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_070.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/70",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 70"
+        },
+        {
+            "id": "361256",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_071.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/71",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 71"
+        },
+        {
+            "id": "361257",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_072.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/72",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 72"
+        },
+        {
+            "id": "361258",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_073.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/73",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 73"
+        },
+        {
+            "id": "361259",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_074.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/74",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 74"
+        },
+        {
+            "id": "361260",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_075.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/75",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 75"
+        },
+        {
+            "id": "361261",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_076.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/76",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 76"
+        },
+        {
+            "id": "361262",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_077.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/77",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 77"
+        },
+        {
+            "id": "361263",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_078.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/78",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 78"
+        },
+        {
+            "id": "361264",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_079.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/79",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 79"
+        },
+        {
+            "id": "361265",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_080.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/80",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 80"
+        },
+        {
+            "id": "361266",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_081.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/81",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 81"
+        },
+        {
+            "id": "361267",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_082.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/82",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 82"
+        },
+        {
+            "id": "361268",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_083.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/83",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 83"
+        },
+        {
+            "id": "361269",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_084.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/84",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 84"
+        },
+        {
+            "id": "361270",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_085.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/85",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 85"
+        },
+        {
+            "id": "361271",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_086.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/86",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 86"
+        },
+        {
+            "id": "361272",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_087.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/87",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 87"
+        },
+        {
+            "id": "361273",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_088.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/88",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 88"
+        },
+        {
+            "id": "361274",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_089.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/89",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 89"
+        },
+        {
+            "id": "361275",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_090.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/90",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 90"
+        },
+        {
+            "id": "361276",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_091.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/91",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 91"
+        },
+        {
+            "id": "361277",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_092.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/92",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 92"
+        },
+        {
+            "id": "361278",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_093.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/93",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 93"
+        },
+        {
+            "id": "361279",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_094.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/94",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 94"
+        },
+        {
+            "id": "361280",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_095.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/95",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 95"
+        },
+        {
+            "id": "361281",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_096.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/96",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 96"
+        },
+        {
+            "id": "361282",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_097.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/97",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 97"
+        },
+        {
+            "id": "361283",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_098.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/98",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 98"
+        },
+        {
+            "id": "361284",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_099.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/99",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 99"
+        },
+        {
+            "id": "361285",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_100.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/100",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 100"
+        },
+        {
+            "id": "361286",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_101.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/101",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 101"
+        },
+        {
+            "id": "361287",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_102.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/102",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 102"
+        },
+        {
+            "id": "361288",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_103.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/103",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 103"
+        },
+        {
+            "id": "361289",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_104.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/104",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 104"
+        },
+        {
+            "id": "361290",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_105.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/105",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 105"
+        },
+        {
+            "id": "361291",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_106.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/106",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 106"
+        },
+        {
+            "id": "361292",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_107.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/107",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 107"
+        },
+        {
+            "id": "361293",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_108.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/108",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 108"
+        },
+        {
+            "id": "361294",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_109.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/109",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 109"
+        },
+        {
+            "id": "361295",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_110.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/110",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 110"
+        },
+        {
+            "id": "361296",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_111.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/111",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 111"
+        },
+        {
+            "id": "361297",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_112.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/112",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 112"
+        },
+        {
+            "id": "361298",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_113.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/113",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 113"
+        },
+        {
+            "id": "361299",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_114.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/114",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 114"
+        },
+        {
+            "id": "361300",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_115.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/115",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 115"
+        },
+        {
+            "id": "361301",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_116.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/116",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 116"
+        },
+        {
+            "id": "361302",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_117.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/117",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 117"
+        },
+        {
+            "id": "361303",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_118.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/118",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 118"
+        },
+        {
+            "id": "361304",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_119.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/119",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 119"
+        },
+        {
+            "id": "361305",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_120.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/120",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 120"
+        },
+        {
+            "id": "361306",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_121.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/121",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 121"
+        },
+        {
+            "id": "361307",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_122.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/122",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 122"
+        },
+        {
+            "id": "361308",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_123.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/123",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 123"
+        },
+        {
+            "id": "361309",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_124.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/124",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 124"
+        },
+        {
+            "id": "361310",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_125.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/125",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 125"
+        },
+        {
+            "id": "361311",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_126.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/126",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 126"
+        },
+        {
+            "id": "361312",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_127.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/127",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 127"
+        },
+        {
+            "id": "361313",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_128.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/128",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 128"
+        },
+        {
+            "id": "361314",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_129.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/129",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 129"
+        },
+        {
+            "id": "361315",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_130.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/130",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 130"
+        },
+        {
+            "id": "361316",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_131.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/131",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 131"
+        },
+        {
+            "id": "361317",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_132.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/132",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 132"
+        },
+        {
+            "id": "361318",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_133.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/133",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 133"
+        },
+        {
+            "id": "361319",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_134.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/134",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 134"
+        },
+        {
+            "id": "361320",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_135.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/135",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 135"
+        },
+        {
+            "id": "361321",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_136.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/136",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 136"
+        },
+        {
+            "id": "361322",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_137.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/137",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 137"
+        },
+        {
+            "id": "361323",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_138.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/138",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 138"
+        },
+        {
+            "id": "361324",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_139.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/139",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 139"
+        },
+        {
+            "id": "361325",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_140.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/140",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 140"
+        },
+        {
+            "id": "361326",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_141.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/141",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 141"
+        },
+        {
+            "id": "361327",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_142.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/142",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 142"
+        },
+        {
+            "id": "361328",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_143.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/143",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 143"
+        },
+        {
+            "id": "361329",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_144.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/144",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 144"
+        },
+        {
+            "id": "361330",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_145.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/145",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 145"
+        },
+        {
+            "id": "361331",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_146.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/146",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 146"
+        },
+        {
+            "id": "361332",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_147.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/147",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 147"
+        },
+        {
+            "id": "361333",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_148.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/148",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 148"
+        },
+        {
+            "id": "361334",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_149.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/149",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 149"
+        },
+        {
+            "id": "361335",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_150.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/150",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 150"
+        },
+        {
+            "id": "361336",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_151.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/151",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 151"
+        },
+        {
+            "id": "361337",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_152.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/152",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 152"
+        },
+        {
+            "id": "361338",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_153.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/153",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 153"
+        },
+        {
+            "id": "361339",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_154.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/154",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 154"
+        },
+        {
+            "id": "361340",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_155.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/155",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 155"
+        },
+        {
+            "id": "361341",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_156.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/156",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 156"
+        },
+        {
+            "id": "361342",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_157.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/157",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 157"
+        },
+        {
+            "id": "361343",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_158.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/158",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 158"
+        },
+        {
+            "id": "361344",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_159.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/159",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 159"
+        },
+        {
+            "id": "361345",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_160.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/160",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 160"
+        },
+        {
+            "id": "361346",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_161.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/161",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 161"
+        },
+        {
+            "id": "361347",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_162.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/162",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 162"
+        },
+        {
+            "id": "361348",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_163.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/163",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 163"
+        },
+        {
+            "id": "361349",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_164.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/164",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 164"
+        },
+        {
+            "id": "361350",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_165.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/165",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 165"
+        },
+        {
+            "id": "361351",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_166.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/166",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 166"
+        },
+        {
+            "id": "361352",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_167.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/167",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 167"
+        },
+        {
+            "id": "361353",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_168.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/168",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 168"
+        },
+        {
+            "id": "361354",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_169.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/169",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 169"
+        },
+        {
+            "id": "361355",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_170.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/170",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 170"
+        },
+        {
+            "id": "361356",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_171.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/171",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 171"
+        },
+        {
+            "id": "361357",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_172.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/172",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 172"
+        },
+        {
+            "id": "361358",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_173.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/173",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 173"
+        },
+        {
+            "id": "361359",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_174.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/174",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 174"
+        },
+        {
+            "id": "361360",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_175.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/175",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 175"
+        },
+        {
+            "id": "361361",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_176.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/176",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 176"
+        },
+        {
+            "id": "361362",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_177.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/177",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 177"
+        },
+        {
+            "id": "361363",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_178.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/178",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 178"
+        },
+        {
+            "id": "361364",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_179.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/179",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 179"
+        },
+        {
+            "id": "361365",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_180.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/180",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 180"
+        },
+        {
+            "id": "361366",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_181.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/181",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 181"
+        },
+        {
+            "id": "361367",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_182.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/182",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 182"
+        },
+        {
+            "id": "361368",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_183.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/183",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 183"
+        },
+        {
+            "id": "361369",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_184.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/184",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 184"
+        },
+        {
+            "id": "361370",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_185.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/185",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 185"
+        },
+        {
+            "id": "361371",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_186.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/186",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 186"
+        },
+        {
+            "id": "361372",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_187.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/187",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 187"
+        },
+        {
+            "id": "361373",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_188.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/188",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 188"
+        },
+        {
+            "id": "361374",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_189.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/189",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 189"
+        },
+        {
+            "id": "361375",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_190.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/190",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 190"
+        },
+        {
+            "id": "361376",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_191.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/191",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 191"
+        },
+        {
+            "id": "361377",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_192.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/192",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 192"
+        },
+        {
+            "id": "361378",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_193.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/193",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 193"
+        },
+        {
+            "id": "361379",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_194.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/194",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 194"
+        },
+        {
+            "id": "361380",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_195.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/195",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 195"
+        },
+        {
+            "id": "361381",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_196.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/196",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 196"
+        },
+        {
+            "id": "361382",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_197.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/197",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 197"
+        },
+        {
+            "id": "361383",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_198.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/198",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 198"
+        },
+        {
+            "id": "361384",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_199.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/199",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 199"
+        },
+        {
+            "id": "361385",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_200.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/200",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 200"
+        },
+        {
+            "id": "361386",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_201.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/201",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 201"
+        },
+        {
+            "id": "361387",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_202.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/202",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 202"
+        },
+        {
+            "id": "361388",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_203.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/203",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 203"
+        },
+        {
+            "id": "361389",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_204.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/204",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 204"
+        },
+        {
+            "id": "361390",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_205.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/205",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 205"
+        },
+        {
+            "id": "361391",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_206.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/206",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 206"
+        },
+        {
+            "id": "361392",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_207.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/207",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 207"
+        },
+        {
+            "id": "361393",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_208.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/208",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 208"
+        },
+        {
+            "id": "361394",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_209.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/209",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 209"
+        },
+        {
+            "id": "361395",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_210.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/210",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 210"
+        },
+        {
+            "id": "361396",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_211.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/211",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 211"
+        },
+        {
+            "id": "361397",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_212.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/212",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 212"
+        },
+        {
+            "id": "361398",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_213.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/213",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 213"
+        },
+        {
+            "id": "361399",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_214.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/214",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 214"
+        },
+        {
+            "id": "361400",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_215.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/215",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 215"
+        },
+        {
+            "id": "361401",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_216.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/216",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 216"
+        },
+        {
+            "id": "361402",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_217.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/217",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 217"
+        },
+        {
+            "id": "361403",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_218.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/218",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 218"
+        },
+        {
+            "id": "361404",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_219.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/219",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 219"
+        },
+        {
+            "id": "361405",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_220.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/220",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 220"
+        },
+        {
+            "id": "361406",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_221.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/221",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 221"
+        },
+        {
+            "id": "361407",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_222.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/222",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 222"
+        },
+        {
+            "id": "361408",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_223.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/223",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 223"
+        },
+        {
+            "id": "361409",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_224.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/224",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 224"
+        },
+        {
+            "id": "361410",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_225.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/225",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 225"
+        },
+        {
+            "id": "361411",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_226.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/226",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 226"
+        },
+        {
+            "id": "361412",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_227.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/227",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 227"
+        },
+        {
+            "id": "361413",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_228.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/228",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 228"
+        },
+        {
+            "id": "361414",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_229.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/229",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 229"
+        },
+        {
+            "id": "361415",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_230.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/230",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 230"
+        },
+        {
+            "id": "361416",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_231.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/231",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 231"
+        },
+        {
+            "id": "361417",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_232.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/232",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 232"
+        },
+        {
+            "id": "361418",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_233.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/233",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 233"
+        },
+        {
+            "id": "361419",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_234.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/234",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 234"
+        },
+        {
+            "id": "361420",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_235.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/235",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 235"
+        },
+        {
+            "id": "361421",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_236.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/236",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 236"
+        },
+        {
+            "id": "361422",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_237.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/237",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 237"
+        },
+        {
+            "id": "361423",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_238.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/238",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 238"
+        },
+        {
+            "id": "361424",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_239.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/239",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 239"
+        },
+        {
+            "id": "361425",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_240.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/240",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 240"
+        },
+        {
+            "id": "361426",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_241.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/241",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 241"
+        },
+        {
+            "id": "361427",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_242.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/242",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 242"
+        },
+        {
+            "id": "361428",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_243.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/243",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 243"
+        },
+        {
+            "id": "361429",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_244.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/244",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 244"
+        },
+        {
+            "id": "361430",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_245.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/245",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 245"
+        },
+        {
+            "id": "361431",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_246.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/246",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 246"
+        },
+        {
+            "id": "361432",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_247.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/247",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 247"
+        },
+        {
+            "id": "361433",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_248.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/248",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 248"
+        },
+        {
+            "id": "361434",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_249.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/249",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 249"
+        },
+        {
+            "id": "361435",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_250.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/250",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 250"
+        },
+        {
+            "id": "361436",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_251.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/251",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 251"
+        },
+        {
+            "id": "361437",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_252.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/252",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 252"
+        },
+        {
+            "id": "361438",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_253.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/253",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 253"
+        },
+        {
+            "id": "361439",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_254.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/254",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 254"
+        },
+        {
+            "id": "361440",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_255.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/255",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 255"
+        },
+        {
+            "id": "361441",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_256.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/256",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 256"
+        },
+        {
+            "id": "361442",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_257.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/257",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 257"
+        },
+        {
+            "id": "361443",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_258.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/258",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 258"
+        },
+        {
+            "id": "361444",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_259.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/259",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 259"
+        },
+        {
+            "id": "361445",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_260.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/260",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 260"
+        },
+        {
+            "id": "361446",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_261.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/261",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 261"
+        },
+        {
+            "id": "361447",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_262.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/262",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 262"
+        },
+        {
+            "id": "361448",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_263.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/263",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 263"
+        },
+        {
+            "id": "361449",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_264.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/264",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 264"
+        },
+        {
+            "id": "361450",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_265.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/265",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 265"
+        },
+        {
+            "id": "361451",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_266.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/266",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 266"
+        },
+        {
+            "id": "361452",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_267.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/267",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 267"
+        },
+        {
+            "id": "361453",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_268.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/268",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 268"
+        },
+        {
+            "id": "361454",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_269.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/269",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 269"
+        },
+        {
+            "id": "361455",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_270.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/270",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 270"
+        },
+        {
+            "id": "361456",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_271.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/271",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 271"
+        },
+        {
+            "id": "361457",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_272.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/272",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 272"
+        },
+        {
+            "id": "361458",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_273.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/273",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 273"
+        },
+        {
+            "id": "361459",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_274.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/274",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 274"
+        },
+        {
+            "id": "361460",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_275.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/275",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 275"
+        },
+        {
+            "id": "361461",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_276.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/276",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 276"
+        },
+        {
+            "id": "361462",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_277.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/277",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 277"
+        },
+        {
+            "id": "361463",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_278.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/278",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 278"
+        },
+        {
+            "id": "361464",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_279.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/279",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 279"
+        },
+        {
+            "id": "361465",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_280.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/280",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 280"
+        },
+        {
+            "id": "361466",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_281.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/281",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 281"
+        },
+        {
+            "id": "361467",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_282.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/282",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 282"
+        },
+        {
+            "id": "361468",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_283.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/283",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 283"
+        },
+        {
+            "id": "361469",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_284.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/284",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 284"
+        },
+        {
+            "id": "361470",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_285.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/285",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 285"
+        },
+        {
+            "id": "361471",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_286.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/286",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 286"
+        },
+        {
+            "id": "361472",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_287.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/287",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 287"
+        },
+        {
+            "id": "361473",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_288.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/288",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 288"
+        },
+        {
+            "id": "361474",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_289.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/289",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 289"
+        },
+        {
+            "id": "361475",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_290.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/290",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 290"
+        },
+        {
+            "id": "361476",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_291.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/291",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 291"
+        },
+        {
+            "id": "361477",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_292.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/292",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 292"
+        },
+        {
+            "id": "361478",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_293.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/293",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 293"
+        },
+        {
+            "id": "361479",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_294.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/294",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 294"
+        },
+        {
+            "id": "361480",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_295.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/295",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 295"
+        },
+        {
+            "id": "361481",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_296.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/296",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 296"
+        },
+        {
+            "id": "361482",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_297.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/297",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 297"
+        },
+        {
+            "id": "361483",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_298.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/298",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 298"
+        },
+        {
+            "id": "361484",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_299.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/299",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 299"
+        },
+        {
+            "id": "361485",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_300.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/300",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 300"
+        },
+        {
+            "id": "361486",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_999a.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/N1",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. N1"
+        },
+        {
+            "id": "361487",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_999b.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/N2",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. N2"
+        },
+        {
+            "id": "361493",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_e006.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/bindingF",
+            "width": 112.5,
+            "height": 150,
+            "label": "Rear paste-down"
+        },
+        {
+            "id": "361490",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_e003.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/bindingC",
+            "width": 112.5,
+            "height": 150,
+            "label": "Back cover"
+        },
+        {
+            "id": "361489",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_e002.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/bindingB",
+            "width": 112.5,
+            "height": 150,
+            "label": "Spine"
+        },
+        {
+            "id": "361491",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_e004.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/bindingD",
+            "width": 112.5,
+            "height": 150,
+            "label": "Fore edge"
+        },
+        {
+            "id": "361494",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_e007.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/bindingG",
+            "width": 112.5,
+            "height": 150,
+            "label": "Head"
+        },
+        {
+            "id": "361495",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_e008.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/bindingH",
+            "width": 112.5,
+            "height": 150,
+            "label": "Tail"
+        },
+        {
+            "id": "361496",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_MassE.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/bindingRulerE",
+            "width": 112.5,
+            "height": 150,
+            "label": "Ruler on binding"
+        },
+        {
+            "id": "361497",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_MassS.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/bindingRulerS",
+            "width": 112.5,
+            "height": 150,
+            "label": "Ruler on page"
+        },
+        {
+            "id": "361498",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_ProfilE.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/bindingProfileE",
+            "width": 112.5,
+            "height": 150,
+            "label": "QP card on binding"
+        },
+        {
+            "id": "361499",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_ProfilS.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/bindingProfileS",
+            "width": 112.5,
+            "height": 150,
+            "label": "QP card on page"
+        },
+        {
+            "id": "361500",
+            "src": "https://www.e-codices.unifr.ch/loris/sbe/sbe-0319/sbe-0319_ProfilSG.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/sbe/0319/bindingProfileSG",
+            "width": 200,
+            "height": 150,
+            "label": "Digital Colorchecker"
+        }
+    ],
+    "customViewerBackgroundColor": "#000000"
+}

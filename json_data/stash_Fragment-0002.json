@@ -1,0 +1,81 @@
+{
+    "breadcrumbData": {
+        "isVirtualManuscript": false,
+        "primaryManuscript": {
+            "collection": {
+                "label": "Schaffhausen, Staatsarchiv",
+                "url": "https://www.e-codices.unifr.ch/en/search/?iCurrentPage=1&sQueryString=&sSearchField=fullText&sSortField=score&aSelectedFacets[collection_facet][]=Schaffhausen%2C+Staatsarchiv"
+            },
+            "shelfmark": {
+                "label": "Fragment 2",
+                "url": "https://www.e-codices.unifr.ch/en/list/one/stash/Fragment-0002"
+            },
+            "title": {
+                "label": "Collectio canonum Dionysio-Hadriana"
+            },
+            "page": {
+                "label": "Thumbnails"
+            }
+        }
+    },
+    "canvases": [
+        {
+            "id": "380520",
+            "src": "https://www.e-codices.unifr.ch/loris/stash/stash-Fragment-0002/stash-Fragment-0002_001.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/stash/Fragment-0002/1",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 1",
+            "active": true
+        },
+        {
+            "id": "380521",
+            "src": "https://www.e-codices.unifr.ch/loris/stash/stash-Fragment-0002/stash-Fragment-0002_002.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/stash/Fragment-0002/2",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 2"
+        },
+        {
+            "id": "380522",
+            "src": "https://www.e-codices.unifr.ch/loris/stash/stash-Fragment-0002/stash-Fragment-0002_003.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/stash/Fragment-0002/3",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 3"
+        },
+        {
+            "id": "380523",
+            "src": "https://www.e-codices.unifr.ch/loris/stash/stash-Fragment-0002/stash-Fragment-0002_004.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/stash/Fragment-0002/4",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 4"
+        },
+        {
+            "id": "380524",
+            "src": "https://www.e-codices.unifr.ch/loris/stash/stash-Fragment-0002/stash-Fragment-0002_MassS.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/stash/Fragment-0002/bindingRulerS",
+            "width": 112.5,
+            "height": 150,
+            "label": "Ruler on page"
+        },
+        {
+            "id": "380525",
+            "src": "https://www.e-codices.unifr.ch/loris/stash/stash-Fragment-0002/stash-Fragment-0002_ProfilS.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/stash/Fragment-0002/bindingProfileS",
+            "width": 112.5,
+            "height": 150,
+            "label": "QP card on page"
+        },
+        {
+            "id": "380526",
+            "src": "https://www.e-codices.unifr.ch/loris/stash/stash-Fragment-0002/stash-Fragment-0002_ProfilSG.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/stash/Fragment-0002/bindingProfileSG",
+            "width": 200,
+            "height": 150,
+            "label": "Digital Colorchecker"
+        }
+    ],
+    "customViewerBackgroundColor": "#000000"
+}

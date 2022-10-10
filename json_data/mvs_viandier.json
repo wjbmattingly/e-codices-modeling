@@ -1,0 +1,65 @@
+{
+    "breadcrumbData": {
+        "isVirtualManuscript": false,
+        "primaryManuscript": {
+            "collection": {
+                "label": "Sion/Sitten, M\u00e9diath\u00e8que Valais",
+                "url": "https://www.e-codices.unifr.ch/en/search/?iCurrentPage=1&sQueryString=&sSearchField=fullText&sSortField=score&aSelectedFacets[collection_facet][]=Sion%2FSitten%2C+M%C3%A9diath%C3%A8que+Valais"
+            },
+            "shelfmark": {
+                "label": "S 108",
+                "url": "https://www.e-codices.unifr.ch/en/list/one/mvs/viandier"
+            },
+            "title": {
+                "label": "Viandier"
+            },
+            "page": {
+                "label": "Thumbnails"
+            }
+        }
+    },
+    "canvases": [
+        {
+            "id": "339402",
+            "src": "https://www.e-codices.unifr.ch/loris/mvs/mvs-viandier/mvs-viandier_rouleau_recto.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/mvs/viandier/recto",
+            "width": 11.810126582278482,
+            "height": 150,
+            "label": "f. recto",
+            "active": true
+        },
+        {
+            "id": "339403",
+            "src": "https://www.e-codices.unifr.ch/loris/mvs/mvs-viandier/mvs-viandier_rouleau_verso.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/mvs/viandier/verso",
+            "width": 11.971117304281734,
+            "height": 150,
+            "label": "f. verso"
+        },
+        {
+            "id": "339404",
+            "src": "https://www.e-codices.unifr.ch/loris/mvs/mvs-viandier/mvs-viandier_MassS.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/mvs/viandier/bindingRulerS",
+            "width": 200,
+            "height": 150,
+            "label": "Ruler on page"
+        },
+        {
+            "id": "339405",
+            "src": "https://www.e-codices.unifr.ch/loris/mvs/mvs-viandier/mvs-viandier_ProfilS.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/mvs/viandier/bindingProfileS",
+            "width": 200,
+            "height": 150,
+            "label": "QP card on page"
+        },
+        {
+            "id": "339406",
+            "src": "https://www.e-codices.unifr.ch/loris/mvs/mvs-viandier/mvs-viandier_ProfilSG.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/mvs/viandier/bindingProfileSG",
+            "width": 200,
+            "height": 150,
+            "label": "Digital Colorchecker"
+        }
+    ],
+    "customViewerBackgroundColor": "#000000"
+}

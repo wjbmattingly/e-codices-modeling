@@ -1,0 +1,65 @@
+{
+    "breadcrumbData": {
+        "isVirtualManuscript": false,
+        "primaryManuscript": {
+            "collection": {
+                "label": "Schaffhausen, Staatsarchiv",
+                "url": "https://www.e-codices.unifr.ch/en/search/?iCurrentPage=1&sQueryString=&sSearchField=fullText&sSortField=score&aSelectedFacets[collection_facet][]=Schaffhausen%2C+Staatsarchiv"
+            },
+            "shelfmark": {
+                "label": "Fragment 3",
+                "url": "https://www.e-codices.unifr.ch/en/list/one/stash/Fragment-0003"
+            },
+            "title": {
+                "label": "Rudolf von Ems"
+            },
+            "page": {
+                "label": "Thumbnails"
+            }
+        }
+    },
+    "canvases": [
+        {
+            "id": "380527",
+            "src": "https://www.e-codices.unifr.ch/loris/stash/stash-Fragment-0003/stash-Fragment-0003_001.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/stash/Fragment-0003/1",
+            "width": 200,
+            "height": 150,
+            "label": "f. 1",
+            "active": true
+        },
+        {
+            "id": "380528",
+            "src": "https://www.e-codices.unifr.ch/loris/stash/stash-Fragment-0003/stash-Fragment-0003_002.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/stash/Fragment-0003/2",
+            "width": 200,
+            "height": 150,
+            "label": "f. 2"
+        },
+        {
+            "id": "380529",
+            "src": "https://www.e-codices.unifr.ch/loris/stash/stash-Fragment-0003/stash-Fragment-0003_MassS.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/stash/Fragment-0003/bindingRulerS",
+            "width": 200,
+            "height": 150,
+            "label": "Ruler on page"
+        },
+        {
+            "id": "380530",
+            "src": "https://www.e-codices.unifr.ch/loris/stash/stash-Fragment-0003/stash-Fragment-0003_ProfilS.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/stash/Fragment-0003/bindingProfileS",
+            "width": 200,
+            "height": 150,
+            "label": "QP card on page"
+        },
+        {
+            "id": "380531",
+            "src": "https://www.e-codices.unifr.ch/loris/stash/stash-Fragment-0003/stash-Fragment-0003_ProfilSG.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/stash/Fragment-0003/bindingProfileSG",
+            "width": 200,
+            "height": 150,
+            "label": "Digital Colorchecker"
+        }
+    ],
+    "customViewerBackgroundColor": "#000000"
+}

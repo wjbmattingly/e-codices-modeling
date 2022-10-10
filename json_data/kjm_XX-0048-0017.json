@@ -1,0 +1,65 @@
+{
+    "breadcrumbData": {
+        "isVirtualManuscript": false,
+        "primaryManuscript": {
+            "collection": {
+                "label": "M\u00fcstair, Benediktinerinnenkloster St. Johann",
+                "url": "https://www.e-codices.unifr.ch/en/search/?iCurrentPage=1&sQueryString=&sSearchField=fullText&sSortField=score&aSelectedFacets[collection_facet][]=M%C3%BCstair%2C+Benediktinerinnenkloster+St.+Johann"
+            },
+            "shelfmark": {
+                "label": "XX/48 Nr. 17",
+                "url": "https://www.e-codices.unifr.ch/en/list/one/kjm/XX-0048-0017"
+            },
+            "title": {
+                "label": "Leviticus 15-18"
+            },
+            "page": {
+                "label": "Thumbnails"
+            }
+        }
+    },
+    "canvases": [
+        {
+            "id": "692285",
+            "src": "https://www.e-codices.unifr.ch/loris/kjm/kjm-XX-0048-0017/kjm-XX-0048-0017_001r.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/kjm/XX-0048-0017/1r",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 1r",
+            "active": true
+        },
+        {
+            "id": "692286",
+            "src": "https://www.e-codices.unifr.ch/loris/kjm/kjm-XX-0048-0017/kjm-XX-0048-0017_001v.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/kjm/XX-0048-0017/1v",
+            "width": 112.5,
+            "height": 150,
+            "label": "f. 1v"
+        },
+        {
+            "id": "692287",
+            "src": "https://www.e-codices.unifr.ch/loris/kjm/kjm-XX-0048-0017/kjm-XX-0048-0017_MassS.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/kjm/XX-0048-0017/bindingRulerS",
+            "width": 112.5,
+            "height": 150,
+            "label": "Ruler on page"
+        },
+        {
+            "id": "692288",
+            "src": "https://www.e-codices.unifr.ch/loris/kjm/kjm-XX-0048-0017/kjm-XX-0048-0017_ProfilS.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/kjm/XX-0048-0017/bindingProfileS",
+            "width": 112.5,
+            "height": 150,
+            "label": "QP card on page"
+        },
+        {
+            "id": "692289",
+            "src": "https://www.e-codices.unifr.ch/loris/kjm/kjm-XX-0048-0017/kjm-XX-0048-0017_ProfilSG.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/kjm/XX-0048-0017/bindingProfileSG",
+            "width": 200,
+            "height": 150,
+            "label": "Digital Colorchecker"
+        }
+    ],
+    "customViewerBackgroundColor": "#000000"
+}

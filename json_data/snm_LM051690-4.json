@@ -1,0 +1,57 @@
+{
+    "breadcrumbData": {
+        "isVirtualManuscript": false,
+        "primaryManuscript": {
+            "collection": {
+                "label": "Z\u00fcrich, Schweizerisches Nationalmuseum",
+                "url": "https://www.e-codices.unifr.ch/en/search/?iCurrentPage=1&sQueryString=&sSearchField=fullText&sSortField=score&aSelectedFacets[collection_facet][]=Z%C3%BCrich%2C+Schweizerisches+Nationalmuseum"
+            },
+            "shelfmark": {
+                "label": "LM 51690.4",
+                "url": "https://www.e-codices.unifr.ch/en/list/one/snm/LM051690-4"
+            },
+            "title": {
+                "label": "Fragment from a Book of Hours"
+            },
+            "page": {
+                "label": "Thumbnails"
+            }
+        }
+    },
+    "canvases": [
+        {
+            "id": "595475",
+            "src": "https://www.e-codices.unifr.ch/loris/snm/snm-LM051690-4/snm-LM051690-4_frag_recto.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/snm/LM051690-4/recto",
+            "width": 112.5,
+            "height": 150,
+            "label": "Recto",
+            "active": true
+        },
+        {
+            "id": "595476",
+            "src": "https://www.e-codices.unifr.ch/loris/snm/snm-LM051690-4/snm-LM051690-4_frag_verso.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/snm/LM051690-4/verso",
+            "width": 112.5,
+            "height": 150,
+            "label": "Verso"
+        },
+        {
+            "id": "595477",
+            "src": "https://www.e-codices.unifr.ch/loris/snm/snm-LM051690-4/snm-LM051690-4_Profil.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/snm/LM051690-4/bindingProfile",
+            "width": 112.5,
+            "height": 150,
+            "label": "Color profile"
+        },
+        {
+            "id": "595478",
+            "src": "https://www.e-codices.unifr.ch/loris/snm/snm-LM051690-4/snm-LM051690-4_ProfilSG.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/snm/LM051690-4/bindingProfileSG",
+            "width": 200,
+            "height": 150,
+            "label": "Digital Colorchecker"
+        }
+    ],
+    "customViewerBackgroundColor": "#000000"
+}

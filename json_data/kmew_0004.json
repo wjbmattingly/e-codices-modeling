@@ -1,0 +1,953 @@
+{
+    "breadcrumbData": {
+        "isVirtualManuscript": false,
+        "primaryManuscript": {
+            "collection": {
+                "label": "Wattwil, Kloster Maria der Engel Wattwil",
+                "url": "https://www.e-codices.unifr.ch/en/search/?iCurrentPage=1&sQueryString=&sSearchField=fullText&sSortField=score&aSelectedFacets[collection_facet][]=Wattwil%2C+Kloster+Maria+der+Engel+Wattwil"
+            },
+            "shelfmark": {
+                "label": "Ms. 4",
+                "url": "https://www.e-codices.unifr.ch/en/list/one/kmew/0004"
+            },
+            "title": {
+                "label": "Herbal"
+            },
+            "page": {
+                "label": "Thumbnails"
+            }
+        }
+    },
+    "canvases": [
+        {
+            "id": "893218",
+            "src": "https://www.e-codices.unifr.ch/loris/kmew/kmew-0004/kmew-0004_e001.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/kmew/0004/bindingA",
+            "width": 112.5,
+            "height": 150,
+            "label": "Front cover",
+            "active": true
+        },
+        {
+            "id": "893219",
+            "src": "https://www.e-codices.unifr.ch/loris/kmew/kmew-0004/kmew-0004_e005.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/kmew/0004/bindingE",
+            "width": 112.5,
+            "height": 150,
+            "label": "Front paste-down"
+        },
+        {
+            "id": "893220",
+            "src": "https://www.e-codices.unifr.ch/loris/kmew/kmew-0004/kmew-0004_0000_0001.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/kmew/0004/V1",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. V1"
+        },
+        {
+            "id": "893221",
+            "src": "https://www.e-codices.unifr.ch/loris/kmew/kmew-0004/kmew-0004_0000_0002.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/kmew/0004/V2",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. V2"
+        },
+        {
+            "id": "893222",
+            "src": "https://www.e-codices.unifr.ch/loris/kmew/kmew-0004/kmew-0004_0001.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/kmew/0004/1",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 1"
+        },
+        {
+            "id": "893223",
+            "src": "https://www.e-codices.unifr.ch/loris/kmew/kmew-0004/kmew-0004_0002.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/kmew/0004/2",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 2"
+        },
+        {
+            "id": "893224",
+            "src": "https://www.e-codices.unifr.ch/loris/kmew/kmew-0004/kmew-0004_0003.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/kmew/0004/3",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 3"
+        },
+        {
+            "id": "893225",
+            "src": "https://www.e-codices.unifr.ch/loris/kmew/kmew-0004/kmew-0004_0004.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/kmew/0004/4",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 4"
+        },
+        {
+            "id": "893226",
+            "src": "https://www.e-codices.unifr.ch/loris/kmew/kmew-0004/kmew-0004_0005.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/kmew/0004/5",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 5"
+        },
+        {
+            "id": "893227",
+            "src": "https://www.e-codices.unifr.ch/loris/kmew/kmew-0004/kmew-0004_0006.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/kmew/0004/6",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 6"
+        },
+        {
+            "id": "893228",
+            "src": "https://www.e-codices.unifr.ch/loris/kmew/kmew-0004/kmew-0004_0007.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/kmew/0004/7",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 7"
+        },
+        {
+            "id": "893229",
+            "src": "https://www.e-codices.unifr.ch/loris/kmew/kmew-0004/kmew-0004_0008.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/kmew/0004/8",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 8"
+        },
+        {
+            "id": "893230",
+            "src": "https://www.e-codices.unifr.ch/loris/kmew/kmew-0004/kmew-0004_0009.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/kmew/0004/9",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 9"
+        },
+        {
+            "id": "893231",
+            "src": "https://www.e-codices.unifr.ch/loris/kmew/kmew-0004/kmew-0004_0010.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/kmew/0004/10",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 10"
+        },
+        {
+            "id": "893232",
+            "src": "https://www.e-codices.unifr.ch/loris/kmew/kmew-0004/kmew-0004_0011.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/kmew/0004/11",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 11"
+        },
+        {
+            "id": "893233",
+            "src": "https://www.e-codices.unifr.ch/loris/kmew/kmew-0004/kmew-0004_0012.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/kmew/0004/12",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 12"
+        },
+        {
+            "id": "893234",
+            "src": "https://www.e-codices.unifr.ch/loris/kmew/kmew-0004/kmew-0004_0013.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/kmew/0004/13",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 13"
+        },
+        {
+            "id": "893235",
+            "src": "https://www.e-codices.unifr.ch/loris/kmew/kmew-0004/kmew-0004_0014.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/kmew/0004/14",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 14"
+        },
+        {
+            "id": "893236",
+            "src": "https://www.e-codices.unifr.ch/loris/kmew/kmew-0004/kmew-0004_0015.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/kmew/0004/15",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 15"
+        },
+        {
+            "id": "893237",
+            "src": "https://www.e-codices.unifr.ch/loris/kmew/kmew-0004/kmew-0004_0016.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/kmew/0004/16",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 16"
+        },
+        {
+            "id": "893238",
+            "src": "https://www.e-codices.unifr.ch/loris/kmew/kmew-0004/kmew-0004_0017.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/kmew/0004/17",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 17"
+        },
+        {
+            "id": "893239",
+            "src": "https://www.e-codices.unifr.ch/loris/kmew/kmew-0004/kmew-0004_0018.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/kmew/0004/18",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 18"
+        },
+        {
+            "id": "893240",
+            "src": "https://www.e-codices.unifr.ch/loris/kmew/kmew-0004/kmew-0004_0019.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/kmew/0004/19",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 19"
+        },
+        {
+            "id": "893241",
+            "src": "https://www.e-codices.unifr.ch/loris/kmew/kmew-0004/kmew-0004_0020.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/kmew/0004/20",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 20"
+        },
+        {
+            "id": "893242",
+            "src": "https://www.e-codices.unifr.ch/loris/kmew/kmew-0004/kmew-0004_0021.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/kmew/0004/21",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 21"
+        },
+        {
+            "id": "893243",
+            "src": "https://www.e-codices.unifr.ch/loris/kmew/kmew-0004/kmew-0004_0022.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/kmew/0004/22",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 22"
+        },
+        {
+            "id": "893244",
+            "src": "https://www.e-codices.unifr.ch/loris/kmew/kmew-0004/kmew-0004_0023.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/kmew/0004/23",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 23"
+        },
+        {
+            "id": "893245",
+            "src": "https://www.e-codices.unifr.ch/loris/kmew/kmew-0004/kmew-0004_0024.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/kmew/0004/24",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 24"
+        },
+        {
+            "id": "893246",
+            "src": "https://www.e-codices.unifr.ch/loris/kmew/kmew-0004/kmew-0004_0025.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/kmew/0004/25",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 25"
+        },
+        {
+            "id": "893247",
+            "src": "https://www.e-codices.unifr.ch/loris/kmew/kmew-0004/kmew-0004_0026.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/kmew/0004/26",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 26"
+        },
+        {
+            "id": "893248",
+            "src": "https://www.e-codices.unifr.ch/loris/kmew/kmew-0004/kmew-0004_0027.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/kmew/0004/27",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 27"
+        },
+        {
+            "id": "893249",
+            "src": "https://www.e-codices.unifr.ch/loris/kmew/kmew-0004/kmew-0004_0028.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/kmew/0004/28",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 28"
+        },
+        {
+            "id": "893250",
+            "src": "https://www.e-codices.unifr.ch/loris/kmew/kmew-0004/kmew-0004_0029.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/kmew/0004/29",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 29"
+        },
+        {
+            "id": "893251",
+            "src": "https://www.e-codices.unifr.ch/loris/kmew/kmew-0004/kmew-0004_0030.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/kmew/0004/30",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 30"
+        },
+        {
+            "id": "893252",
+            "src": "https://www.e-codices.unifr.ch/loris/kmew/kmew-0004/kmew-0004_0031.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/kmew/0004/31",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 31"
+        },
+        {
+            "id": "893253",
+            "src": "https://www.e-codices.unifr.ch/loris/kmew/kmew-0004/kmew-0004_0032.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/kmew/0004/32",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 32"
+        },
+        {
+            "id": "893254",
+            "src": "https://www.e-codices.unifr.ch/loris/kmew/kmew-0004/kmew-0004_0033.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/kmew/0004/33",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 33"
+        },
+        {
+            "id": "893255",
+            "src": "https://www.e-codices.unifr.ch/loris/kmew/kmew-0004/kmew-0004_0034.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/kmew/0004/34",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 34"
+        },
+        {
+            "id": "893256",
+            "src": "https://www.e-codices.unifr.ch/loris/kmew/kmew-0004/kmew-0004_0035.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/kmew/0004/35",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 35"
+        },
+        {
+            "id": "893257",
+            "src": "https://www.e-codices.unifr.ch/loris/kmew/kmew-0004/kmew-0004_0036.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/kmew/0004/36",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 36"
+        },
+        {
+            "id": "893258",
+            "src": "https://www.e-codices.unifr.ch/loris/kmew/kmew-0004/kmew-0004_0037.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/kmew/0004/37",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 37"
+        },
+        {
+            "id": "893259",
+            "src": "https://www.e-codices.unifr.ch/loris/kmew/kmew-0004/kmew-0004_0038.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/kmew/0004/38",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 38"
+        },
+        {
+            "id": "893260",
+            "src": "https://www.e-codices.unifr.ch/loris/kmew/kmew-0004/kmew-0004_0039.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/kmew/0004/39",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 39"
+        },
+        {
+            "id": "893261",
+            "src": "https://www.e-codices.unifr.ch/loris/kmew/kmew-0004/kmew-0004_0040.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/kmew/0004/40",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 40"
+        },
+        {
+            "id": "893262",
+            "src": "https://www.e-codices.unifr.ch/loris/kmew/kmew-0004/kmew-0004_0041.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/kmew/0004/41",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 41"
+        },
+        {
+            "id": "893263",
+            "src": "https://www.e-codices.unifr.ch/loris/kmew/kmew-0004/kmew-0004_0042.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/kmew/0004/42",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 42"
+        },
+        {
+            "id": "893264",
+            "src": "https://www.e-codices.unifr.ch/loris/kmew/kmew-0004/kmew-0004_0043.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/kmew/0004/43",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 43"
+        },
+        {
+            "id": "893265",
+            "src": "https://www.e-codices.unifr.ch/loris/kmew/kmew-0004/kmew-0004_0044.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/kmew/0004/44",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 44"
+        },
+        {
+            "id": "893266",
+            "src": "https://www.e-codices.unifr.ch/loris/kmew/kmew-0004/kmew-0004_0045.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/kmew/0004/45",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 45"
+        },
+        {
+            "id": "893267",
+            "src": "https://www.e-codices.unifr.ch/loris/kmew/kmew-0004/kmew-0004_0046.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/kmew/0004/46",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 46"
+        },
+        {
+            "id": "893268",
+            "src": "https://www.e-codices.unifr.ch/loris/kmew/kmew-0004/kmew-0004_0047.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/kmew/0004/47",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 47"
+        },
+        {
+            "id": "893269",
+            "src": "https://www.e-codices.unifr.ch/loris/kmew/kmew-0004/kmew-0004_0048.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/kmew/0004/48",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 48"
+        },
+        {
+            "id": "893270",
+            "src": "https://www.e-codices.unifr.ch/loris/kmew/kmew-0004/kmew-0004_0049.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/kmew/0004/49",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 49"
+        },
+        {
+            "id": "893271",
+            "src": "https://www.e-codices.unifr.ch/loris/kmew/kmew-0004/kmew-0004_0050.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/kmew/0004/50",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 50"
+        },
+        {
+            "id": "893272",
+            "src": "https://www.e-codices.unifr.ch/loris/kmew/kmew-0004/kmew-0004_0051.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/kmew/0004/51",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 51"
+        },
+        {
+            "id": "893273",
+            "src": "https://www.e-codices.unifr.ch/loris/kmew/kmew-0004/kmew-0004_0052.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/kmew/0004/52",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 52"
+        },
+        {
+            "id": "893274",
+            "src": "https://www.e-codices.unifr.ch/loris/kmew/kmew-0004/kmew-0004_0053.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/kmew/0004/53",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 53"
+        },
+        {
+            "id": "893275",
+            "src": "https://www.e-codices.unifr.ch/loris/kmew/kmew-0004/kmew-0004_0054.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/kmew/0004/54",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 54"
+        },
+        {
+            "id": "893276",
+            "src": "https://www.e-codices.unifr.ch/loris/kmew/kmew-0004/kmew-0004_0055.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/kmew/0004/55",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 55"
+        },
+        {
+            "id": "893277",
+            "src": "https://www.e-codices.unifr.ch/loris/kmew/kmew-0004/kmew-0004_0056.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/kmew/0004/56",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 56"
+        },
+        {
+            "id": "893278",
+            "src": "https://www.e-codices.unifr.ch/loris/kmew/kmew-0004/kmew-0004_0057.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/kmew/0004/57",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 57"
+        },
+        {
+            "id": "893279",
+            "src": "https://www.e-codices.unifr.ch/loris/kmew/kmew-0004/kmew-0004_0058.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/kmew/0004/58",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 58"
+        },
+        {
+            "id": "893280",
+            "src": "https://www.e-codices.unifr.ch/loris/kmew/kmew-0004/kmew-0004_0059.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/kmew/0004/59",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 59"
+        },
+        {
+            "id": "893281",
+            "src": "https://www.e-codices.unifr.ch/loris/kmew/kmew-0004/kmew-0004_0060.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/kmew/0004/60",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 60"
+        },
+        {
+            "id": "893282",
+            "src": "https://www.e-codices.unifr.ch/loris/kmew/kmew-0004/kmew-0004_0061.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/kmew/0004/61",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 61"
+        },
+        {
+            "id": "893283",
+            "src": "https://www.e-codices.unifr.ch/loris/kmew/kmew-0004/kmew-0004_0062.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/kmew/0004/62",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 62"
+        },
+        {
+            "id": "893284",
+            "src": "https://www.e-codices.unifr.ch/loris/kmew/kmew-0004/kmew-0004_0063.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/kmew/0004/63",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 63"
+        },
+        {
+            "id": "893285",
+            "src": "https://www.e-codices.unifr.ch/loris/kmew/kmew-0004/kmew-0004_0064.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/kmew/0004/64",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 64"
+        },
+        {
+            "id": "893286",
+            "src": "https://www.e-codices.unifr.ch/loris/kmew/kmew-0004/kmew-0004_0065.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/kmew/0004/65",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 65"
+        },
+        {
+            "id": "893287",
+            "src": "https://www.e-codices.unifr.ch/loris/kmew/kmew-0004/kmew-0004_0066.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/kmew/0004/66",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 66"
+        },
+        {
+            "id": "893288",
+            "src": "https://www.e-codices.unifr.ch/loris/kmew/kmew-0004/kmew-0004_0067.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/kmew/0004/67",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 67"
+        },
+        {
+            "id": "893289",
+            "src": "https://www.e-codices.unifr.ch/loris/kmew/kmew-0004/kmew-0004_0068.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/kmew/0004/68",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 68"
+        },
+        {
+            "id": "893290",
+            "src": "https://www.e-codices.unifr.ch/loris/kmew/kmew-0004/kmew-0004_0069.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/kmew/0004/69",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 69"
+        },
+        {
+            "id": "893291",
+            "src": "https://www.e-codices.unifr.ch/loris/kmew/kmew-0004/kmew-0004_0070.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/kmew/0004/70",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 70"
+        },
+        {
+            "id": "893292",
+            "src": "https://www.e-codices.unifr.ch/loris/kmew/kmew-0004/kmew-0004_0071.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/kmew/0004/71",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 71"
+        },
+        {
+            "id": "893293",
+            "src": "https://www.e-codices.unifr.ch/loris/kmew/kmew-0004/kmew-0004_0072.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/kmew/0004/72",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 72"
+        },
+        {
+            "id": "893294",
+            "src": "https://www.e-codices.unifr.ch/loris/kmew/kmew-0004/kmew-0004_0073.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/kmew/0004/73",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 73"
+        },
+        {
+            "id": "893295",
+            "src": "https://www.e-codices.unifr.ch/loris/kmew/kmew-0004/kmew-0004_0074.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/kmew/0004/74",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 74"
+        },
+        {
+            "id": "893296",
+            "src": "https://www.e-codices.unifr.ch/loris/kmew/kmew-0004/kmew-0004_0075.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/kmew/0004/75",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 75"
+        },
+        {
+            "id": "893297",
+            "src": "https://www.e-codices.unifr.ch/loris/kmew/kmew-0004/kmew-0004_0076.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/kmew/0004/76",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 76"
+        },
+        {
+            "id": "893298",
+            "src": "https://www.e-codices.unifr.ch/loris/kmew/kmew-0004/kmew-0004_0077.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/kmew/0004/77",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 77"
+        },
+        {
+            "id": "893299",
+            "src": "https://www.e-codices.unifr.ch/loris/kmew/kmew-0004/kmew-0004_0078.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/kmew/0004/78",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 78"
+        },
+        {
+            "id": "893300",
+            "src": "https://www.e-codices.unifr.ch/loris/kmew/kmew-0004/kmew-0004_0079.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/kmew/0004/79",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 79"
+        },
+        {
+            "id": "893301",
+            "src": "https://www.e-codices.unifr.ch/loris/kmew/kmew-0004/kmew-0004_0080.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/kmew/0004/80",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 80"
+        },
+        {
+            "id": "893302",
+            "src": "https://www.e-codices.unifr.ch/loris/kmew/kmew-0004/kmew-0004_0081.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/kmew/0004/81",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 81"
+        },
+        {
+            "id": "893303",
+            "src": "https://www.e-codices.unifr.ch/loris/kmew/kmew-0004/kmew-0004_0082.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/kmew/0004/82",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 82"
+        },
+        {
+            "id": "893304",
+            "src": "https://www.e-codices.unifr.ch/loris/kmew/kmew-0004/kmew-0004_0083.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/kmew/0004/83",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 83"
+        },
+        {
+            "id": "893305",
+            "src": "https://www.e-codices.unifr.ch/loris/kmew/kmew-0004/kmew-0004_0084.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/kmew/0004/84",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 84"
+        },
+        {
+            "id": "893306",
+            "src": "https://www.e-codices.unifr.ch/loris/kmew/kmew-0004/kmew-0004_0085.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/kmew/0004/85",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 85"
+        },
+        {
+            "id": "893307",
+            "src": "https://www.e-codices.unifr.ch/loris/kmew/kmew-0004/kmew-0004_0086.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/kmew/0004/86",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 86"
+        },
+        {
+            "id": "893308",
+            "src": "https://www.e-codices.unifr.ch/loris/kmew/kmew-0004/kmew-0004_0087.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/kmew/0004/87",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 87"
+        },
+        {
+            "id": "893309",
+            "src": "https://www.e-codices.unifr.ch/loris/kmew/kmew-0004/kmew-0004_0088.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/kmew/0004/88",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 88"
+        },
+        {
+            "id": "893310",
+            "src": "https://www.e-codices.unifr.ch/loris/kmew/kmew-0004/kmew-0004_0089.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/kmew/0004/89",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 89"
+        },
+        {
+            "id": "893311",
+            "src": "https://www.e-codices.unifr.ch/loris/kmew/kmew-0004/kmew-0004_0090.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/kmew/0004/90",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 90"
+        },
+        {
+            "id": "893312",
+            "src": "https://www.e-codices.unifr.ch/loris/kmew/kmew-0004/kmew-0004_0091.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/kmew/0004/91",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 91"
+        },
+        {
+            "id": "893313",
+            "src": "https://www.e-codices.unifr.ch/loris/kmew/kmew-0004/kmew-0004_0092.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/kmew/0004/92",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 92"
+        },
+        {
+            "id": "893314",
+            "src": "https://www.e-codices.unifr.ch/loris/kmew/kmew-0004/kmew-0004_0093.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/kmew/0004/93",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 93"
+        },
+        {
+            "id": "893315",
+            "src": "https://www.e-codices.unifr.ch/loris/kmew/kmew-0004/kmew-0004_0094.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/kmew/0004/94",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 94"
+        },
+        {
+            "id": "893316",
+            "src": "https://www.e-codices.unifr.ch/loris/kmew/kmew-0004/kmew-0004_0095.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/kmew/0004/95",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 95"
+        },
+        {
+            "id": "893317",
+            "src": "https://www.e-codices.unifr.ch/loris/kmew/kmew-0004/kmew-0004_0096.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/kmew/0004/96",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 96"
+        },
+        {
+            "id": "893318",
+            "src": "https://www.e-codices.unifr.ch/loris/kmew/kmew-0004/kmew-0004_0097.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/kmew/0004/97",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 97"
+        },
+        {
+            "id": "893319",
+            "src": "https://www.e-codices.unifr.ch/loris/kmew/kmew-0004/kmew-0004_0098.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/kmew/0004/98",
+            "width": 112.5,
+            "height": 150,
+            "label": "p. 98"
+        },
+        {
+            "id": "893320",
+            "src": "https://www.e-codices.unifr.ch/loris/kmew/kmew-0004/kmew-0004_e006.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/kmew/0004/bindingF",
+            "width": 112.5,
+            "height": 150,
+            "label": "Rear paste-down"
+        },
+        {
+            "id": "893321",
+            "src": "https://www.e-codices.unifr.ch/loris/kmew/kmew-0004/kmew-0004_e003.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/kmew/0004/bindingC",
+            "width": 112.5,
+            "height": 150,
+            "label": "Back cover"
+        },
+        {
+            "id": "893322",
+            "src": "https://www.e-codices.unifr.ch/loris/kmew/kmew-0004/kmew-0004_e002.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/kmew/0004/bindingB",
+            "width": 112.5,
+            "height": 150,
+            "label": "Spine"
+        },
+        {
+            "id": "893323",
+            "src": "https://www.e-codices.unifr.ch/loris/kmew/kmew-0004/kmew-0004_e004.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/kmew/0004/bindingD",
+            "width": 112.5,
+            "height": 150,
+            "label": "Fore edge"
+        },
+        {
+            "id": "893324",
+            "src": "https://www.e-codices.unifr.ch/loris/kmew/kmew-0004/kmew-0004_e007.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/kmew/0004/bindingG",
+            "width": 112.5,
+            "height": 150,
+            "label": "Head"
+        },
+        {
+            "id": "893325",
+            "src": "https://www.e-codices.unifr.ch/loris/kmew/kmew-0004/kmew-0004_e008.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/kmew/0004/bindingH",
+            "width": 112.5,
+            "height": 150,
+            "label": "Tail"
+        },
+        {
+            "id": "893326",
+            "src": "https://www.e-codices.unifr.ch/loris/kmew/kmew-0004/kmew-0004_e009.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/kmew/0004/bindingI",
+            "width": 200,
+            "height": 150,
+            "label": "View front cover"
+        },
+        {
+            "id": "893327",
+            "src": "https://www.e-codices.unifr.ch/loris/kmew/kmew-0004/kmew-0004_e010.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/kmew/0004/bindingJ",
+            "width": 200,
+            "height": 150,
+            "label": "View back cover"
+        },
+        {
+            "id": "893328",
+            "src": "https://www.e-codices.unifr.ch/loris/kmew/kmew-0004/kmew-0004_e011.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/kmew/0004/bindingK",
+            "width": 200,
+            "height": 150,
+            "label": "Open view"
+        },
+        {
+            "id": "893329",
+            "src": "https://www.e-codices.unifr.ch/loris/kmew/kmew-0004/kmew-0004_MassE.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/kmew/0004/bindingRulerE",
+            "width": 112.5,
+            "height": 150,
+            "label": "Ruler on binding"
+        },
+        {
+            "id": "893330",
+            "src": "https://www.e-codices.unifr.ch/loris/kmew/kmew-0004/kmew-0004_MassS.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/kmew/0004/bindingRulerS",
+            "width": 112.5,
+            "height": 150,
+            "label": "Ruler on page"
+        },
+        {
+            "id": "893331",
+            "src": "https://www.e-codices.unifr.ch/loris/kmew/kmew-0004/kmew-0004_ProfilE.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/kmew/0004/bindingProfileE",
+            "width": 112.5,
+            "height": 150,
+            "label": "QP card on binding"
+        },
+        {
+            "id": "893332",
+            "src": "https://www.e-codices.unifr.ch/loris/kmew/kmew-0004/kmew-0004_ProfilS.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/kmew/0004/bindingProfileS",
+            "width": 112.5,
+            "height": 150,
+            "label": "QP card on page"
+        },
+        {
+            "id": "893333",
+            "src": "https://www.e-codices.unifr.ch/loris/kmew/kmew-0004/kmew-0004_ProfilSG.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/kmew/0004/bindingProfileSG",
+            "width": 200,
+            "height": 150,
+            "label": "Digital Colorchecker"
+        }
+    ],
+    "customViewerBackgroundColor": "#000000"
+}

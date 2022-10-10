@@ -1,0 +1,57 @@
+{
+    "breadcrumbData": {
+        "isVirtualManuscript": false,
+        "primaryManuscript": {
+            "collection": {
+                "label": "Solothurn, Staatsarchiv",
+                "url": "https://www.e-codices.unifr.ch/en/search/?iCurrentPage=1&sQueryString=&sSearchField=fullText&sSortField=score&aSelectedFacets[collection_facet][]=Solothurn%2C+Staatsarchiv"
+            },
+            "shelfmark": {
+                "label": "R 1.1.10",
+                "url": "https://www.e-codices.unifr.ch/en/list/one/staso/R0001-0001-0010"
+            },
+            "title": {
+                "label": "Boethius, De institutione musica (Liber\u2026"
+            },
+            "page": {
+                "label": "Thumbnails"
+            }
+        }
+    },
+    "canvases": [
+        {
+            "id": "576087",
+            "src": "https://www.e-codices.unifr.ch/loris/staso/staso-R0001-0001-0010/staso-R0001-0001-0010_001.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/staso/R0001-0001-0010/1",
+            "width": 200,
+            "height": 150,
+            "label": "f. 1",
+            "active": true
+        },
+        {
+            "id": "576088",
+            "src": "https://www.e-codices.unifr.ch/loris/staso/staso-R0001-0001-0010/staso-R0001-0001-0010_002.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/staso/R0001-0001-0010/2",
+            "width": 200,
+            "height": 150,
+            "label": "f. 2"
+        },
+        {
+            "id": "576089",
+            "src": "https://www.e-codices.unifr.ch/loris/staso/staso-R0001-0001-0010/staso-R0001-0001-0010_ProfilS.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/staso/R0001-0001-0010/bindingProfileS",
+            "width": 200,
+            "height": 150,
+            "label": "QP card on page"
+        },
+        {
+            "id": "576090",
+            "src": "https://www.e-codices.unifr.ch/loris/staso/staso-R0001-0001-0010/staso-R0001-0001-0010_ProfilSG.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/staso/R0001-0001-0010/bindingProfileSG",
+            "width": 200,
+            "height": 150,
+            "label": "Digital Colorchecker"
+        }
+    ],
+    "customViewerBackgroundColor": "#000000"
+}

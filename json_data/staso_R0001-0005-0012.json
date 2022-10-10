@@ -1,0 +1,57 @@
+{
+    "breadcrumbData": {
+        "isVirtualManuscript": false,
+        "primaryManuscript": {
+            "collection": {
+                "label": "Solothurn, Staatsarchiv",
+                "url": "https://www.e-codices.unifr.ch/en/search/?iCurrentPage=1&sQueryString=&sSearchField=fullText&sSortField=score&aSelectedFacets[collection_facet][]=Solothurn%2C+Staatsarchiv"
+            },
+            "shelfmark": {
+                "label": "R 1.5.12",
+                "url": "https://www.e-codices.unifr.ch/en/list/one/staso/R0001-0005-0012"
+            },
+            "title": {
+                "label": "Musica enchiriadis (cap. VII.13-cap. IX.21),\u2026"
+            },
+            "page": {
+                "label": "Thumbnails"
+            }
+        }
+    },
+    "canvases": [
+        {
+            "id": "773397",
+            "src": "https://www.e-codices.unifr.ch/loris/staso/staso-R0001-0005-0012/staso-R0001-0005-0012_0001.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/staso/R0001-0005-0012/1",
+            "width": 200,
+            "height": 150,
+            "label": "f. 1",
+            "active": true
+        },
+        {
+            "id": "773398",
+            "src": "https://www.e-codices.unifr.ch/loris/staso/staso-R0001-0005-0012/staso-R0001-0005-0012_0002.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/staso/R0001-0005-0012/2",
+            "width": 200,
+            "height": 150,
+            "label": "f. 2"
+        },
+        {
+            "id": "773399",
+            "src": "https://www.e-codices.unifr.ch/loris/staso/staso-R0001-0005-0012/staso-R0001-0005-0012_ProfilS.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/staso/R0001-0005-0012/bindingProfileS",
+            "width": 200,
+            "height": 150,
+            "label": "QP card on page"
+        },
+        {
+            "id": "773400",
+            "src": "https://www.e-codices.unifr.ch/loris/staso/staso-R0001-0005-0012/staso-R0001-0005-0012_ProfilSG.jp2/full/,150/0/default/jpg",
+            "href": "https://www.e-codices.unifr.ch/en/staso/R0001-0005-0012/bindingProfileSG",
+            "width": 200,
+            "height": 150,
+            "label": "Digital Colorchecker"
+        }
+    ],
+    "customViewerBackgroundColor": "#000000"
+}
